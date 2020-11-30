@@ -1,3 +1,5 @@
 /sentimentdatabase-firebase-adminsdk-u3ll8-f84d6f3c27.json
 /venv/
 /.idea/
+/data/ArticleText/*
+/data/ArticleWords/*
