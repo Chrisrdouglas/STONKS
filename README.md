@@ -3,6 +3,7 @@ The goal for this project is to determine if a news article can be used when mak
 
 # Imports
 Contians a list of commands to be run in the terminal to import all of the necessary packages (setup.py coming later?)
+For now just copy and paste them into a terminal or rename it imports.sh and run it
 
 # RSSconsumer.py
 A script that runs continuously. It will poll the selected RSS feeds every 30 seconds. This will record a link to the article, and the time it was published. The key to getting the article from the database is just a hash of the link.
