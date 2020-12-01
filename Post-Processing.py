@@ -99,3 +99,72 @@ class FB2:
             return True
         return False
 
+def quote(ticker, time):
+    # get the data from AlphaVantage
+    alphaParamaters = {'function': 'TIME_SERIES_INTRADAY',
+         'symbol': ticker,
+         'interval': '1min',
+         'outputsize': 'full',
+         'apikey': '6JLE66WZ12ID4D5L'}
+    query = requests.get("https://www.alphavantage.co/query", alphaParamaters)
+    responses = json.loads(query.text)
+
+    # convert the times into something i can work with
+    times = []
+    for response in responses['Time Series (1min)']:
+        date = datetime.strptime(response, "%Y-%m-%d %H:%M:%S")
+        epoch = date.timestamp() - 10800 # 10800 is the time offset between the east and west coast in seconds
+        times.append((epoch, response))
+
+    # use the given time to find the closest element in the time series
+    closestTime = times[min(range(len(times)), key=lambda x: abs(times[x][0]-time))]
+    closest = closestTime[1]
+    closestEpoch = closestTime[0]
+    averagePrice = (float(responses['Time Series (1min)'][closest]['2. high']) + float(
+        responses['Time Series (1min)'][closest]['3. low'])) / 2.0 # average price for that minute
+
+    # calculate the average high price following the price at the time the news was released
+    inDayHigh = 0.0
+    for epoch in times:
+        if epoch[0] > closestEpoch:
+            inDayHigh = max(inDayHigh, float(responses['Time Series (1min)'][epoch[1]]['2. high']))
+            highTime = epoch[0]
+    if inDayHigh == 0.0:
+        inDayHigh = averagePrice
+        highTime = closestEpoch
+
+    return (averagePrice, inDayHigh, highTime)
+
+
+tNow = datetime.now()
+
+marketOpenDelta = timedelta(hours=1)
+marketCloseDelta = timedelta(hours=13)
+tDelta = timedelta(days=1, hours=tNow.hour, minutes=tNow.minute, seconds=tNow.second, microseconds=tNow.microsecond)
+midnight = tNow - tDelta
+
+marketOpen = midnight + marketOpenDelta
+marketClose = midnight + marketCloseDelta
+
+
+ns = NewsTools()
+fb2 = FB2()
+
+articleHashes = fb2.getBetween(midnight, marketClose)
+for i in articleHashes:
+    h = i[0]
+    dic = i[1]
+    nlp = ns.get_text_ticker(dic['link'])
+    if nlp is None:
+        continue
+
+    price, high, highTime = quote(nlp['ticker'], dic['time'])
+
+    results = {'price': price,
+               'ticker': nlp['ticker'],
+               'words': nlp['words'],
+               # 'closing': close,
+               'high': high,
+               'highTime': highTime}
+    fb2.fireSaveArticle2(h, results)
+    time.sleep(15)
