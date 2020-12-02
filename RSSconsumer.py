@@ -156,3 +156,52 @@ def allowedHoursEastCoast(currentTime):
         return True
     return False
 
+fire = FB()
+prev = fire.getPrev()
+rss = RSS()
+
+while True:
+
+    while allowedHoursWestCoast(datetime.now()):#only run during preset hours
+        globalPharma = rss.globalNewsWirePharma()
+        startTime = time()
+        #try:
+        if globalPharma is not None and len(globalPharma) != 0:
+            for links in globalPharma:
+                link = links[0]
+                dt = datetime.strptime(links[1], "%a, %d %b %Y %H:%M GMT") #Get time from rss feed
+                timeDiscovered = int(dt.timestamp() - 25200) #adjust for eastcoast time
+                h = hashlib.md5(link.encode()).hexdigest() #hash the link so we can use it as a key
+                if h not in prev.keys() and allowedHoursEastCoast(dt): #do a check to make sure we haven't already saved it in firebase
+                    # write to firebase
+                    data = {u'link': link,
+                            u'time': timeDiscovered}
+                    if fire.fireSave(h, data):
+                        prev[h] = timeDiscovered # associate the hash with the time discovered so we can delete it from our dict later
+
+        globalBio = rss.globalNewsWireBio()
+
+        if globalBio is not None and len(globalBio) != 0: # repeat above steps. Could have made this process into a
+            for links in globalBio: #                       function. Chose to do that later so we can focus on other things.
+                link = links[0]
+                dt = datetime.strptime(links[1], "%a, %d %b %Y %H:%M GMT")
+                timeDiscovered = int(dt.timestamp() - 25200)
+                h = hashlib.md5(link.encode()).hexdigest()
+                if h not in prev.keys() and allowedHoursEastCoast(dt):
+                    # write to firebase
+                    data = {u'link': link,
+                            u'time': timeDiscovered}
+                    if fire.fireSave(h, data):
+                        prev[h] = timeDiscovered
+
+        t = time()-startTime
+        if t < 30:
+            toDelete = [] # this is to prevent the dict from growing forever.
+            for i in prev.keys():
+                if time()-prev[i] > 604800: # if older than a week then delete
+                    toDelete.append(i)
+            for i in toDelete:
+                del prev[i]
+        sleep(30.0)
+
+    sleep(300) #if we have a live day trading tool running this then this line has got to go
