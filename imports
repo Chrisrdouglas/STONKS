@@ -1,4 +1,8 @@
 pip install requests
 pip install newspaper3k
 pip install nltk
-
+pip install matplotlib
+pip install seaborn
+pip install pandas
+pip install scipy
+pip install numpy

@@ -4,3 +4,5 @@
 /data/ArticleText/*
 /data/ArticleWords/*
 /.vs/
+.DS_Store
+/data/data.csv
