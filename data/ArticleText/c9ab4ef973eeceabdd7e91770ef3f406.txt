@@ -1,0 +1,39 @@
+Pacific Biosciences Launches the Sequel IIe System to Accelerate Adoption of Highly Accurate HiFi Sequencing Nasdaq:PACB. MENLO PARK, Calif., Oct. 05, 2020 (GLOBE NEWSWIRE) -- Pacific Biosciences of California, Inc. (Nasdaq:PACB), a leading provider of high-quality sequencing of genomes, transcriptomes and epigenomes, today announced the launch of the Sequel® IIe System, the next instrument evolution based on the company’s Single Molecule, Real-Time (SMRT®) Sequencing technology. With increased computational capacity and on-instrument data processing, the new system can directly produce highly accurate long reads (HiFi reads) more quickly and more cost-effectively than ever, providing scientists with a comprehensive view of genomes and transcriptomes.
+
+
+
+“The new Sequel IIe System represents the next advance in our technology, and makes HiFi sequencing accessible to any project where high accuracy, long read lengths, and affordability matter,” said Christian Henry, Chief Executive Officer of Pacific Biosciences. “Prior to HiFi sequencing, researchers used multiple technologies and complex analysis methods in order to obtain results comparable to HiFi data. With the Sequel IIe System, it’s now simple to produce HiFi data directly — and scientists can feel confident using only one technology to power their genetic discoveries.”
+
+Based on the reliability and performance of the award-winning Sequel II System, the Sequel IIe System features hardware and software improvements that enable users to work directly with the most valuable and informative sequencing data currently available, PacBio HiFi reads. Optimized for HiFi sequencing, the Sequel IIe System eliminates the need for post-processing of sequence data by users and delivers a 70% reduction in overall secondary analysis time, depending on the application. In addition, this new capability provides as much as a 90% reduction in file transfer and data storage needs. Further, this release includes powerful new tools in SMRT Link 10 software to enable complete workflow integration on the AWS cloud and a new Genome Assembly analysis application for generating reference-quality de novo assemblies from HiFi reads.
+
+“HiFi reads allow the accurate and simultaneous detection of single nucleotide and structural variants, paving the way for advancements in human genetics and greatly expanding the utility of SMRT Sequencing,” said Fritz Sedlazeck, PhD, Assistant Professor, Human Genome Sequencing Center at Baylor College of Medicine. “Generating HiFi reads directly on the Sequel IIe System now has the potential to further accelerate cost-effective access to this information-rich sequencing data.”
+
+PacBio HiFi reads combine the accuracy of Sanger sequencing (>99.9%) with long reads (up to 25 kb). Together, the length and accuracy of HiFi reads make them ideal for de novo genome assembly, detection of variants from single nucleotide to large structural variants, and other genomic or transcriptomic investigations. HiFi sequencing has provided important data for a number of high-profile global research projects, including the Telomere-to-Telomere Consortium, Darwin Tree of Life, the Human Pangenome Reference Consortium, and the Solve-RD Project, among others. The precisionFDA Truth Challenge V2 evaluated methods for variant calling in human genomes and highlighted how approaches that use PacBio HiFi reads delivered the highest precision and recall in all categories including genome-wide, specifically in difficult-to-map regions, and in the major histocompatibility complex.
+
+Additional details on the Sequel IIe System and HiFi sequencing applications will be presented in an ancillary workshop Monday, October 26, from 10:00 -11:00 a.m. PDT during the American Society of Human Genetics (ASHG) Annual Meeting. Free virtual event registration is available here.
+
+PacBio is currently accepting orders for the Sequel IIe System with new instrument delivery expected to begin this quarter. Additionally, Sequel II System customers will be able to purchase an instrument upgrade package that will give them all of the functionality of the Sequel IIe System. For more information on the Sequel IIe System, please visit: www.pacb.com/Sequel.
+
+
+
+About Pacific Biosciences
+
+Pacific Biosciences of California, Inc. (NASDAQ:PACB), is empowering life scientists with highly accurate long-read sequencing. The company’s innovative instruments are based on Single Molecule, Real-Time (SMRT®) Sequencing technology, which delivers a comprehensive view of genomes, transcriptomes, and epigenomes, enabling access to the full spectrum of genetic variation in any organism. Cited in thousands of peer-reviewed publications, PacBio® sequencing systems are in use by scientists around the world to drive discovery in human biomedical research, plant and animal sciences, and microbiology. For more information please visit www.pacb.com and follow @PacBio.
+
+PacBio products are provided for Research Use Only. Not for use in diagnostic procedures.
+
+Forward-Looking Statements
+
+All statements in this press release that are not historical are forward-looking statements, including, among other things, statements relating to future availability, uses, accuracy, quality, affordability, capability, reliability or performance of, or benefits of using, our products or technologies, including SMRT Sequencing and the Sequel IIe System, the suitability or utility of our methods, products or technologies for particular applications or projects, the expected benefits, or insights to be gained, by research teams who are using our products or technologies, and other future events. You should not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties, changes in circumstances and other factors that are, in some cases, beyond Pacific Biosciences’ control and could cause actual results to differ materially from the information expressed or implied by forward-looking statements made in this press release. Factors that could materially affect actual results can be found in Pacific Biosciences’ most recent filings with the Securities and Exchange Commission, including Pacific Biosciences’ most recent reports on Forms 8-K, 10-K and 10-Q, and include those listed under the caption “Risk Factors.” Pacific Biosciences undertakes no obligation to revise or update information in this press release to reflect events or circumstances in the future, even if new information becomes available.
+
+Contacts
+
+Media: Colin Sanford 203.918.4347
+
+colin@bioscribe.com
+
+Investors: Trevin Rard 650.521.8450
+
+ir@pacificbiosciences.com
+
+A photo accompanying this announcement is available at https://www.globenewswire.com/NewsRoom/AttachmentNg/ec7721b6-506f-416d-a80b-2837542bdb85

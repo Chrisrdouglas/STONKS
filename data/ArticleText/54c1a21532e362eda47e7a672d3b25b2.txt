@@ -1,0 +1,55 @@
+OpGen Announces Successful Completion of Study Collaboration with Karolinska Institutet on Bacterial Co-Infections in COVID-19 Pneumonia Patients and Presents Data on Unyvero HPN Panel at ECCVID 2020. Rapid and accurate detection is essential to assess bacterial pneumonia co-infection in COVID-19 critically ill patients
+
+Unyvero HPN panel demonstrated high negative predictive value (99.8% )with potentially high clinical utility as rapid rule-out
+
+Unyvero reduces diagnostic turnaround times from days to less than 5 hours; HPN panel viewed as a useful diagnostic tool to help with early detection and antimicrobial stewardship
+
+
+
+GAITHERSBURG, Md. and HOLZGERLINGEN, Germany, Sept. 28, 2020 (GLOBE NEWSWIRE) -- OpGen, Inc. (Nasdaq: OPGN, “OpGen”), a precision medicine company harnessing the power of molecular diagnostics and bioinformatics to help combat infectious disease, announced today the successful completion of the clinical study between its subsidiary, Curetis GmbH, and Karolinska Institutet, Stockholm, Sweden. The collaboration was set out to identify bacterial co-infections in hospitalized patients with COVID-19 pneumonia. The patients in this study had been admitted to the ICU after respiratory deterioration during hospital stay, and their lower respiratory tract samples were analyzed with the Unyvero HPN panel.
+
+Data from this study was presented at the ESCMID Conference on Coronavirus Disease (ECCVID) on September 24, 2020, and demonstrated several advantages of the Unyvero HPN panel, including the ability to identify clinically important pathogens such as Staphylococcus aureus, Pseudomonas aeruginosa, Stenotrophomonas maltophilia, Haemophilus influenzae, among several others missed by microbiological methods.
+
+The study also demonstrated reliable performance and potentially high clinical utility of the Unyvero HPN panel as a rapid rule-out diagnostic tool based on its high negative predictive value of 99.8% observed in this study. The average turnaround time for final culture result was 68 hours, during which patients continued to receive empiric antibiotics, while Unyvero HPN panel reduced turnaround times from days to less than 5 hours. We believe such rapid and accurate detection is essential to assess bacterial pneumonia co-infections in critically ill COVID-19 patients. The study investigators concluded that the Unyvero HPN panel is a useful diagnostic tool to help with early detection of lower respiratory tract infections and antimicrobial stewardship, and in patients suspected with antimicrobial resistance (AMR) the panel can be beneficial for escalation or de-escalation of antibiotics.
+
+The study tested 83 samples obtained from 68 subjects, consisting of 61 (73.5%) tracheal secretions, 11 (13.4%) bronchoalveolar lavage, 8 (9.7%) protected specimen brush (PSB), 2 (2.4%) bronchial secretions, and 1 (1.2%) sputum sample. One sample each was obtained from 57 unique subjects, two samples each from 7 subjects, and three samples each from 4 subjects. The mean age among the study subjects was 58.8 years old, and 74% were male and 26% were female.
+
+Diagnosis and management of severe COVID-19 is challenging because signs and symptoms are similar to that of bacterial pneumonia. Furthermore, COVID-19 infection, especially in hospitalized patients, is gaining recognition as a predisposing factor for secondary bacterial pneumonia. Therefore, we believe it is important to accurately distinguish the correct etiology and treat appropriately. For example, an estimated 50% to 70% of COVID-19 patients are treated empirically with antibiotics, despite the fact that COVID-19 is caused by a virus.
+
+“When it comes to managing bacterial co-infections in COVID-19 pneumonia patients, time is critical! We are pleased to share this data that highlights the clinical utility of our Unyvero HPN panel by providing comprehensive diagnostic information to clinicians in just a few hours, with only minutes of actual hands-on time, ensuring faster treatment decisions and supporting antimicrobial stewardship efforts,” said Faranak Atrzadeh, Chief Scientific Affairs and Marketing Officer of OpGen. “High-risk COVID-19 patients, especially in intensive care units and on ventilation, many of whom may be elderly or have preexisting conditions that compromise their immune system, are at a higher risk of acquiring bacterial co-infections that pose severe life-threatening complications. These co-infections are not always easily determined based on clinical symptoms alone. Rapid detection of the bacterial etiology causing pneumonia among these patients with the Unyvero HPN panel can be helpful in early initiation of targeted antimicrobial therapy.”
+
+The Unyvero Hospitalized Pneumonia (HPN) panel detects 21 clinically relevant pathogens and 19 antibiotic resistance markers in less than five hours directly from native specimen with only around two minutes of hands-on time, compared to routine bacterial cultures that can take up to several days for confirmatory pathogen identification and antimicrobial susceptibility testing results. In the U.S., the Unyvero LRT and LRT BAL panels for rapid detection of lower respiratory tract infections such as pneumonia are FDA-cleared for tracheal aspirate samples and bronchoalveolar lavage fluids, respectively. Unyvero HPN and LRT BAL are the only syndromic pneumonia panels that also include Pneumocystis jirovecii, a key fungal pathogen often found in immunocompromised patients that can be difficult to diagnose.
+
+About OpGen, Inc.
+
+OpGen, Inc. (Gaithersburg, MD, USA) is a precision medicine company harnessing the power of molecular diagnostics and bioinformatics to help combat infectious disease. Along with its subsidiaries, Curetis GmbH and Ares Genetics GmbH, we are developing and commercializing molecular microbiology solutions helping to guide clinicians with more rapid and actionable information about life threatening infections to improve patient outcomes, and decrease the spread of infections caused by multidrug-resistant microorganisms, or MDROs. OpGen’s product portfolio includes Unyvero, Acuitas AMR Gene Panel and Acuitas® Lighthouse, and the ARES Technology Platform including ARESdb, using NGS technology and AI-powered bioinformatics solutions for antibiotic response prediction.
+
+For more information, please visit www.opgen.com.
+
+Forward-Looking Statements
+
+This press release includes statements regarding the performance characteristics and potential clinical impact on antibiotic therapy regimen and clinical utility of OpGen’s Unyvero HPN, LRT and LRT BAL cartridges. These statements and other statements regarding OpGen’s Unyvero products, their commercialization and launch, future plans and goals constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Such statements are subject to risks and uncertainties that are often difficult to predict, are beyond our control, and which may cause results to differ materially from expectations. Factors that could cause our results to differ materially from those described include, but are not limited to, our ability to successfully, timely and cost-effectively develop, seek and obtain regulatory clearance for and commercialize our product and services offerings, the rate of adoption of our products and services by hospitals and other healthcare providers, the success of our commercialization efforts, the impact of COVID-19 on the Company’s operations, financial results, and commercialization efforts as well as on capital markets and general economic conditions, the realization of expected benefits of our business combination transaction with Curetis GmbH, the effect on our business of existing and new regulatory requirements, and other economic and competitive factors. For a discussion of the most significant risks and uncertainties associated with OpGen's business, please review our filings with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, which are based on our expectations as of the date of this press release and speak only as of the date of this press release. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+OpGen Contact:
+
+Oliver Schacht
+
+CEO
+
+InvestorRelations@opgen.com
+
+Press Contact:
+
+Matthew Bretzius
+
+FischTank Marketing and PR
+
+matt@fischtankpr.com
+
+Investor Contact:
+
+Megan Paul
+
+Edison Group
+
+mpaul@edisongroup.com

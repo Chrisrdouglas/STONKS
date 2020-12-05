@@ -1,0 +1,83 @@
+Genmab Announces Phase 3 Study Evaluating Epcoritamab in Patients with Relapsed or Refractory Diffuse Large B-cell Lymphoma. Company Announcement
+
+First Phase 3 study of epcoritamab as part of broad clinical development plan with AbbVie
+
+Diffuse Large B-cell Lymphoma is the most common form of non-Hodgkin’s lymphoma worldwide
+
+Copenhagen, Denmark; November 5, 2020 – Genmab A/S (Nasdaq: GMAB) announced today that it will initiate a Phase 3 study of epcoritamab in diffuse large B-cell lymphoma (DLBCL). The study will evaluate the efficacy and safety of subcutaneous epcoritamab, a fully-human IgG1-bispecific antibody designed to recognize and bind to both CD3 and CD20, versus investigators’ choice of chemotherapy regimen (either bendamustine and rituximab or gemcitabine, oxaliplatin, and rituximab) in patients with relapsed or refractory DLBCL. Epcoritamab is being co-developed by Genmab and AbbVie.
+
+DLBCL is aggressive and the most common form of non-Hodgkin’s lymphoma worldwide, with 36% of DLBCL patients in the U.S. expected to die from their disease within five years of diagnosis.1 Prevalence rates are expected to increase, driven by growth in aging populations. 2
+
+“In collaboration with AbbVie, we have planned a broad, expansive, accelerated epcoritamab clinical development plan to maximize the potential of this promising bispecific antibody, with the ultimate goal of bringing new differentiated treatment options as soon as possible to patients. We look forward to the data from this first Phase 3 trial, especially for relapsed or refractory DLBCL patients as it remains an area of high unmet medical need,” said Jan van de Winkel, Ph.D., Chief Executive Officer of Genmab.
+
+About the Study
+
+The Phase 3, open-label, randomized study (GCT3013-05) will include approximately 480 patients with relapsed or refractory DLBCL who failed or are ineligible for autologous stem cell transplant (ASCT). Patients will be randomized to receive either subcutaneous epcoritamab or one of two chemotherapy regimens as per investigator’s choice, either rituximab, gemcitabine and oxaliplatin (R-GemOx) or bendamustine and rituximab (BR). The primary endpoint of the study is overall survival.
+
+About Diffuse Large B-cell Lymphoma
+
+DLBCL is the most common type of non-Hodgkin lymphoma (NHL) in the United States and worldwide, with an average age at diagnosis of mid-60s.2,3 It is an aggressive form of NHL with relative 10-year survival rates of approximately 46% and relative 5-year survival rates of approximately 64%.1,3,4 Prevalence is anticipated to increase, driven by growth in aging populations.1 DLBCL affects B-lymphocytes and can develop in the lymph nodes or in other organs, and may be either localized or generalized.3 The prognosis for relapsed or refractory DLBCL patients is poor, especially for those with high-risk factors, and for most patients with refractory DLBCL there are no curative treatment options.5
+
+About Epcoritamab
+
+Epcoritamab is an investigational IgG1-bispecific antibody created using Genmab’s proprietary DuoBody technology. Genmab’s DuoBody-CD3 technology is designed to direct cytotoxic T cells selectively to tumors to elicit an immune response towards malignant cells. Epcoritamab is designed to simultaneously bind to CD3 on T cells and CD20 on B cells and induces T cell mediated killing of lymphoma B cells.6 CD20 is a clinically validated therapeutic target, and is expressed on many B-cell malignancies, including diffuse large B-cell lymphoma, follicular lymphoma, mantle cell lymphoma and chronic lymphocytic leukemia.7,8 Epcoritamab is being co-developed by Genmab and AbbVie as part of the companies’ broad oncology collaboration.
+
+About Genmab
+
+Genmab is a publicly traded, international biotechnology company specializing in the creation and development of differentiated antibody therapeutics for the treatment of cancer. Founded in 1999, the company is the creator of the following approved antibodies: DARZALEX® (daratumumab, under agreement with Janssen Biotech, Inc.) for the treatment of certain multiple myeloma indications in territories including the U.S., Europe and Japan, Kesimpta® (subcutaneous ofatumumab, under agreement with Novartis AG), for the treatment of adults with relapsing forms of multiple sclerosis in the U.S. and TEPEZZA® (teprotumumab, under agreement with Roche granting sublicense to Horizon Therapeutics plc) for the treatment of thyroid eye disease in the U.S. A subcutaneous formulation of daratumumab, known as DARZALEX FASPRO™ (daratumumab and hyaluronidase-fihj) in the U.S., has been approved in the U.S. and Europe for the treatment of adult patients with certain multiple myeloma indications. The first approved Genmab created therapy, Arzerra® (ofatumumab, under agreement with Novartis AG), approved for the treatment of certain chronic lymphocytic leukemia indications, is available in Japan and is also available in other territories via compassionate use or oncology access programs. Daratumumab is in clinical development by Janssen for the treatment of additional multiple myeloma indications, other blood cancers and amyloidosis. Genmab also has a broad clinical and pre-clinical product pipeline. Genmab's technology base consists of validated and proprietary next generation antibody technologies - the DuoBody® platform for generation of bispecific antibodies, the HexaBody® platform, which creates effector function enhanced antibodies, the HexElect® platform, which combines two co-dependently acting HexaBody molecules to introduce selectivity while maximizing therapeutic potency and the DuoHexaBody® platform, which enhances the potential potency of bispecific antibodies through hexamerization. The company intends to leverage these technologies to create opportunities for full or co-ownership of future products. Genmab has alliances with top tier pharmaceutical and biotechnology companies. Genmab is headquartered in Copenhagen, Denmark with sites in Utrecht, the Netherlands, Princeton, New Jersey, U.S. and Tokyo, Japan.
+
+
+
+Contact:
+
+Marisol Peron, Corporate Vice President, Communications & Investor Relations
+
+T: +1 609 524 0065; E: mmp@genmab.com
+
+For Investor Relations:
+
+Andrew Carlsen, Senior Director, Investor Relations
+
+T: +45 3377 9558; E: acn@genmab.com
+
+This Company Announcement contains forward looking statements. The words “believe”, “expect”, “anticipate”, “intend” and “plan” and similar expressions identify forward looking statements. Actual results or performance may differ materially from any future results or performance expressed or implied by such statements. The important factors that could cause our actual results or performance to differ materially include, among others, risks associated with pre-clinical and clinical development of products, uncertainties related to the outcome and conduct of clinical trials including unforeseen safety issues, uncertainties related to product manufacturing, the lack of market acceptance of our products, our inability to manage growth, the competitive environment in relation to our business area and markets, our inability to attract and retain suitably qualified personnel, the unenforceability or lack of protection of our patents and proprietary rights, our relationships with affiliated entities, changes and developments in technology which may render our products or technologies obsolete, and other factors. For a further discussion of these risks, please refer to the risk management sections in Genmab’s most recent financial reports, which are available on www.genmab.com and the risk factors included in Genmab’s most recent Annual Report on Form 20-F and other filings with the U.S. Securities and Exchange Commission (SEC), which are available at www.sec.gov. Genmab does not undertake any obligation to update or revise forward looking statements in this Company Announcement nor to confirm such statements to reflect subsequent events or circumstances after the date made or in relation to actual results, unless required by law.
+
+Genmab A/S and/or its subsidiaries own the following trademarks: Genmab®; the Y-shaped Genmab logo®; Genmab in combination with the Y-shaped Genmab logo®; HuMax®; DuoBody®; DuoBody in combination with the DuoBody logo®; HexaBody®; HexaBody in combination with the HexaBody logo®; DuoHexaBody®; HexElect®; and UniBody®. Arzerra® and Kesimpta® are trademarks of Novartis AG or its affiliates. DARZALEX® and DARZALEX FASPRO™ are trademarks of Janssen Pharmaceutica NV. TEPEZZA® is a trademark of Horizon Therapeutics plc.
+
+1 SEER https://seer.cancer.gov/statfacts/html/dlbcl.html accessed October 2020 4
+
+2 Ries, L. A. G. et al. (2007) SEER Survival Monograph: Cancer Survival among Adults: U.S. SEER Program, 1988–2001, Patient and Tumor Characteristics. Available at: https://seer.cancer.gov/archive/publications/survival/seer_survival_mono_highres.pdf Accessed October 2020
+
+3 American Cancer Society. "Types of B-cell Lymphoma." Available at https://www.cancer.org/cancer/non-hodgkin-lymphoma/about/b-cell-lymphoma.html Accessed August 2020.
+
+4 Lymphoma Research Foundation, “Diffuse Large B-Cell Lymphoma.” Available at https://lymphoma.org/aboutlymphoma/nhl/dlbcl/ Accessed August 2020
+
+5 Crump, Michael, et al. “Outcomes in Refractory Diffuse Large B-Cell Lymphoma: Results from the International SCHOLAR-1 Study.” Blood, American Society of Hematology, 19 Oct. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5649550/.
+
+6 Engelbert et al. “DuoBody-CD3xCD20 induces potent T-cell-mediated killing of malignant B cells in preclinical models and provides opportunities for subcutaneous dosing.” EBioMedicine. 2020 Feb;52: 102625. doi: 10.1016/j.ebiom.2019.102625. Epub 2020 Jan 23. PMID: 31981978; PMCID: PMC6992935.
+
+7Rafiq, Sarwish, et al. “Comparative Assessment of Clinically Utilized CD20-Directed Antibodies in Chronic Lymphocytic Leukemia Cells Reveals Divergent NK Cell, Monocyte, and Macrophage Properties.” Journal of Immunology (Baltimore, Md. 1950), U.S. National Library of Medicine, 15 Mar. 2013, www.ncbi.nlm.nih.gov/pmc/articles/PMC3631574/.
+
+8 Singh, Vijay, et al. “Development of Novel Anti-Cd20 Monoclonal Antibodies and Modulation in Cd20 Levels on Cell Surface: Looking to Improve Immunotherapy Response.” Journal of Cancer Science & Therapy, U.S. National Library of Medicine, Nov. 2015, www.ncbi.nlm.nih.gov/pmc/articles/PMC4939752/.
+
+
+
+
+
+Company Announcement no. 47
+
+CVR no. 2102 3884
+
+LEI Code 529900MTJPDPE4MHJ122
+
+Genmab A/S
+
+Kalvebod Brygge 43
+
+1560 Copenhagen V
+
+Denmark
+
+
+
+Attachment

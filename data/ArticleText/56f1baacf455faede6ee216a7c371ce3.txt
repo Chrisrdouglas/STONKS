@@ -1,0 +1,77 @@
+Amicus Therapeutics Announces Additional Positive Interim Clinical Data for CLN6 Batten Disease Gene Therapy at 49th Annual Meeting of the Child Neurology Society. CRANBURY, N.J., Oct. 12, 2020 (GLOBE NEWSWIRE) -- Amicus Therapeutics (Nasdaq: FOLD) today announced additional positive interim results from its CLN6 Batten disease gene therapy program, AT-GTX-501. The results are featured in a virtual poster presentation at the Joint 16th International Child Neurology Congress and 49th Annual Child Neurology Society Meeting being held October 12-23, 2020. The presentation is also available in the Events and Presentations section of the Amicus Therapeutics corporate website at http://ir.amicusrx.com/events-and-presentations.
+
+
+
+The Abigail Wexner Research Institute (AWRI) at Nationwide Children’s Hospital is conducting the ongoing Phase 1/2 clinical study of a single one-time intrathecal administration of AT-GTX-501 gene therapy for variant late-infantile neuronal ceroid lipofuscinosis 6 (vLINCL6) disease, also known as CLN6 Batten disease. With no approved treatments, CLN6 Batten disease is a fatal neurologic disease that rapidly robs children of their ability to walk, speak, think, and see.
+
+Clinical Data Highlights:
+
+Interim safety data are available for 13 children with CLN6 Batten disease. Interim efficacy data are available for the first 12 children reaching the 12-month timepoint and for eight children up to 24 months, post-administration of the AAV-CLN6 gene therapy.
+
+Safety (n=1 3 ) : Treatment with AT-GTX-501 was generally well tolerated. The majority of adverse events (AEs) were mild and unrelated to treatment. No pattern of adverse events related to AAV or CLN6 immunogenicity was observed. Additional details are provided in the presentation.
+
+: Treatment with AT-GTX-501 was generally well tolerated. The majority of adverse events (AEs) were mild and unrelated to treatment. No pattern of adverse events related to AAV or CLN6 immunogenicity was observed. Additional details are provided in the presentation. Hamburg Motor & Language Aggregate Score (n= 12 ) : The Hamburg Motor & Language Score, an assessment of ambulation and speech, shows a meaningful effect in slowing disease progression at 12 and 24 months:
+
+On a combined scale of 0 to 6, the mean rate of decline was 0.4 vs 1.2 points over 12 months in treated patients (n=12) vs subjects from the natural history cohort (n=16).
+
+On a combined scale of 0 to 6, the mean rate of decline was 0.6 vs 2.4 points over 24 months in treated patients (n=8) vs subjects from the natural history cohort (n=16).
+
+
+
+: The Hamburg Motor & Language Score, an assessment of ambulation and speech, shows a meaningful effect in slowing disease progression at 12 and 24 months: Natural History (n=16): Within the natural history cohort, two years from their first decline on the Hamburg Motor & Language Score 63% of subjects experienced an additional 2-point decline (10 out of 16), compared to only 13% of treated patients (1 out of 8).
+
+
+
+Jeff Castelli, Ph.D., Chief Development Officer of Amicus Therapeutics, stated, “We are pleased to share these positive interim clinical data for our intrathecal AAV gene therapy with the CLN6 community. The data continues to suggest that our gene therapy has the potential to be a treatment option for children living with CLN6 Batten disease, an ultra-rare, debilitating condition that leads to progressive declines in cognitive and motor function, and often results in death early in life.”
+
+Emily de los Reyes, M.D., Ph.D., Principal Investigator of the CLN6 clinical trial at AWRI at Nationwide Children’s and Professor of Clinical Pediatrics and Neurology at The Ohio State University College of Medicine, stated, “I remain pleased with the progress of this trial as well as our collection of natural history data to further inform the results for the AAV-CLN6 gene therapy. The interim results show that this investigational gene therapy has the potential to slow the neurological disease progression in children with CLN6 Batten disease.”
+
+Regulatory interactions for AT-GTX-501 are ongoing and the Company expects to provide feedback on the path forward in 2021.
+
+Amicus has exclusive rights to the CLN6 gene therapy program developed at the Abigail Wexner Research Institute at Nationwide Children’s Hospital.
+
+About AT-GTX-501
+
+AT-GTX-501 is a novel gene therapy in Phase 1/2 development for CLN6 Batten disease, a rare, fatal, inherited lysosomal disorder with no approved treatment that primarily affects the nervous system. AT-GTX-501 is dosed in a one-time intrathecal infusion to deliver a functional copy of the CLN6 gene to cells of the central nervous system. The therapy is designed to address the underlying enzyme deficiency that results in progressive cell damage and neurodevelopmental and physical decline. In the U.S., AT-GTX-501 was granted Rare Pediatric Disease and Orphan Drug designations by the United States Food and Drug Administration. In the EU, the Company holds PRIME and orphan medicinal product designations.
+
+About Batten Disease
+
+Batten disease is the common name for a broad class of rare, fatal, inherited disorders of the nervous system also known as neuronal ceroid lipofuscinoses, or NCLs. In these disorders, a defect in a specific gene triggers a cascade of problems that interferes with a cell’s ability to recycle certain molecules. Each gene is called CLN (ceroid lipofuscinosis, neuronal) and given a different number designation as its subtype. There are 13 known forms of Batten disease often referred to as CLN1-8; 10-14. The various types of Batten disease have similar features and symptoms but vary in severity and age of onset.
+
+Most forms of Batten disease/NCLs usually begin during childhood. The clinical course often involves progressive loss of independent adaptive skills such as mobility, feeding and communication. Patients may also experience vision loss, personality changes, behavioral problems, learning impairment and seizures. Patients typically experience progressive loss of motor function and eventually become wheelchair-bound, are then bedridden and die prematurely.
+
+About Amicus Therapeutics
+
+Amicus Therapeutics (Nasdaq: FOLD) is a global, patient-dedicated biotechnology company focused on discovering, developing and delivering novel high-quality medicines for people living with rare metabolic diseases. With extraordinary patient focus, Amicus Therapeutics is committed to advancing and expanding a robust pipeline of cutting-edge, first- or best-in-class medicines for rare metabolic diseases. For more information please visit the company’s website at www.amicusrx.com, and follow on Twitter and LinkedIn.
+
+Forward-Looking Statements
+
+This press release contains "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995 relating to preclinical and clinical development of our product candidates, the timing and reporting of results from preclinical studies and clinical trials and the prospects and timing of the potential regulatory approval of our product candidates. In particular, this press release relates to interim data from an ongoing Phase 1/2 study to investigate intrathecal administration of AAV-CLN6 gene therapy. The inclusion of forward-looking statements arising from this interim data, ongoing study and natural history preliminary data should not be regarded as a representation by us that any of our plans will be achieved. Any or all of the forward-looking statements in this press release may turn out to be wrong and can be affected by inaccurate assumptions we might make or by known or unknown risks and uncertainties. For example, with respect to statements regarding the goals, progress, timing, and outcomes of discussions with regulatory authorities, and in particular the potential goals, progress, timing, and results of preclinical studies and clinical trials, actual results may differ materially from those set forth in this release due to the risks and uncertainties inherent in our business, including, without limitation: the potential that results of clinical or preclinical studies indicate that the product candidates are unsafe or ineffective; the potential that it may be difficult to enroll patients in our clinical trials; the potential that regulatory authorities, including the FDA, EMA, and PMDA, may not grant or may delay approval for our product candidates; the potential that preclinical and clinical studies could be delayed because we identify serious side effects or other safety issues; and the potential that we will need additional funding to complete all of our studies. Further, the results of earlier preclinical studies and/or clinical trials may not be predictive of future results. The interim data and Phase 1/2 study discussed herein is inherently preliminary and early in the study, derived from a limited patient set, and later trial results with this patient set or others may not be consistent with these preliminary results. In addition, all forward-looking statements are subject to other risks detailed in our Annual Report on Form 10-K for the year ended December 31, 2019 and Quarterly Report on Form 10-Q for the quarter ended June 30, 2020. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. All forward-looking statements are qualified in their entirety by this cautionary statement, and we undertake no obligation to revise or update this news release to reflect events or circumstances after the date hereof.
+
+CONTACTS:
+
+Investors:
+
+Amicus Therapeutics
+
+Andrew Faughnan
+
+Director, Investor Relations
+
+afaughnan@amicusrx.com
+
+(609) 662-3809
+
+Media:
+
+Amicus Therapeutics
+
+Diana Moore
+
+Head of Global Corporate Communications
+
+dmoore@amicusrx.com
+
+(609) 662-5079
+
+FOLD–G

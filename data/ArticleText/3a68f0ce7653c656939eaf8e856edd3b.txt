@@ -1,0 +1,49 @@
+Invitae and Pacific Biosciences Collaborate to Develop Whole Genome Sequencing-Based Assays for Pediatric Epilepsy Diagnostics Nasdaq:PACB. SAN FRANCISCO and MENLO PARK, Calif., Oct. 22, 2020 (GLOBE NEWSWIRE) -- Invitae Corporation (NYSE: NVTA), a leading genetics company, and Pacific Biosciences of California, Inc. (Nasdaq:PACB), a leading provider of high-quality sequencing of genomes, transcriptomes and epigenomes, today announced a research collaboration focused on the investigation of clinically relevant molecular targets for use in the development of advanced diagnostic testing for epilepsy. To support this collaboration, Invitae is expanding their PacBio sequencing capacity to meet the growing demand for clinical applications dependent on highly accurate genomic information.
+
+
+
+More than half of epilepsies can be traced to a genetic cause. When a child presents with seizures, genetic testing can help identify more than 100 underlying, often rare conditions. Early genetic testing may be the most cost-effective, direct, and accurate diagnostic tool for children, shortening lengthy diagnostic odysseys. Delays in diagnosis can be devastating for children, as some genetic epilepsies are neurodegenerative and early symptoms may be subtle and easy to misdiagnose. Invitae’s Behind the Seizure® program is a prominent collaborative program that was developed to provide faster diagnosis for young children with epilepsy in many regions around the world.
+
+“It is estimated that nearly 50 million people are living with diagnosed epilepsy worldwide, but the underlying cause remains unknown for approximately half of these individuals,” said Robert L. Nussbaum, MD, Chief Medical Officer at Invitae. “Identifying the many underlying genetic causes of epilepsy is becoming increasingly critical to overall clinical management and prognosis. Through this research collaboration with PacBio, Invitae aims to develop innovative methods that will provide more accurate answers to individuals living with epilepsy and their healthcare providers.”
+
+The first phase of the research collaboration between Invitae and PacBio is focused on a whole genome sequencing study of a large pediatric epilepsy patient cohort, derived from the Behind the Seizure® program. Sequencing will be performed using PacBio’s highly accurate, long-read SMRT® Sequencing technology, known as HiFi sequencing, to generate comprehensive variant profiles used to investigate the genetic etiology of epilepsy. This research is intended to accelerate Invitae’s development of assays to help patients that have been unable to get a diagnosis with conventional short-read sequencing technologies and facilitate improved treatment options based on specific genetic targets.
+
+"We are honored to partner with Invitae, a recognized leader in genetics, to co-develop methods that have the potential to support earlier genetic testing and intervention to aid treatment selection for millions of people living with epilepsy worldwide,” said Christian Henry, Chief Executive Officer of PacBio. “Working with leading organizations such as Invitae is an important part of our strategy to accelerate the use of our highly accurate long-read sequencing platform in large-scale whole genome sequencing initiatives.”
+
+About Behind the Seizure®
+
+Behind the Seizure is an innovative, cross-company collaboration designed to increase access to genetic testing for children who experience unprovoked seizures in childhood in the United States and Canada. More than half of epilepsies have some genetic basis, and are often associated with rare, neurodegenerative conditions with non-specific symptoms. Early genetic testing may be the most direct, cost-effective, and accurate diagnostic tool. Participants in the Behind the Seizure program are diagnosed one to two years sooner than reported averages. The program was established by BioMarin and Invitae and now includes: Biogen, Encoded Therapeutics, Neurocrine Biosciences, Neurogene Inc., Praxis Precision Medicines, PTC Therapeutics, Stoke Therapeutics, Taysha Gene Therapies, and Xenon Pharmaceuticals. To learn more about the Behind the Seizure program please visit https://www.invitae.com/en/behindtheseizure/ .
+
+About Invitae
+
+Invitae Corporation (NYSE: NVTA) is a leading genetics company whose mission is to bring comprehensive genetic information into mainstream medicine to improve healthcare for billions of people. Invitae's goal is to aggregate the world's genetic tests into a single service with higher quality, faster turnaround time, and lower prices. For more information, visit the company's website at invitae.com.
+
+About Pacific Biosciences
+
+Pacific Biosciences of California, Inc. (NASDAQ: PACB) is empowering life scientists with highly accurate long-read sequencing. The company’s innovative instruments are based on Single Molecule, Real-Time (SMRT®) Sequencing technology, which delivers a comprehensive view of genomes, transcriptomes, and epigenomes, enabling access to the full spectrum of genetic variation in any organism. Cited in thousands of peer-reviewed publications, PacBio® sequencing systems are in use by scientists around the world to drive discovery in human biomedical research, plant and animal sciences, and microbiology. For more information please visit www.pacb.com and follow @PacBio.
+
+PacBio products are for Research Use Only. Not for use in diagnostic procedures.
+
+Forward-Looking Statements
+
+All statements in this press release that are not historical are forward-looking statements, including, among other things, statements relating to market leadership, uses, accuracy, quality or performance of, or benefits of using, our products or technologies, including SMRT technology, the suitability or utility of our methods, products or technologies for particular applications or projects, the expected benefits and expected achievement of the goals of the research collaboration with Invitae, the ability of the Company to be successful in reaching its technological and commercial potential, and other future events. You should not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties, changes in circumstances and other factors that are, in some cases, beyond Pacific Biosciences’ control and could cause actual results to differ materially from the information expressed or implied by forward-looking statements made in this press release. Factors that could materially affect actual results can be found in Pacific Biosciences’ most recent filings with the Securities and Exchange Commission, including Pacific Biosciences’ most recent reports on Forms 8-K, 10-K and 10-Q, and include those listed under the caption “Risk Factors.” Pacific Biosciences undertakes no obligation to revise or update information in this press release to reflect events or circumstances in the future, even if new information becomes available.
+
+Contacts
+
+For Invitae
+
+Laura D'Angelo 628.213.3283
+
+pr@invitae.com
+
+
+
+For PacBio
+
+Media: Colin Sanford 203.918.4347
+
+colin@bioscribe.com
+
+Investors: Trevin Rard 650.521.8450
+
+ir@pacificbiosciences.com

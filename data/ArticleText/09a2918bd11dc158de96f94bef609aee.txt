@@ -1,0 +1,118 @@
+Auris Medical Provides Business Update and Reports First Half 2020 Financial Results. Advancing Phase 2 trial with AM-125 in acute vertigo based on positive interim data
+
+Positive outcome from AM-201 trial in prevention of antipsychotic-induced weight gain
+
+Addition of new intranasal program with development of drug-free spray for protection against airborne pathogens and allergens
+
+Review of strategic options initiated
+
+Hamilton, Bermuda, September 17, 2020 – Auris Medical Holding Ltd. (NASDAQ: EARS), a clinical-stage company dedicated to developing therapeutics that address important unmet medical needs in neurotology and central nervous system disorders, today provided a business update and announced financial results for the first half of the 2020 financial year ended June 30, 2020.
+
+“Over the past few months we reached major milestones with our intranasal betahistine program, reporting positive safety and tolerability data as well as significant efficacy signals in two clinical trials,” stated Thomas Meyer, Auris Medical’s founder, Chairman and CEO. “The demonstration of a dose-dependent improvement in various vertigo measures provides further evidence for the therapeutic potential of AM-125 as a vestibular stimulant. Further, the reduction in antipsychotic-induced weight gain in our AM-201 trial suggests the potential of the drug in other therapeutic indications. In addition, we are now leveraging our experience with intranasal delivery into the development of a drug-free nasal spray for protection against airborne pathogens and allergens. We are very excited about this new program given the large number of people affected by allergic rhinitis and the strong need for personal protection against airborne pathogens, highlighted by the current Covid-19 pandemic.”
+
+Development Program Updates
+
+AM-125 for Treating Acute Vertigo
+
+Reported positive results from interim analysis in Phase 2 trial with AM-125 in acute vertigo. On September 3, 2020 the Company announced top-line data from Part A of the TRAVERS trial, which enrolled 33 patients suffering from vertigo following neurosurgery. The patients were treated with AM-125 (intranasal betahistine) at 1, 10 or 20 mg or placebo (3 x daily) for four weeks. At the highest dose of 20 mg, AM-125-treated patients improved their performance of the “Tandem Romberg” and the “Standing on Foam” balance tests from baseline to 14 days post-surgery (primary endpoint) on average 1.9 to 2.4 times more than placebo-treated patients (6.0 vs. 3.1 and 10.5 vs. 4.3 seconds, respectively). In contrast to placebo, the improvement from baseline was statistically significant for AM-125 20 mg and for all active dose groups, respectively (p<0.02 and p<0.01 to p<0.05, respectively).
+
+Selected doses and key endpoints for Part B of TRAVERS trial. Based on the results from the interim analysis, the two highest doses, 10 and 20 mg, were selected by the Company to be tested against placebo in 72 patients in Part B of the trial. The improvement in the “Standing on Foam” test two weeks post-surgery will be the sole primary efficacy endpoint, whereas the improvement in the “Tandem Romberg” test six weeks post-surgery will be the key secondary efficacy endpoint. Part B of the trial is expected to start shortly, as open label testing of oral betahistine for reference purposes will be completed (n=16).
+
+AM-201 for Preventing Antipsychotic-Induced Weight Gain
+
+Reported positive results from Phase 1b trial with AM-201 in antipsychotic-induced weight gain. On May 26, 2020, the Company reported top-line results from its Phase 1b trial in 80 healthy volunteers who were treated with oral olanzapine 10 mg and AM-201 (intranasal betahistine) at up to 30 mg or placebo 3x daily for four weeks. At the highest dose of 30 mg, the mean weight gain from baseline in AM-201-treated participants was 2.8 kg compared against 3.7 kg in control subjects; the primary efficacy endpoint of mean reduction in weight gain was 0.9 kg and statistically significant (p<0.02; n=81 with pre-specified Bayesian augmented controls). In a next step, following additional pre-clinical testing, the Company intends to file for an IND in 2021.
+
+AM-301 for Protecting Against Airborne Pathogens and Allergens
+
+Initiated development of a nasal spray for protection against airborne pathogens and allergens. On September 8, 2020 the Company announced that it had initiated under product code AM-301 the development of a drug-free nasal spray for personal protection against airborne pathogens and allergens. AM-301 is a gel which works by forming a protective layer on the nasal mucosa, acting as a physical barrier against airborne pathogens and allergens. In addition, the composition serves to “trap” such particles and help with their discharge. Together, this is designed to reduce the risk of infection and promote alleviation of allergic symptoms.
+
+Demonstrated significant binding of SARS-CoV-2 in vitro. Testing the key component of AM-301 at various concentrations in a SARS-CoV-2 assay demonstrated a reduction in the viral infectious load of up to 99%. The Company intends to perform additional testing involving various pathogens and allergens.
+
+Corporate Developments
+
+Set up new subsidiary dedicated to AM-301. The new subsidiary, Altamira Medica Ltd. (“Altamira”), is based in Zug, Switzerland, and has a share capital of CHF 0.5 mn. Currently owned 100% by Auris Medical Holding Ltd., ownership in Altamira is expected to decrease as other investors will be invited to join as shareholders once additional financing is required.
+
+Raised CHF 1.5 million through a convertible loan. Under the agreement, Altamira obtained CHF 1.5 mn from FiveT Capital Holding Ltd., a Swiss investment management firm, to fund the development of AM-301. The loan has a term of 18 months, carries an interest rate of 8% p.a. and is convertible including accrued interest into common shares of either Altamira or Auris Medical Holding Ltd.
+
+Initiated a review of strategic options. The Company’s Board of Directors has started a process to explore, review and evaluate a broad range of potential strategic alternatives. These alternatives include but are not limited to the partnering of its various clinical and preclinical programs, or a sale or merger of the Company, in an effort to unlock the potential of those assets and maximize shareholder value.
+
+Regained compliance with Nasdaq minimum bid price requirement. On August 20, 2020, the Company received a letter from Nasdaq stating that because the Company’s shares had a closing bid price at or above $1.00 per share for a minimum of ten (10) consecutive business days, the Company’s stock had regained compliance with the Minimum Bid Price Requirement for continued listing on Nasdaq, and that the matter was closed.
+
+Effected reduction in par value per share. As approved by the Company’s annual general meeting, the par value of each common share was reduced from CHF 0.40 to CHF 0.01, effective June 30, 2020. The transaction was cash neutral with the reduction in issued share capital being credited to the contributed surplus account.
+
+First Half 2020 Financial Results
+
+Total operating expenses for the first half of 2020 were CHF 2.4 million compared to CHF 4.1 million for the first half of 2019.
+
+Research and development expenses for the first half of 2020 were CHF 0.9 million compared to CHF 1.3 million for the first half of 2019. 1
+
+General and administrative expenses for the first half of 2020 were CHF 1.5 million compared to CHF 2.8 million for the first half of 2019.
+
+Net loss for the first half of 2020 was CHF 2.7 million, or CHF 0.58 per share, compared to CHF 3.7 million, or CHF 1.66 per share, for the first half of 2019.
+
+The Company expects its total cash needs in 2020, including project AM-301, to be in the range of CHF 7.0 to 8.5 million for expected total operating expenses of CHF 4.5 to 5.5 million and expected capitalized research and development expenses of CHF 2.5 to 3.0 million.
+
+Conference Call & Webcast Information
+
+Auris Medical will host a conference call and webcast to present its first-half 2020 results and a business update today, September 17, 2020, at 8:30 am Eastern Time (2:30 pm Central European Time). To participate in this conference call, dial 1-877-870-9135 (US toll free) or +44 2071 928 338 (international), and enter passcode 5286195. A live webcast of the conference call can be accessed in the Investor Relations section of the Auris Medical website at www.aurismedical.com. A replay will be available approximately two hours following the live call.
+
+About Auris Medical
+
+Auris Medical is a biopharmaceutical company dedicated to developing therapeutics that address important unmet medical needs in neurotology and CNS disorders. The Company is focused on the development of intranasal betahistine for the treatment of vertigo (AM-125, in Phase 2) and for the prevention of antipsychotic-induced weight gain and somnolence (AM-201, post Phase 1b). With AM-301, the Company is developing a nasal spray for protection against airborne pathogens and allergens. In addition Auris Medical has two Phase 3 programs under development: Sonsuvi® (AM-111) for acute inner ear hearing loss and Keyzilen® (AM-101) for acute inner ear tinnitus. The Company was founded in 2003 and is headquartered in Hamilton, Bermuda with its main operations in Basel, Switzerland. The shares of Auris Medical Holding Ltd. trade on the NASDAQ Capital Market under the symbol “EARS.”
+
+Forward-looking Statements
+
+This press release may contain statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are statements other than historical facts and may include statements that address future operating, financial or business performance or Auris Medical’s strategies or expectations. In some cases, you can identify these statements by forward-looking words such as “may”, “might”, “will”, “should”, “expects”, “plans”, “anticipates”, “believes”, “estimates”, “predicts”, “projects”, “potential”, “outlook” or “continue”, or the negative of these terms or other comparable terminology. Forward-looking statements are based on management’s current expectations and beliefs and involve significant risks and uncertainties that could cause actual results, developments and business decisions to differ materially from those contemplated by these statements. These risks and uncertainties include, but are not limited to, whether the U.S. Food and Drug Administration (“FDA”) and regulatory authorities in other jurisdictions will agree with Auris Medical’s plans for the regulatory pathway for AM-301 and its other product candidates, whether the safety and efficacy of AM-301, and other regulatory requirements, can be established to the satisfaction of the FDA and other regulatory authorities, Auris Medical’s need for and ability to raise substantial additional funding to continue the development of its product candidates, the ability to pursue strategic partnering and non-dilutive funding for its Phase 3 programs, the results of Auris Medical’s review of strategic options and the outcome of any action taken as a result of such review, the timing and conduct of clinical trials of Auris Medical’s product candidates, the clinical utility of Auris Medical’s product candidates, the timing or likelihood of regulatory filings and approvals, Auris Medical’s intellectual property position and Auris Medical’s financial position, including the impact of any future acquisitions, dispositions, partnerships, license transactions or changes to Auris Medical’s capital structure, including future securities offerings. These risks and uncertainties also include, but are not limited to, those described under the caption “Risk Factors” in Auris Medical’s Annual Report on Form 20-F for the year ended December 31, 2019, and in Auris Medical's other filings with the SEC, which are available free of charge on the Securities Exchange Commission's website at: www.sec.gov. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated. All forward-looking statements and all subsequent written and oral forward-looking statements attributable to Auris Medical or to persons acting on behalf of Auris Medical are expressly qualified in their entirety by reference to these risks and uncertainties. You should not place undue reliance on forward-looking statements. Forward-looking statements speak only as of the date they are made, and Auris Medical does not undertake any obligation to update them in light of new information, future developments or otherwise, except as may be required under applicable law.
+
+Investor contact:
+
+Joseph Green
+
+Edison Advisors for Auris Medical
+
+646-653-7030
+
+jgreen@edisongroup.com
+
+Or
+
+investors@aurismedical.com
+
+AURIS MEDICAL HOLDING LTD.
+
+Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Loss
+
+For the Six Months Ended June 30, 2020 and 2019 (in CHF)
+
+SIX MONTHS
+
+ENDED JUNE 30 2020 2019 Research and development (884,747) (1,304,291) General and administrative (1,535,960) (2,803,267) Operating loss (2,420,707) (4,107,558) Interest expense (3,152) (25,261) Foreign currency exchange gain/(loss), net (30,022) (264,121) Revaluation gain / (loss) from derivative financial instruments 4,353 531,245 Transaction costs (219,615) - Loss before tax (2,669,143) (3,865,695) Income tax gain/(loss) 10,642 261,394 Net loss attributable to owners of the Company (2,658,501) (3,604,301) Other comprehensive income/(loss): Items that will never be reclassified to
+
+profit or loss Remeasurement of defined benefit liability (78,010) (115,366) Items that are or may be reclassified to
+
+profit or loss Foreign currency translation differences 16,396 6,666 Other comprehensive income/(loss) (61,614) (108,700) Total comprehensive loss attributable
+
+to owners of the Company (2,720,115) (3,713,001) Basic and diluted loss per share (0.58) (1.66) Average weighted number of shares outstanding, adjusted for effect of reverse stock split 4,585,054 2,173,307
+
+AURIS MEDICAL HOLDING LTD.
+
+Condensed Consolidated Statement of Financial Position
+
+(in CHF)
+
+JUNE 30,
+
+2020 DECEMBER 31,
+
+2019 ASSETS Non-current assets Property and equipment 54,434 66,672 Intangible assets 7,499,491 6,765,613 Other non-current financial receivables 20,001 20,001 Total non-current assets 7,573,926 6,852,286 Current assets Other receivables 151,019 335,299 Prepayments 198,843 434,231 Derivative financial instruments - 219,615 Cash and cash equivalents 39,939 1,384,720 Total current assets 389,801 2,373,865 Total assets 7,963,727 9,226,151 EQUITY AND LIABILITIES Equity Share capital 50,591 1,650,380 Share premium 159,786,160 157,191,707 Foreign currency translation reserve (11,169) (27,565) Accumulated deficit (155,346,991) (152,778,389) Total shareholders (deficit)/equity attributable to owners of the Company 4,478,591 6,036,133 Non-current liabilities Derivative financial instruments - 4,353 Loan 50,000 - Employee benefits 876,776 760,447 Deferred tax liabilities 136,507 147,149 Total non-current liabilities 1,063,283 911,949 Current liabilities Trade and other payables 1,256,352 938,247 Accrued expenses 1,165,501 1,339,822 Total current liabilities 2,421,853 2,278,069 Total liabilities 3,485,136 3,190,018 Total equity and liabilities 7,963,727 9,226,151
+
+
+
+
+
+
+
+1 Does not include capitalized costs related to expenses for the AM-125 program in accordance with IAS38.
+
+
+

@@ -1,0 +1,95 @@
+Rubius Therapeutics Presents Preclinical Data for RTX-321, a Red Cell Therapeutic™ Oncology Product Candidate for HPV-Positive Cancers, Demonstrating its Dual Mechanism of Action. CAMBRIDGE, Mass., Oct. 28, 2020 (GLOBE NEWSWIRE) -- Rubius Therapeutics, Inc. (Nasdaq:RUBY), a clinical-stage biopharmaceutical company that is genetically engineering red blood cells to create an entirely new class of cellular medicines called Red Cell Therapeutics™, today announced the presentation of new preclinical data supporting its lead artificial antigen-presenting cell (aAPC) program, RTX-321, for the potential treatment of human papillomavirus (HPV) 16-positive cancers. These data were presented today during the Federation of Clinical Immunology Societies (FOCIS) Virtual Annual Meeting and earlier this month at the American Association for Cancer Research (AACR) Tumor Immunology Conference.
+
+
+
+“Our preclinical data demonstrate, for the first time, that RTX-321 has a dual mechanism of action by not only functioning as an antigen-presenting cell to boost HPV 16 antigen-specific T cell responses, but also promoting broad immune system stimulation of both innate and adaptive immunity,” said Laurence Turka, M.D. chief scientific officer at Rubius Therapeutics. “The ability to engage both arms of the immune system is expected to provide a robust anti-tumor response by T cells and natural killer cells, making it harder for the tumor to escape by immune evasion. This dual mechanism of action is a key part of the development of epitope spreading, meaning that RTX-321 may induce the expansion of an immune response to secondary epitopes, or antigens, that are not expressed on RTX-321, as well as the development of a potent memory response, potentially enabling the body to remember a cancer’s identity, which is critical to providing long-term protection from recurrence of the tumor.”
+
+Data Summaries
+
+FOCIS Virtual Annual Meeting
+
+An Engineered Allogeneic Artificial Antigen-Presenting Red Cell Therapeutic, RTX-321, Promotes Antigen-Specific T Cell Expansion and Anti-Tumor Activity – Poster #F290
+
+• RTX-321 is an allogeneic, off-the-shelf aAPC therapy product candidate that is engineered to induce a tumor-specific immune response by expanding antigen-specific T cells. RTX-321 expresses hundreds of thousands of copies of an HPV peptide antigen bound to major histocompatibility complex (MHC) class I proteins, the costimulatory molecule 4-1BBL and the cytokine IL-12 on the cell surface to mimic human T cell-APC interactions.
+
+• Rubius Therapeutics demonstrated the dual mechanism of action of RTX-321 and its mouse surrogates to
+
+Function as an aAPC to boost HPV 16 E7-specific CD8+ T-cell responses; and
+
+Promote HPV 16-independent stimulation of innate (NK cells) and adaptive immune (non-HPV antigen-specific CD8+ T cells) responses
+
+• Mouse surrogates of RTX-321 promote tumor control, memory formation and epitope spreading in tumor models in vivo
+
+• Treatment with the RTX-321 mouse surrogate results in minimal, reversible effects in vivo (body weight change, IFNγ and ALT levels)
+
+This is likely due to the biodistribution to the vasculature and spleen
+
+
+
+AACR Tumor Immunology and Immunotherapy Conference
+
+RTX-321, an Allogeneic Red Blood Cell–Based Artificial Antigen Presenting Cell, Expressing MHC I Peptide, 4-1BBL, and IL-12, Engages Primary Human HPV-Specific T Cells, and Boosts Other General Immune Responses – Poster #PO044
+
+• RTX-321 functions as an aAPC to boost HPV 16 antigen-specific T cells in vitro
+
+RTX-321 selectively expands antigen-specific CD8+ T cells
+
+RTX-321 induces activation (HLA-DR) and effector phenotype/function (Tbet and granzyme B) in CD8+ T cells in the presence of HPV 16 antigen-specific T cells
+
+RTX-321 further increases the secretion of interferon gamma (IFNγ) in the presence of HPV 16 antigen-specific CD8+ T cells compared to peripheral blood mononuclear cells (PBMCs) alone
+
+• RTX-321 promotes HPV 16-independent adaptive and innate immune responses in vitro
+
+HLA-DR upregulation is observed in non-HPV 16 specific CD8+ T cells
+
+RTX-321 expands NK cells and increases activation (DNAM1) and effector upregulation (granzyme B) in NK cells
+
+RTX-321 increases the secretion of IFNγ in PBMCs alone
+
+Taken together, these findings support the potential of RTX-321 as an effective therapy for the treatment of HPV 16+ cancers.
+
+About HPV 16 Positive Cancers
+
+Human papillomavirus (HPV) 16 is associated with approximately 70 percent of cervical cancers, approximately 40 percent of head and neck squamous cell carcinoma (HNSCC) arising in the oropharynx, approximately 25-40 percent of HNSCC arising in other locations and approximately 80-85 percent of anal cancers. Despite available therapies, a critical need remains for new treatment options for advanced HPV 16-associated cancers.
+
+About RTX-321
+
+RTX-321 is an allogeneic, off-the-shelf aAPC therapy product candidate that is engineered to induce a tumor-specific immune response by expanding antigen-specific T cells. RTX-321 expresses hundreds of thousands of copies of an HPV peptide antigen bound to major histocompatibility complex (MHC) class I proteins, the costimulatory molecule 4-1BBL and the cytokine IL-12 on the cell surface to mimic human T cell-APC interactions.
+
+About Rubius Therapeutics
+
+Rubius Therapeutics is a clinical-stage biopharmaceutical company developing a new class of medicines called Red Cell Therapeutics™. The Company’s proprietary RED PLATFORM® was designed to genetically engineer and culture Red Cell Therapeutics™ that are selective, potent and off-the-shelf allogeneic cellular therapies for the potential treatment of several diseases across multiple therapeutic areas. Rubius’ initial focus is to advance RCT™ product candidates for the treatment of cancer and autoimmune diseases by leveraging two distinct therapeutic modalities — potent cell-cell interaction and tolerance induction. Rubius Therapeutics’ manufacturing site was recently named 2020 Top 5 Best Places to Work in Rhode Island among medium-sized companies by Providence Business News. For more information, visit www.rubiustx.com, follow us on Twitter or LinkedIn or like us on Facebook.
+
+Forward Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, statements regarding the, our expectations regarding the therapeutic potential of our Red Cell Therapeutics, including RTX-321 for the treatment of HPV 16-positive tumors, and our strategy, business plans and focus. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, those risks and uncertainties related to the development of our Red Cell Therapeutic product candidates and their therapeutic potential and other risks identified in our SEC filings, including our Quarterly Report on Form 10-Q for the quarter ended June 30, 2020, and subsequent filings with the SEC and risks and uncertainties related to the severity and duration of the impact of COVID-19 on our business and operations. We caution you not to place undue reliance on any forward-looking statements, which speak only as of the date they are made. We disclaim any obligation to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements. Any forward-looking statements contained in this press release represent our views only as of the date hereof and should not be relied upon as representing its views as of any subsequent date. We explicitly disclaim any obligation to update any forward-looking statements.
+
+Contacts:
+
+Investors
+
+Lori Melançon
+
+Vice President, Corporate Communications and Investor Relations
+
++1 (617) 949-5296
+
+lori.melancon@rubiustx.com
+
+
+
+Media
+
+Marissa Hanify
+
+Director, Corporate Communications
+
+marissa.hanify@rubiustx.com
+
+Dan Budwick
+
+1AB
+
++1 (973) 271-6085
+
+dan@1abmedia.com

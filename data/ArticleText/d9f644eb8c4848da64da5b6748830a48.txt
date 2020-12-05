@@ -1,0 +1,71 @@
+Kymera Therapeutics to Present Interim Results from a Non-Interventional Study Characterizing IRAK4 Expression and Demonstrating Proof of Mechanism of an IRAK4 Degrader in Patients with Hidradenitis S. Data to be presented at the 5th Annual Symposium on Hidradenitis Suppurativa Advances (SHSA)
+
+Results support clinical development of IRAK4-targeted protein degrader in hidradenitis suppurativa (HS) and other IL-1R/TLR-driven autoimmune and inflammatory diseases, with Phase 1 trial on track for start in 2021
+
+WATERTOWN, Mass., Oct. 09, 2020 (GLOBE NEWSWIRE) -- Kymera Therapeutics, Inc. (NASDAQ: KYMR), a biopharmaceutical company advancing targeted protein degradation to deliver novel small molecule protein degrader therapeutics, today announced the company will present interim data from a non-interventional trial evaluating IRAK4 expression in the skin and blood of patients with HS and atopic dermatitis (AD) as well as the effect of its lead IRAK4 degrader, KT-474, on IRAK4 levels in peripheral blood mononuclear cells (PBMC) following ex vivo treatment. Data will be presented at the 5th Annual Symposium on Hidradenitis Suppurativa Advances (SHSA) on Friday, Oct. 9 at 9:00 AM ET (Poster #P2.20).
+
+“IRAK4 controls signaling through IL-1 receptors (IL-1R) and toll-like receptors (TLR), which play key roles in the pathogenesis of various autoimmune and inflammatory diseases including HS, a painful and debilitating inflammatory skin disease with limited treatment options,” said Jared Gollob, MD, Chief Medical Officer at Kymera Therapeutics. “The goal of conducting a non-interventional study in HS and AD early on was to understand IRAK4 expression in diseased tissues and demonstrate ex vivo proof of mechanism with our lead IRAK4 degrader, KT-474, in patients prior to conducting our first clinical studies. We have completed accrual of HS patients, and these interim data in HS support the relevance of the IRAK4 signaling pathway and the ability of KT-474 to lower IRAK4 levels across all PBMC subsets, thereby differentiating its pharmacodynamic effect from that of IRAK4 kinase inhibitors.”
+
+Conducted in collaboration with Afsaneh Alavi, MD, at York Dermatology Clinic and Research Center in Ontario, Canada, the non-interventional trial is enrolling up to 30 patients with mild, moderate and severe HS and up to 10 patients with moderate or severe AD. IRAK4 levels and the expression of proinflammatory cytokines are measured in skin biopsies obtained from lesional, peri-lesional and non-lesional skin and in blood. The effect of KT-474 or an IRAK4 kinase inhibitor on IRAK4 levels and cytokine production are measured following ex vivo incubation of whole blood. Interim trial results for IRAK4 expression in the skin and blood of 30 HS patients and the impact of KT-474 on IRAK4 levels in HS PBMC are being presented today at SHSA.
+
+“We are highly encouraged by these initial findings which characterize IRAK4 expression in the skin and blood of patients with HS, a debilitating disease with both cutaneous and systemic inflammation. The higher levels of IRAK4 observed in skin from active lesions and in circulating monocytes, a cell type which plays a key role in the pathogenesis of HS, along with the ability of KT-474 to suppress IRAK4 expression in PBMC irrespective of baseline intensity, provide a strong scientific rationale for further evaluation of IRAK4 degraders to treat HS,” said Dr. Alavi, Principal Investigator, formerly at York Dermatology Clinic and Research Center and currently at Mayo Clinic in Rochester, MN. “We look forward to analyzing the full trial results as part of ongoing efforts to advance new therapies for patients with HS and AD with high unmet medical need.”
+
+“This non-interventional trial exemplifies Kymera’s commitment to working with disease area experts from the outset in order to understand target expression and ex vivo pharmacodynamic activity of our degraders in diseased tissue in indications where we intend to develop,” said Nello Mainolfi, PhD, co-founder and CEO, Kymera Therapeutics. “The results to date in HS patients support our plans for clinical development of KT-474, and we are on track to initiate a Phase 1 trial in the first half of 2021.”
+
+SHSA Poster Presentation Highlights
+
+Poster #P2.20, “Interim Results from Non-interventional Study to Evaluate Cutaneous and Circulating Biomarkers for a Novel IRAK4-Targeted Therapeutic in Patients with Hidradenitis Suppurativa,” were presented by Dr. Alavi.
+
+Data presented on the 30 HS patients enrolled showed:
+
+IRAK4 expression can be quantified in the skin using immunofluorescence (IF) and mass spectrometry (MS), and in PBMC by flow cytometry.
+
+IRAK4 expression in the skin was higher in lesional and peri-lesional skin compared to unaffected skin.
+
+IRAK4 was detected in the blood across all PBMC subsets, with the highest expression in monocytes.
+
+Ex vivo treatment of whole blood with an IRAK4 degrader substantially lowered IRAK4 levels across all PBMC subsets in the blood, whereas ex vivo treatment with an IRAK4 kinase inhibitor increased IRAK4 levels in T and NK cells.
+
+Kymera presented preclinical data earlier this year at the 9th European Hidradenitis Suppurativa Foundation Scientific Conference demonstrating that oral daily dosing of its IRAK4 degraders completely suppressed IRAK4 protein expression in skin and immune cells and inhibited cutaneous inflammation. Preclinical research presented at the American College of Rheumatology meeting last year showed that inhibition of in vitro cytokine and chemokine induction by TLR agonists, alone or combined with IL-1b, was superior for IRAK4 degraders compared to IRAK4 kinase inhibitors.
+
+Select Kymera posters, presentations and publications, including today’s SHSA presentation slides, can be found at this link: https://www.kymeratx.com/scientific-resources/?cat=13&tag=all.
+
+About Kymera Therapeutics
+
+Kymera Therapeutics is a biopharmaceutical company focused on a transformative new approach to address previously intractable disease targets. Kymera is advancing the field of targeted protein degradation, accessing the body’s innate protein recycling machinery to degrade dysregulated, disease-causing proteins. Kymera’s Pegasus targeted protein degradation platform harnesses the body’s natural protein recycling machinery to degrade disease-causing proteins, with a focus on un-drugged nodes in validated pathways currently inaccessible with conventional therapeutics. Kymera is accelerating drug discovery with an unmatched ability to target and degrade the most intractable of proteins, and advance new treatment options for patients. Kymera’s initial programs target IRAK4, IRAKIMiD and STAT3 within the IL-1R/TLR or JAK/STAT pathways, providing the opportunity to treat a broad range of immune-inflammatory diseases, hematologic malignancies and solid tumors. For more information, visit www.kymeratx.com.
+
+About Pegasus™
+
+Pegasus™ is Kymera Therapeutics’ proprietary protein degradation platform, created by its team of experienced drug hunters to improve the effectiveness of targeted protein degradation and generate a pipeline of novel therapeutics for previously undruggable diseases. The platform consists of informatics driven target identification, novel E3 ligases, proprietary ternary complex predictive modeling capabilities, and degradation tools.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, implied and express statements regarding its: strategy, business plans and focus; plans and timelines for the clinical development of Kymera Therapeutics' product candidates, therapeutic potential and clinical benefits thereof; growth as a company; expectations regarding future interactions with the U.S. Food and Drug Administration (FDA); and uses of capital. The words "may," “might,” "will," "could," "would," "should," "expect," "plan," "anticipate," "intend," "believe," “expect,” "estimate," “seek,” "predict," “future,” "project," "potential," "continue," "target" and similar words or expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management's current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, risks associated with: the impact of COVID-19 on countries or regions in which we have operations or do business, as well as on the timing and anticipated results of our current preclinical studies and future clinical trials, strategy and future operations; the delay of any current preclinical studies or future clinical trials or the development of Kymera Therapeutics' drug candidates; the risk that the results of current preclinical studies may not be predictive of future results in connection with future clinical trials; Kymera Therapeutics' ability to successfully demonstrate the safety and efficacy of its drug candidates; the timing and outcome of the Company’s planned interactions with regulatory authorities; and obtaining, maintaining and protecting its intellectual property. These and other risks and uncertainties are described in greater detail in the section entitled "Risk Factors" in the final prospectus dated August 20, 2020 and filed pursuant to Rule 424(b) under the Securities of 1933, as amended, with the Securities and Exchange Commission, as well as discussions of potential risks, uncertainties, and other important factors in Kymera Therapeutics' subsequent filings with the Securities and Exchange Commission. In addition, any forward-looking statements represent Kymera Therapeutics' views only as of today and should not be relied upon as representing its views as of any subsequent date. Kymera Therapeutics explicitly disclaims any obligation to update any forward-looking statements. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+Contact:
+
+Investors@kymeratx.com
+
+Bruce Jacobs
+
+Chief Financial Officer
+
+(857) 285-5314
+
+Christopher F. Brinzey
+
+Westwicke, an ICR Company for Kymera Therapeutics
+
+chris.brinzey@westwicke.com
+
+(339) 970-2843
+
+media@kymeratx.com
+
+Lissette L. Steele
+
+Verge Scientific Communications for Kymera Therapeutics
+
+lsteele@vergescientific.com
+
++1 202.930.4762

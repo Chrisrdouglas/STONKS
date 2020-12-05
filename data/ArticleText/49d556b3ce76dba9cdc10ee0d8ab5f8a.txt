@@ -1,0 +1,23 @@
+Genocea Announces FDA Acceptance of GEN-011 IND Application. CAMBRIDGE, Mass., Sept. 22, 2020 (GLOBE NEWSWIRE) -- Genocea Biosciences, Inc. (NASDAQ: GNCA), a biopharmaceutical company developing next-generation neoantigen immunotherapies, today announced that the U.S. Food and Drug Administration (FDA) has accepted the company’s Investigational New Drug (IND) Application for GEN-011, an adoptive T cell therapy targeting neoantigens and designed to improve upon the limitations of TIL and TCR therapies. The IND allows Genocea to initiate a Phase 1/2a clinical study of GEN-011 in patients who have failed standard-of-care checkpoint inhibitor therapy. The trial will evaluate safety, T cell proliferation and persistence as well as clinical activity.
+
+
+
+“GEN-011 builds on the power of our ATLAS™ platform, as demonstrated in our GEN-009 clinical trial, to identify the relevant neoantigens which drive robust anti-tumor T cell responses in patients, regardless of HLA type,” said Chip Clark, President and Chief Executive Officer of Genocea. “Using a patient’s peripheral T cells, already programmed to kill cancer cells with relevant neoantigens, enables this non-engineered therapy to rapidly scale. We therefore believe GEN-011 may eventually offer efficacy, accessibility and cost advantages to patients and providers.”
+
+Genocea plans to enroll up to 24 patients across several tumor types in the Phase 1/2 trial. In one cohort, patients will receive multiple low doses of GEN-011 with low-dose IL-2 and without lymphodepletion. In the other cohort, patients will receive a single GEN-011 dose after lymphodepletion and a high dose of IL-2.
+
+About Genocea Biosciences, Inc.
+
+Genocea’s mission is to conquer cancer by developing personalized cancer immunotherapies in multiple tumor types. Our unique ATLAS™ platform comprehensively profiles each patient’s T cell responses to potential targets, or antigens, on the tumor. ATLAS enables us to optimize the neoantigens for inclusion in our immunotherapies and exclude inhibitory antigens that can exert an immunosuppressive effect. We are advancing two ATLAS-enabled programs: GEN-009, our neoantigen vaccine for which we are conducting a Phase 1/2a clinical trial and GEN-011, our neoantigen-specific cell therapy using T cells derived from peripheral blood for which we are commencing a Phase 1/2a clinical trial. To learn more, please visit www.genocea.com .
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements, including statements relating GEN-011, within the meaning of the Private Securities Litigation Reform Act. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements. Genocea cautions that these forward-looking statements are subject to numerous assumptions, risks and uncertainties that change over time. Applicable risks and uncertainties include those identified under the heading "Risk Factors" included in Genocea's Annual Report on Form 10-K for the year ended December 31, 2019 and any subsequent SEC filings. These forward-looking statements speak only as of the date of this press release and Genocea assumes no duty to update forward-looking statements, except as may be required by law.
+
+Investor Contact:
+
+Dan Ferry
+
+617-430-7576
+
+daniel@lifesciadvisors.com

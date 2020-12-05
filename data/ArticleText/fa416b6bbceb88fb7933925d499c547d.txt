@@ -1,0 +1,81 @@
+BioNTech and Pfizer Initiate Rolling Submission to European Medicines Agency for SARS-CoV-2 Vaccine Candidate BNT162b2. Rolling review accepted by the EMA based on available preclinical and clinical data for BNT162b2 to date
+
+BioNTech and Pfizer will continue regular and open dialogue with the EMA providing results from their ongoing Phase 3 study
+
+NEW YORK and MAINZ, GERMANY, October 6, 2020 — Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) today announced the initiation of a rolling submission to the European Medicines Agency (EMA) for BNT162b2, the lead candidate from the companies’ vaccine development program against COVID-19. The EMA’s decision to start a rolling review follows the encouraging preliminary results from pre-clinical and early clinical studies in adults, which suggest that BNT162b2 triggers the production of neutralizing antibodies and TH-1 dominant CD4+ and CD8+ T cells that target SARS-CoV-2. A combination of an antibody and T cell response is believed to be important in eliciting protection against viral infection and disease. BioNTech and Pfizer plan to work with the EMA’s Committee for Medicinal Products for Human Use (CHMP) to complete the rolling review process to facilitate the final Marketing Authorization Application (MAA).
+
+As part of the rolling review, the CHMP has begun evaluating data generated in pre-clinical trials. The formal MAA submission could be finalized following the rolling review process, pending demonstration of vaccine efficacy and safety and confirmation from the EMA that the submitted data are adequate. The vaccine candidate will remain subject to the EMA’s diligent standards for quality, safety and efficacy.
+
+“It is our duty to ensure that while we are working to develop a potential vaccine at unprecedented speed to help address this pandemic, we do so with the highest ethical standards while adhering to sound scientific principles. We will continue to have regular and open dialogue with the EMA throughout the rolling review process,” said Ugur Sahin, M.D., CEO and Co-founder of BioNTech.
+
+“A global crisis the magnitude of COVID-19 has completely transformed the vaccine development and review process,” said Peter Honig, M.D., Senior Vice President and Head of Worldwide Safety and Regulatory of Pfizer. “We are making every effort to develop a safe and effective vaccine following the guidance of regulatory agencies and are proud to take this historic step with the European Medicines Agency for our COVID-19 vaccine candidate, BNT162b2.”
+
+The BNT162b2 vaccine candidate is based on BioNTech’s proprietary mRNA technology and supported by Pfizer’s global vaccine development and manufacturing capabilities. It encodes an optimized SARS-CoV-2 full-length spike glycoprotein (S), which is a target of virus neutralizing antibodies. The vaccine candidate is currently being evaluated in a global Phase 3 study ongoing at more than 120 clinical sites worldwide including the United States, Brazil, South Africa and Argentina. To date, the trial has enrolled approximately 37,000 participants with more than 28,000 having received their second vaccination.
+
+Preliminary data from the Phase 1/2 portions of the study have demonstrated that BNT162b2 was well tolerated with mild to moderate adverse events in all age groups. The vaccine candidate generated dose level-dependent immunogenicity, as measured by receptor binding domain (RBD)-binding IgG concentrations and SARS-CoV-2 neutralizing titers. In addition, BNT162b2-vaccinated human participants displayed a favorable breadth of epitopes recognized in T cell responses specific to the SARS-CoV-2 spike antigen, and BNT162b2 demonstrated a concurrent induction of high magnitude CD4+ and CD8+ T cell responses which were TH-1 dominant against the RBD and the remainder of the full spike glycoprotein. Full information on previously released data can be found here. For further information about the ongoing Phase 3 trial, visit www.ClinicalTrials.gov using the number NCT04368728.
+
+
+
+About the EMA’s Rolling Review
+
+Normally, all data on an investigational medicine’s efficacy, safety and quality and all required documents must be submitted at the start of the evaluation in a complete application for marketing authorization. In the case of a rolling review, the EMA’s CHMP reviews data as they become available from ongoing studies, before a complete application is submitted. Once the CHMP decides that sufficient data are available, the complete application should be submitted by the company. By reviewing the data as they become available, the CHMP can reach its opinion sooner on whether or not the investigational medicine or vaccine should be authorized. After a positive opinion, if adopted by the CHMP, it is the European Commission’s role to grant a Marketing Authorization.
+
+
+
+About Pfizer: Breakthroughs That Change Patients’ Lives
+
+At Pfizer, we apply science and our global resources to bring therapies to people that extend and significantly improve their lives. We strive to set the standard for quality, safety and value in the discovery, development and manufacture of health care products, including innovative medicines and vaccines. Every day, Pfizer colleagues work across developed and emerging markets to advance wellness, prevention, treatments and cures that challenge the most feared diseases of our time. Consistent with our responsibility as one of the world's premier innovative biopharmaceutical companies, we collaborate with health care providers, governments and local communities to support and expand access to reliable, affordable health care around the world. For more than 170 years, we have worked to make a difference for all who rely on us. We routinely post information that may be important to investors on our website at www.Pfizer.com . In addition, to learn more, please visit us on www.Pfizer.com and follow us on Twitter at @Pfizer and @Pfizer News , LinkedIn , YouTube and like us on Facebook at Facebook.com/Pfizer .
+
+Pfizer Disclosure Notice
+
+The information contained in this release is as of October 6, 2020. Pfizer assumes no obligation to update forward-looking statements contained in this release as the result of new information or future events or developments.
+
+This release contains forward-looking information about Pfizer’s efforts to combat COVID-19, the collaboration between BioNTech and Pfizer to develop a potential COVID-19 vaccine, the BNT162 mRNA vaccine program, and modRNA candidate BNT162b2 (including qualitative assessments of available data, potential benefits, expectations for clinical trials, anticipated timing of clinical trial readouts and regulatory submissions and the rolling submission to the EMA), that involves substantial risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Risks and uncertainties include, among other things, the uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as risks associated with preliminary data, including the possibility of unfavorable new preclinical or clinical trial data and further analyses of existing preclinical or clinical trial data that may be inconsistent with the data used for selection of the BNT162b2 vaccine candidate and dose level for the Phase 2/3 study; the risk that clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; whether and when data from the BNT162 mRNA vaccine program will be published in scientific journal publications and, if so, when and with what modifications; whether regulatory authorities will be satisfied with the design of and results from these and future preclinical and clinical studies; whether and when any biologics license and/or emergency use authorization applications may be filed in any jurisdictions for BNT162b2 or any other potential vaccine candidates; whether and when any such applications may be approved by regulatory authorities, which will depend on myriad factors, including making a determination as to whether the vaccine candidate’s benefits outweigh its known risks and determination of the vaccine candidate’s efficacy and, if approved, whether it will be commercially successful; decisions by regulatory authorities impacting labeling, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of a vaccine, including development of products or therapies by other companies; manufacturing capabilities or capacity, including whether the estimated numbers of doses can be manufactured within the projected time periods indicated; whether and when additional supply agreements will be reached; uncertainties regarding the ability to obtain recommendations from vaccine technical committees and other public health authorities and uncertainties regarding the commercial impact of any such recommendations; and competitive developments.
+
+A further description of risks and uncertainties can be found in Pfizer’s Annual Report on Form 10-K for the fiscal year ended December 31, 2019 and in its subsequent reports on Form 10-Q, including in the sections thereof captioned “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results”, as well as in its subsequent reports on Form 8-K, all of which are filed with the U.S. Securities and Exchange Commission and available at www.sec.gov and www.pfizer.com .
+
+
+
+About BioNTech
+
+Biopharmaceutical New Technologies is a next generation immunotherapy company pioneering novel therapies for cancer and other serious diseases. The Company exploits a wide array of computational discovery and therapeutic drug platforms for the rapid development of novel biopharmaceuticals. Its broad portfolio of oncology product candidates includes individualized and off-the-shelf mRNA-based therapies, innovative chimeric antigen receptor T cells, bi-specific checkpoint immuno-modulators, targeted cancer antibodies and small molecules. Based on its deep expertise in mRNA vaccine development and in-house manufacturing capabilities, BioNTech and its collaborators are developing multiple mRNA vaccine candidates for a range of infectious diseases alongside its diverse oncology pipeline. BioNTech has established a broad set of relationships with multiple global pharmaceutical collaborators, including Genmab, Sanofi, Bayer Animal Health, Genentech, a member of the Roche Group, Regeneron, Genevant, Fosun Pharma, and Pfizer.
+
+For more information, please visit www.BioNTech.de .
+
+
+
+BioNTech Forward-looking Statements
+
+
+
+This press release contains “forward-looking statements” of BioNTech within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements may include, but may not be limited to, statements concerning: BioNTech’s efforts to combat COVID-19; the collaboration between BioNTech and Pfizer to develop a potential COVID-19 vaccine; and the anticipated timing of clinical trial readouts, regulatory submissions and regulatory approvals. Any forward-looking statements in this press release are based on BioNTech current expectations and beliefs of future events, and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: competition to create a vaccine for COVID-19; the ability to produce comparable clinical results in larger and more diverse clinical trials; the ability to effectively scale our productions capabilities; and other potential difficulties. For a discussion of these and other risks and uncertainties, see BioNTech’s Annual Report on Form 20-F filed with the SEC on March 31, 2020, which is available on the SEC’s website at www.sec.gov. All information in this press release is as of the date of the release, and BioNTech undertakes no duty to update this information unless required by law.
+
+
+
+Pfizer Contacts:
+
+Media Relations
+
+Andy Widger
+
++44 7970 149098
+
+andrew.widger@pfizer.com
+
+Investor Relations
+
+Chuck Triano
+
++1 (212) 733-3901
+
+Charles.E.Triano@Pfizer.com
+
+BioNTech Contacts:
+
+Media Relations
+
+Jasmina Alatovic
+
++49 (0)6131 9084 1513 or +49 (0)151 1978 1385
+
+Media@biontech.de

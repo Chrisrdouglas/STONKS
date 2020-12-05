@@ -1,0 +1,57 @@
+Tonix Pharmaceuticals Enrolls First Participant in the PRECISION Study, an Observational Study to Facilitate Development of Precision Medicine Techniques for COVID-19 Vaccines and Therapeutics. Study May Lead to Biomarkers for Tailoring COVID-19 Vaccines and Therapeutics
+
+
+
+Potential Development of Human Monoclonal Antibody Therapeutics to SARS-CoV-2
+
+Results from the PRECISION Study Expected in First Half of 2021
+
+CHATHAM, N.J., Oct. 15, 2020 (GLOBE NEWSWIRE) -- Tonix Pharmaceuticals Holding Corp. (Nasdaq: TNXP) (Tonix or the Company), a clinical-stage biopharmaceutical company, today announced that the first participant was enrolled in the observational PRECISION study (TNX-C002), to examine the immune responses to COVID-19 in healthy volunteers who have recovered from COVID-19 or were asymptomatic. The research is part of an ongoing collaboration between Columbia University and Tonix that focuses on T cell and antibody responses to SARS-CoV-2 (CoV-2), the virus that causes COVID-19. The research encompasses two projects. The study led by Dr. Ilya Trakht, Ph.D., Associate Research Scientist at Columbia University Vagelos College of Physicians and Surgeons, has the potential to lead to the isolation and characterization of therapeutically relevant fully human monoclonal antibodies to SARS-CoV-2. The study led by Dr. Sergei Rudchenko, Ph.D., Assistant Professor of Medical Sciences at Columbia University Vagelos College of Physicians and Surgeons, is designed to generate DNA aptamer-based anti-idiotypes to selected monoclonal antibodies identified in Dr. Ilya Trakht’s study. Such aptamers have the potential to identify biomarkers for protective CoV-2 immunity and may lead to accelerated precision medicine-driven vaccines designed to protect against COVID-19.
+
+“Data from the PRECISION study may help guide research to determine which vaccine or therapeutic is appropriate on an individual basis,” said Seth Lederman, M.D., President and Chief Executive Officer of Tonix Pharmaceuticals. “This work may also guide the selection of appropriate participants for clinical trials of COVID-19 vaccines, including future human trials using Tonix’s TNX-1800, a live replicating, attenuated COVID-19 vaccine candidate designed to confer durable T cell immunity.”
+
+About TNX-1800
+
+TNX-1800 is a live modified horsepox virus vaccine for percutaneous administration that is designed to express the Spike protein of the SARS-CoV-2 virus that causes COVID-19 and to elicit a predominant T cell response. Horsepox and vaccinia are closely related orthopoxviruses that are believed to share a common ancestor. Live replicating orthopoxviruses, like vaccinia or horsepox, can be engineered to express foreign genes and have been explored as platforms for vaccine development because they possess; (1) large packaging capacity for exogenous DNA inserts, (2) precise virus-specific control of exogenous gene insert expression, (3) lack of persistence or genomic integration in the host, (4) strong immunogenicity as a vaccine, (5) ability to rapidly generate vector/insert constructs, (6) readily manufacturable at scale, and (7) ability to provide direct antigen presentation. Relative to vaccinia, horsepox has substantially decreased virulence in mice1. Horsepox-based vaccines are designed to be single dose, vial-sparing vaccines, which can be manufactured on conventional cell culturing systems, with the potential for mass scale production.
+
+1Noyce RS, et al. (2018) PLoS One. 13(1):e0188453
+
+About Tonix Pharmaceuticals Holding Corp.
+
+Tonix is a clinical-stage biopharmaceutical company focused on discovering, licensing, acquiring and developing small molecules and biologics to treat and prevent human disease and alleviate suffering. Tonix’s portfolio is primarily composed of central nervous system (CNS) and immunology product candidates. The immunology portfolio includes vaccines to prevent infectious diseases and biologics to address immunosuppression, cancer and autoimmune diseases. The CNS portfolio includes both small molecules and biologics to treat pain, neurologic, psychiatric and addiction conditions. Tonix’s lead vaccine candidate, TNX-1800*, is a live replicating vaccine based on the horsepox viral vector platform to protect against COVID-19, primarily by eliciting a T cell response. Tonix expects data from animal studies of TNX-1800 in the fourth quarter of this year. TNX-801*, live horsepox virus vaccine for percutaneous administration, is in development to protect against smallpox and monkeypox and serves as the vector platform on which TNX-1800 is based. Tonix is also developing TNX-2300* and TNX-2600*, live replicating vaccine candidates for the prevention of COVID-19, but using bovine parainfluenza as the vector. Tonix’s lead CNS candidate, TNX-102 SL**, is in Phase 3 development for the management of fibromyalgia. The Company expects topline data in the Phase 3 RELIEF study in the fourth quarter of 2020. Tonix is also currently enrolling participants in the Phase 3 RALLY study for the management of fibromyalgia using TNX-102 SL, and the results are expected in second half of 2021. TNX-102 SL is also in development for agitation in Alzheimer’s disease and alcohol use disorder (AUD). Both programs are Phase 2 ready, and the AAD program has FDA Fast Track designation. Tonix‘s programs for treating addiction conditions also include TNX-1300* (T172R/G173Q double-mutant cocaine esterase 200 mg, i.v. solution), which is in Phase 2 development for the treatment of life-threatening cocaine intoxication and has FDA Breakthrough Therapy designation. TNX-601 CR** (tianeptine oxalate controlled-release tablets) is another CNS program, currently in Phase 1 development as a daytime treatment for depression while TNX-1900**, intranasal oxytocin, is in development as a non-addictive treatment for migraine and cranio-facial pain. Tonix’s preclinical pipeline includes TNX-1600** (triple reuptake inhibitor), a new molecular entity being developed as a treatment for PTSD; TNX-1500* (anti-CD154), a monoclonal antibody being developed to prevent and treat organ transplant rejection and autoimmune conditions; and TNX-1700* (rTFF2), a biologic being developed to treat gastric and pancreatic cancers.
+
+*TNX-1800, TNX-801, TNX-2300, TNX-2600, TNX-1300, TNX-1500 and TNX-1700 are investigational new biologics and have not been approved for any indication.
+
+**TNX-102 SL, TNX-601 CR, TNX-1600 and TNX-1900 are investigational new drugs and have not been approved for any indication.
+
+This press release and further information about Tonix can be found at www.tonixpharma.com.
+
+Forward Looking Statements
+
+Certain statements in this press release are forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of forward-looking words such as “anticipate,” “believe,” “forecast,” “estimate,” “expect,” and “intend,” among others. These forward-looking statements are based on Tonix's current expectations and actual results could differ materially. There are a number of factors that could cause actual events to differ materially from those indicated by such forward-looking statements. These factors include, but are not limited to, risks related to failure to obtain FDA clearances or approvals and noncompliance with FDA regulations; delays and uncertainties caused by the global COVID-19 pandemic; risks related to the timing and progress of clinical development of our product candidates; our need for additional financing; uncertainties of patent protection and litigation; uncertainties of government or third party payor reimbursement; limited research and development efforts and dependence upon third parties; and substantial competition. As with any pharmaceutical under development, there are significant risks in the development, regulatory approval and commercialization of new products. Tonix does not undertake an obligation to update or revise any forward-looking statement. Investors should read the risk factors set forth in the Annual Report on Form 10-K for the year ended December 31, 2019, as filed with the Securities and Exchange Commission (the “SEC”) on March 24, 2020, and periodic reports filed with the SEC on or after the date thereof. All of Tonix's forward-looking statements are expressly qualified by all such risk factors and other cautionary statements. The information set forth herein speaks only as of the date thereof.
+
+Contacts
+
+Jessica Morris (corporate)
+
+Tonix Pharmaceuticals
+
+investor.relations@tonixpharma.com
+
+(212) 688-9421
+
+Travis Kruse (media)
+
+Russo Partners
+
+travis.kruse@russopartnersllc.com
+
+(212) 845-4272
+
+Peter Vozzo (investors)
+
+Westwicke
+
+peter.vozzo@westwicke.com
+
+(443) 213-0505

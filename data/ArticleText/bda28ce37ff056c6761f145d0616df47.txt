@@ -1,0 +1,77 @@
+Sorrento Therapeutics Releases Positive Results of Phase 1B Trial of Resiniferatoxin (RTX) Epidural in Cancer Patients with Reported Intractable Pain. Seventeen subjects with advanced cancer pain received epidural RTX (0.4 to 25 mcg).
+
+
+
+No dose limiting toxicities were reported.
+
+A majority of patients reported meaningful pain reduction of 30% or more from baseline.
+
+Sorrento expects to submit to the FDA a request to proceed with a Phase 3 clinical trial in this orphan indication imminently.
+
+SAN DIEGO, Sept. 22, 2020 (GLOBE NEWSWIRE) -- Sorrento Therapeutics, Inc. (Nasdaq: SRNE, "Sorrento") announced the public release of the results of its’ multicenter, open-label, Phase 1b Study to Evaluate Safety and MTD of Epidural Resiniferatoxin Injection for the Treatment of Intractable Cancer Pain, at the 14th Annual Pain Therapeutics Summit held virtually from September 21 to 22, 2020. Data was presented by Srdjan Nedeljkovic, MD, Associate Professor of Anesthesia, Harvard Medical School/Brigham & Women's Hospital.
+
+“We are extremely encouraged by the results of this initial study. Even in patients with high levels of pain, RTX given via an epidural injection has been found to reduce pain intensity without having any long-term adverse safety consequences,” said Associate Professor of Anesthesia, Srdjan S. Nedeljkovic, M.D. from the Department of Anesthesiology, Perioperative and Pain Medicine, Brigham and Women’s Hospital at Harvard Medical School. “The patient population had intractable pain that did not respond to other standard therapeutic approaches, including opioids. The addition of RTX to the management of patients with intractable advanced-stage cancer pain offers the prospect of reducing suffering and improving quality of life for this underserved patient population”.
+
+This multicenter, open-label study enrolled 17 adults with intractable moderate to severe cancer pain. Subjects were treated with a one-time epidural administration of RTX at escalating dose level cohorts, ranging from 0.4 µg to 25 µg in 3 ml saline, in seven cohorts. The first participant in each cohort served as the “Sentinel” subject. The first two dosing cohorts (0.4 µg and 1.0 µg) each included one subject. Subsequent cohorts proceeded with three subjects each (2, 4, 8, 15 and 25 µg).
+
+Enrollment of dose escalation cohorts has completed, with 17 subjects receiving RTX. 65% were women and 35% were men. The median age was 58 years (range 28-82 years). The baseline numerical pain rating scale (NPRS) average score was a mean of 6.8 (standard deviation (S.D.) of 1.65), and the baseline NPRS worst score was a mean of 7.9 (S.D. of 1.26).
+
+No dose-limiting toxicities were reported. Dose escalation was completed at 25 ug. The most frequently reported treatment-emergent adverse event was transient post-procedural pain that was described in 47.1% of subjects. Post-injection-associated pain was managed with traditional short-term pain medications on the day of RTX injection. Typically, the RTX-associated pain following injection subsided before the 8-hour post-injection assessment and resolved within 24 hours in all subjects. Transient and reversible adverse events reported in at least two RTX-treated subjects were nausea (17.6%), vomiting (17.6%), and headache (17.6%). A total of 15 serious adverse events (SAEs) were reported, but none were deemed by the investigator to be related to RTX treatment. Most adverse events were attributed to the underlying cancer diagnosis.
+
+Clinical efficacy (CE) was assessed at three efficacy levels: CE30, CE50 and CE70, defined as a 30%, 50% and 70% decrease in pain, respectively, for three consecutive days from the original baseline NPRS score of ≥ 6/10.
+
+A positive outcome was observed in the lowest dose of RTX administered (0.4 ug) at the CE30 efficacy point. A dose-response relationship was observed, with the majority of responders at the 15 ug and 25 ug dose levels. Of the 17 subjects, 11 achieved the CE30 prespecified efficacy end-point using NPRS scores. Day 90 results for all RTX doses pooled are shown below:
+
+Percentage decrease in Pain Average Pain Worst Pain > 30% reduction from Baseline 64.7 % 47.1 % > 50% reduction from Baseline 35.3 % 29.4 % > 70% reduction from Baseline 23.5 % 17.6 %
+
+PK data revealed no detectable drug in plasma in 15 of the 17 subjects. Minimally detectable levels of RTX were seen in 2 of the 17 subjects, in each case only at the initial post-injection time point.
+
+RTX administration was well-tolerated when given as a one-time epidural injection at doses up to 25 ug. Preliminary clinical pain improvement was observed in the dose-escalation phase. Based on the results, though the protocol allowed exploration of a 35 mcg dose for this indication, a dose beyond 25 mcg was not deemed necessary to qualify the safety and clinically meaningful efficacy of the drug. These preliminary data support further study of epidural RTX in a broader patient population with what would be considered moderate to severe pain associated with cancer in this orphan indication.
+
+For access to the poster associated with the scientific presentation, please visit Sorrento Investor Relations Site
+
+Sorrento intends to rapidly advance to larger scale trials and expects to submit a request to proceed with a multicenter, blinded, controlled Phase 3 trial to the FDA in the upcoming weeks.
+
+About Resiniferatoxin (RTX)
+
+A thousand times “hotter” than pure capsaicin (16 Billion Scoville units versus 16M), and with a high affinity for afferent pain nerves, resiniferatoxin binds to TRPV1 receptors and selectively ablates the nerve endings responsible for pain signals experienced by patients1. Delivered peripherally (into the joint space) the transient nerve ending ablation effect can have profound clinical benefits lasting for months to years (as shown in canine studies2).
+
+RTX-001 was a multicenter, open-label dose escalation Phase 1b study to assess the safety and define the maximally tolerated dose of resiniferatoxin administered via the epidural route for the reduction of moderate to severe pain signal intensity associated with advanced cancer. The Phase 1b study was a dose-escalation protocol in which cohorts of patients received increasing doses of resiniferatoxin until the maximum tolerated dose was achieved. The primary objective of the study was to evaluate the safety of resiniferatoxin and identify the recommended Phase 3 dose. The secondary objective was to assess the preliminary efficacy of resiniferatoxin measured by assessing changes in the intensity of pain using the NPRS score, a widely used proprietary validated pain scale.
+
+RTX is not approved for clinical use by regulatory authorities. Safety and efficacy have not been established.
+
+More information on this trial can be found at www.clinicaltrials.gov (NCT03226574).
+
+About Sorrento Therapeutics, Inc.
+
+Sorrento is a clinical stage, antibody-centric, biopharmaceutical company developing new therapies to treat cancers. Sorrento's multimodal, multipronged approach to fighting cancer is made possible by its extensive immuno-oncology platforms, including key assets such as fully human antibodies (“G-MAB™ library”), clinical stage immuno-cellular therapies (“CAR-T”, “DAR-T”), antibody-drug conjugates (“ADCs”), and clinical stage oncolytic virus (“Seprehvir®”, “Seprehvec™”). Sorrento is also developing potential antiviral therapies and vaccines against coronaviruses, including COVIDTRAP™, ACE-MAB™, COVI-MAB™, COVI-GUARD™, COVI-SHIELD™ and T-VIVA-19™; and diagnostic test solutions, including COVI-TRACK™ and COVI-TRACE™.
+
+Sorrento's commitment to life-enhancing therapies for patients is also demonstrated by our effort to advance a first-in-class (TRPV1 agonist) non-opioid pain management small molecule, resiniferatoxin (“RTX”), and ZTlido® (lidocaine topical system) 1.8% for the treatment of post-herpetic neuralgia. RTX is completing a phase 1B trial for intractable pain associated with cancer and a phase 1B trial in osteoarthritis patients. ZTlido® was approved by the FDA on February 28, 2018.
+
+For more information visit www.sorrentotherapeutics.com
+
+Forward-Looking Statements
+
+This press release and any statements made for and during any presentation or meeting contain forward-looking statements related to Sorrento Therapeutics, Inc., under the safe harbor provisions of Section 21E of the Private Securities Litigation Reform Act of 1995 and subject to risks and uncertainties that could cause actual results to differ materially from those projected. Forward-looking statements include statements regarding the expectations for Sorrento's and its subsidiaries' technologies and product candidates, including, but, not limited to, resiniferatoxin (RTX), the clinical potential of RTX, timing for commencing larger scale trials for RTX, timing for completion and submission of a request to proceed with any Phase 3 trial for RTX and the possibility of proceeding to a Phase 3 trial. Risks and uncertainties that could cause our actual results to differ materially and adversely from those expressed in our forward-looking statements, include, but are not limited to: risks related to Sorrento's and its subsidiaries', affiliates’ and partners’ technologies and prospects, including, but not limited to, RTX; risks related to seeking regulatory approvals and conducting and obtaining results of clinical trials; costs associated with clinical trials; risks that prior test, study and trial results may not be replicated in future studies and trials; the clinical and commercial success of RTX; the viability and success of using RTX for treatments in certain therapeutic areas, including for the treatment of intractable pain associated with cancer; risks related to the global impact of COVID-19; and other risks that are described in Sorrento's most recent periodic reports filed with the Securities and Exchange Commission, including Sorrento's Annual Report on Form 10-K for the year ended December 31, 2018, and subsequent Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission, including the risk factors set forth in those filings. Investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this release and we undertake no obligation to update any forward-looking statement in this press release except as required by law.
+
+Media and Investor Relations
+
+Alexis Nahama, SVP Head of RTX Program.
+
+Telephone: 1.858.203.4120
+
+Email: mediarelations@sorrentotherapeutics.com
+
+
+
+
+
+Sorrento® and the Sorrento logo are registered trademarks of Sorrento Therapeutics, Inc. G-MAB™, COVI-GUARD™, COVI-SHIELD™, COVIDTRAP™, T-VIVA-19™, COVI-MAB™, ACE-MAB™, COVI-TRACK™, and COVI-TRACE™ are trademarks of Sorrento Therapeutics, Inc.
+
+ZTlido® is a trademark owned by Scilex Pharmaceuticals Inc..
+
+All other trademarks are the property of their respective owners.
+
+© 2020 Sorrento Therapeutics, Inc. All Rights Reserved.
+
+_______________________________________________________________________________________________________________________________________________

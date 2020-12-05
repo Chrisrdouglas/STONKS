@@ -1,0 +1,51 @@
+Collaborative Research by OpGen Group Company Ares Genetics and Johns Hopkins Researchers Demonstrates Potential of Next-Generation Sequencing for Investigation of Genetic Antimicrobial Resistance Mec. Published Study on Modifiable Risk Factors for the Emergence of Ceftolozane-Tazobactam Resistance
+
+
+
+Presented Study on Long-Read Sequencing to Predict Phenotypic Antimicrobial Susceptibility Testing Results
+
+Work Aimed at Demonstrating Diagnostic Value of Next-Generation Sequencing for Antimicrobial Susceptibility Testing and Translation into Clinical Practice
+
+VIENNA, Austria and GAITHERSBURG, Md., Sept. 16, 2020 (GLOBE NEWSWIRE) -- OpGen, Inc. (Nasdaq: OPGN, “OpGen”), announced today that scientists at its subsidiary Ares Genetics GmbH (Vienna, Austria; “Ares Genetics”), in collaboration with researchers from the Johns Hopkins University School of Medicine, have published a peer-reviewed study on modifiable risk factors for the emergence of ceftolozane-tazobactam resistance in P. aeruginosa in the journal Clinical Infectious Diseases.
+
+P. aeruginosa is listed by the World Health Organization as critical priority pathogen. To overcome antimicrobial resistance, ceftolozane-tazobactam has been introduced as a novel β-lactam-β-lactamase inhibitor combination agent and received initial U.S. FDA approval in 2014. While pre-clinical investigations indicated ceftolozane-tazobactam activity against approximately 85%-95% of U.S. and Canadian carbapenem-non-susceptible P. aeruginosa isolates, soon after the clinical introduction of ceftolozane-tazobactam, reports of resistance during therapy emerged.
+
+The study published in Clinical Infectious Diseases sought to understand mechanisms of resistance leading to ceftolozane-tazobactam resistance, the frequency of cross-resistance between ceftolozane-tazobactam and other novel beta-lactam beta-lactamase inhibitor combinations and identify modifiable risk factors that may slow or prevent the acquisition of ceftolozane-tazobactam resistance. Findings demonstrate the potential of Next-Generation Sequencing (NGS) to investigate mechanisms of resistance by analyzing whole-genome sequencing data from P. aeruginosa isolates that developed resistance under treatment with ceftolozane-tazobactam. Mutations identified in ceftolozane-tazobactam resistant isolates involved, amongst others, AmpC, a known binding site for ceftolozane, PBP3, the target of ceftolozane, and DNA polymerase. The researchers propose extending ceftolozane-tazobactam infusions as a potential protective measure against acquired mutational resistance.
+
+The present study is the result of an ongoing collaboration between Ares Genetics and the Johns Hopkins University School of Medicine, with the goal of investigating the diagnostic potential of NGS for antimicrobial susceptibility testing. Earlier this year, Dr. Patricia Simner of Johns Hopkins Medicine and Ares Genetics presented results from a study assessing the potential of long-read sequencing to predict antimicrobial susceptibility results at the online ASM Microbe 2020 meeting.
+
+Dr. Andreas Posch, CEO Ares Genetics and co-author of both studies, commented, “While we have already shown that NGS allows for CLIA-compliant identification of bacterial pathogens and antimicrobial resistance markers as well as accurate prediction of phenotypic resistance in previous publications, the present studies further underline the diagnostic value of NGS as well as the need for rapid antimicrobial resistance testing and improving antibiotic treatment regiments. I am particularly excited about our joint work on using long-read sequencing technology for phenotype prediction as this technology could potentially allow for molecular antibiotic susceptibility testing directly from native patient samples in just a few hours.”
+
+About OpGen, Inc.
+
+OpGen, Inc. (Gaithersburg, MD, USA) is a precision medicine company harnessing the power of molecular diagnostics and bioinformatics to help combat infectious disease. Along with subsidiaries, Curetis GmbH and Ares Genetics GmbH, we are developing and commercializing molecular microbiology solutions helping to guide clinicians with more rapid and actionable information about life threatening infections to improve patient outcomes, and decrease the spread of infections caused by multidrug-resistant microorganisms, or MDROs. OpGen’s product portfolio includes Unyvero, Acuitas AMR Gene Panel and Acuitas® Lighthouse, and the ARES Technology Platform including ARESdb, using NGS technology and AI-powered bioinformatics solutions for antibiotic response prediction.
+
+For more information, please visit www.opgen.com .
+
+Forward-Looking Statements by OpGen
+
+This press release includes statements regarding studies and publications of OpGen’s subsidiary Ares Genetics GmbH. These statements and other statements regarding OpGen’s future plans and goals constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Such statements are subject to risks and uncertainties that are often difficult to predict, are beyond our control, and which may cause results to differ materially from expectations. Factors that could cause our results to differ materially from those described include, but are not limited to, our ability to successfully, timely and cost-effectively develop, seek and obtain regulatory clearance for and commercialize our product and services offerings, the rate of adoption of our products and services by hospitals and other healthcare providers, the realization of expected benefits of our business combination transaction with Curetis GmbH, the success of our commercialization efforts, the impact of COVID-19 on the Company’s operations, financial results, and commercialization efforts as well as on capital markets and general economic conditions, the effect on our business of existing and new regulatory requirements, and other economic and competitive factors. For a discussion of the most significant risks and uncertainties associated with OpGen's business, please review our filings with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, which are based on our expectations as of the date of this press release and speak only as of the date of this press release. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+OpGen Contact:
+
+Oliver Schacht
+
+CEO
+
+InvestorRelations@opgen.com
+
+Press Contact:
+
+Matthew Bretzius
+
+FischTank Marketing and PR
+
+matt@fischtankpr.com
+
+Investor Contact:
+
+Megan Paul
+
+Edison Group
+
+mpaul@edisongroup.com

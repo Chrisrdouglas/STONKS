@@ -1,0 +1,160 @@
+Denali Therapeutics to Highlight Progress Across Broad Biotherapeutics Portfolio for Neurodegeneration Enabled by Its Blood-Brain Barrier (BBB) TV Platform at Virtual R&D Day Today. Proprietary and differentiated Transport Vehicle (TV) technology shows potential to solve the BBB challenge by delivering biotherapeutics to the brain
+
+New preclinical data support the potential for systemic administration of ETV:IDS (DNL310) to treat the neurological pathology of Hunter syndrome and replace standard-of-care therapy
+
+Early safety and biomarker data from ongoing Phase 1/2 trial of DNL310 expected by year end 2020 and, if positive, these data would validate Denali’s TV technology for brain delivery
+
+Broad biotherapeutic portfolio enabled by TV technology includes enzymes, antibodies and oligonucleotides across multiple therapeutic areas including neurodegenerative diseases, lysosomal storage disorders, and oncology
+
+SOUTH SAN FRANCISCO, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- Denali Therapeutics Inc. (NASDAQ: DNLI), a biopharmaceutical company developing a broad portfolio of product candidates engineered to cross the blood-brain barrier (BBB) for neurodegenerative diseases, will host a virtual R&D Day webinar today highlighting progress across the Company’s broad and diverse biotherapeutics portfolio enabled by its BBB transport vehicle (TV) platform. The webinar will begin at 1:00 p.m. Eastern Time and can be accessed here.
+
+“Delivering biotherapeutics to the brain has historically been a significant challenge in the field, hindering efforts to develop medicines for neurodegenerative diseases,” said Ryan Watts, Ph.D., Denali’s chief executive officer. “Addressing this challenge is a core scientific principle in our multi-pronged strategy to defeat degeneration. We have designed our BBB-crossing TV technology to access the brain for biotherapeutics. In addition to our small molecule therapeutic programs, we believe that our TV-enabled biotherapeutics portfolio has the potential to yield effective new medicines for patients.”
+
+“We are pleased to share recent progress in our portfolio of TV-enabled biotherapeutic programs,” said Carole Ho, M.D., Denali’s chief medical officer. “We are especially excited to highlight new preclinical data for our Enzyme Transport Vehicle: iduronate 2-sulfatase (ETV:IDS) program, which supports best-in-class potential to replace standard-of-care therapy and address current unmet patient need in Hunter syndrome (MPS II). We are on track to announce early biomarker data from an ongoing Phase 1/2 study of ETV:IDS (DNL310) in Hunter syndrome by year end; positive data would provide biomarker proof-of-concept for our TV technology for Hunter patients and unlock large platform potential in neurodegeneration and other therapeutic areas.”
+
+R&D Day Highlights Related to TV-Enabled Biotherapeutic Programs
+
+Denali’s TV technology is engineered to significantly increase brain access for multiple therapeutic modalities: enzyme/protein replacement therapy via ETV/PTV, antibody delivery via ATV, and oligonucleotide delivery via OTV, enhancing and unlocking brain targets for biotherapeutics. The Company will share new preclinical data from select TV-enabled biotherapeutic programs in its portfolio including:
+
+Enzyme TV (ETV) and Protein TV (PTV) Platform
+
+ETV:IDS robustly modulated disease-relevant biomarkers including glycosaminoglycans (GAGs), lysosomal lipid biomarkers, and neurofilament light (Nf-L) and was associated with improvements in neurobehavioral deficits and motor function as well as correction of skeletal disease manifestations after systemic administration in a mouse model of Hunter syndrome
+
+ETV:SGSH significantly reduced levels of GAGs in the brain and the cerebral spinal fluid (CSF) following a single dose in a mouse model of Sanfilippo syndrome Type A (MPS IIIA)
+
+PTV Progranulin (PTV:PGRN) restored lysosomal function and reduced microglial activation in the brain of granulin knock-out mice; Bis-monoacylglycero-phosphate (BMP) has been identified as a translatable biomarker for frontotemporal dementia in humans
+
+
+
+Antibody TV (ATV) Platform
+
+ATV:Abeta had higher brain uptake and improved engagement of plaques compared to an Abeta antibody at similar doses in a mouse model of Alzheimer’s disease
+
+ATV:TREM2 showed enhanced brain uptake and greater impact on microglia than similar doses and exposure of standard TREM2 antibody in mice
+
+ATV:HER2 showed increased brain concentrations and improved anti-tumor activity in a mouse xenograft model, suggesting potential for treatment of HER2-positive central nervous system (CNS) metastases
+
+
+
+Oligonucleotide TV (OTV) Platform
+
+Antisense OTV knocked down target gene expression in the brain and spinal cord after systemic administration via intravenous infusion while a standard antisense oligonucleotide (ASO) control had no effect
+
+Denali and Secarna Pharmaceuticals GmbH & Co. KG, a leader in ASO technology, recently entered into a research and option agreement to develop novel ASO molecules that can be delivered to the CNS using Denali’s OTV technology
+
+R&D Day Summary of ETV:IDS Flagship Program DNL310
+
+​
+
+Denali’s flagship ETV program is ETV:IDS for Hunter syndrome (MPS II), a rare neurodegenerative lysosomal storage disorder caused by a mutation in the gene that encodes for the enzyme IDS. Existing enzyme replacement therapies (ERTs) do not effectively cross the BBB and do not address neurodegeneration in patients. Intravenous administration of ETV:IDS is designed to take advantage of a highly vascularized CNS, and the nearly 400 miles of capillaries in the human brain, to actively transport biotherapeutics through receptor mediated transcytosis into the brain. Denali has engineered aspects of its TV technology for accessing all brain regions and brain cell types to enable and enhance therapeutic benefit. Through intravenous administration, Denali’s investigational ETV:IDS (DNL310) aims to treat the behavioral and cognitive aspects of Hunter syndrome while maintaining benefit for the entire body.
+
+Previously, Denali published research showing for the first time that in patients with Hunter syndrome, abnormalities in GAGs, the substrate of IDS enzymatic activity, are correlated with biomarkers of secondary lysosomal dysfunction (gangliosides, BMP, GluCer), axonal injury (Nf-L), and inflammation.1 The Company will share published and new biomarker data from multiple studies of a mouse model of Hunter syndrome demonstrating that systemically administered ETV:IDS (1) achieved high concentration and broad distribution of IDS enzymes in the brain, (2)​ led to reduction in GAGs, (3) corrected the abnormal accumulation of lysosomal lipids (gangliosides, BMP, GluCer), and (4) slowed neuroaxonal injury, as evidenced by a reduction in Nf-L.
+
+In addition, new preclinical data will be presented showing that systemic administration of ETV:IDS was associated with improvements in neurobehavioral deficits (spatial learning and memory deficits) and motor function (locomotor performance and agility) as well as correction of skeletal disease manifestations (abnormal increased trabecular and cortical bone mass in the femur).
+
+Denali will also share additional details on the status and design of the ongoing Phase 1/2 trial of DNL310, which began enrolling pediatric patients with Hunter syndrome in August 2020. Denali expects to announce data from an interim analysis of safety and biomarker data on CSF GAG reduction by year end 2020. Based on preclinical data showing that GAG reduction in the CSF correlates with GAG reduction in the brain after systemic administration of ETV:IDS, Denali considers a reduction of CSF GAG levels by approximately 50 percent in patients to be proof-of-concept for its TV technology. Furthermore, an approximate 50 percent reduction in CSF GAG levels is anticipated to be associated with subsequent improvements in lysosomal function and neurodegeneration biomarkers; ​therefore, additional biomarkers of lysosomal function and neuroaxonal injury (Nf-L) will be measured in the ongoing Phase 1/2 trial.
+
+The Company expects additional safety and biomarker data from the Phase 1/2 trial to be available in mid-2021. The Phase 1/2 trial is designed to inform dose selection to evaluate the effects of treatment with DNL310 on neurocognitive outcomes in a potential subsequent Phase 2/3 pivotal trial.
+
+
+
+Virtual R&D Day Webinar Agenda
+
+The following topics and speakers will be featured at Denali’s virtual R&D Day webinar (all times are Eastern Time):
+
+1:00 – 1:30 p.m.​
+
+Introduction and Blood-Brain Barrier Transport Vehicle (TV) Overview​
+
+Ryan Watts​, Ph.D., Chief Executive Officer
+
+1:30 – 1:50 p.m.​
+
+Hunter Syndrome: Overview​
+
+Simon Jones, MRCPCH, MBChB, Consultant in Paediatric Inborn Errors of Metabolism, Willink Unit, Manchester Centre for Genomic Medicine, Saint Mary's Hospital; Medical Director, NIHR Manchester Children’s Clinical Research Facility; Honorary Senior Lecturer, University of Manchester
+
+1:50 – 2:20 p.m.
+
+TV Flagship Program: ETV:IDS (DNL310)​
+
+Carole Ho, M.D., Chief Medical Officer​ & Head of Development
+
+2:20 – 2:40 p.m.​
+
+Q&A​ Session 1
+
+2:40 – 2:50 p.m.
+
+Break ​ ​
+
+2:50 – 3:20 p.m.
+
+TV Portfolio Programs​
+
+Joe Lewcock​, Ph.D., Chief Scientific Officer
+
+3:20 – 3:30 p.m.
+
+Unlocking the TV Platform Potential​
+
+Alex Schuth​, M.D., Chief Operating Officer
+
+3:30 – 4:00 p.m.
+
+Q&A​ Session 2
+
+Virtual R&D Day Webinar Information
+
+The live webinar will begin at 1:00 p.m. Eastern Time and conclude at approximately 4:00 p.m. Eastern Time. Registration is accessible on the investor page of Denali’s website. Following the webinar, a replay will be available for a limited time on Denali’s website.
+
+About Denali’s TV Platform
+
+The BBB is essential in maintaining the brain’s microenvironment and protecting it from harmful substances and pathogens circulating in the bloodstream. Historically, the BBB has posed significant challenges to drug development for CNS diseases by preventing most drugs from reaching the brain in therapeutically relevant concentrations.
+
+Denali’s TV platform is a proprietary technology designed to effectively deliver large therapeutic molecules such as antibodies, enzymes, proteins, and oligonucleotides across the BBB after intravenous administration. The TV technology is based on engineered Fc fragments that bind to specific natural transport receptors expressed at the BBB and are delivered to the brain through receptor mediated transcytosis. Denali research has shown that in animal models, antibodies and enzymes engineered with the TV technology have demonstrated more than 10- to 30-fold greater brain exposure than similar antibodies and enzymes without this technology. Improved exposure and broad distribution in the brain may increase therapeutic efficacy by enabling widespread achievement of therapeutically relevant concentrations of product candidates. The most advanced program using the Company’s TV technology is ETV:IDS (DNL310) for Hunter syndrome (MPS II), currently in a Phase 1/2 study.
+
+About Denali Therapeutics
+
+Denali Therapeutics is a biopharmaceutical company developing a broad portfolio of product candidates engineered to cross the blood-brain barrier (BBB) for neurodegenerative diseases. Denali pursues new treatments by rigorously assessing genetically validated targets, engineering delivery across the BBB and guiding development through biomarkers that demonstrate target and pathway engagement. Denali is based in South San Francisco. For additional information, please visit www.denalitherapeutics.com .
+
+Cautionary Note Regarding Forward Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements expressed or implied in this press release include, but are not limited to, plans, timelines and expectations related to DNL310, Denali’s TV technology platform and TV programs; the ability to effectively deliver large therapeutic molecules such as antibodies, enzymes, proteins, and oligonucleotides across the BBB after intravenous administration; expectations regarding the commencement of clinical trials; plans to announce data from an interim analysis of safety and biomarker data on CSF GAG reduction by year end 2020; expectations regarding ongoing clinical trials; and statements by Denali’s chief executive officer and chief medical officer.
+
+Actual results are subject to risks and uncertainties and may differ materially from those indicated by these forward-looking statements as a result of these risks and uncertainties, including but not limited to: any and all risks to Denali’s business and operations caused directly or indirectly by the evolving COVID-19 pandemic; Denali’s early stages of clinical drug development; Denali’s and its partners’ ability to complete the development and, if approved, commercialization of its product candidates; Denali’s and its partners’ ability to enroll patients in clinical trials; Denali’s reliance on third parties for the manufacture and supply of its product candidates for clinical trials; Denali’s dependence on successful development of its BBB platform technology and BBB platform-enabled product candidates, including whether the platform technology effectively delivers therapeutic molecules across the BBB, increased exposure or distribution in the brain increases therapeutic efficacy, or administration of DNL310 leads to improvements in lysosomal or neurodegeneration biomarkers, including Nf-L, or neurocognitive outcomes; Denali’s and its partners’ ability to conduct or complete clinical trials on expected timelines; the uncertainty that product candidates will receive regulatory approval necessary to be commercialized; Denali’s ability to continue to create a pipeline of product candidates or develop commercially successful products; developments relating to Denali’s competitors and its industry, including competing product candidates and therapies; Denali’s ability to obtain, maintain or protect intellectual property rights related to its product candidates; implementation of Denali’s strategic plans for its business, product candidates and BBB platform technology; Denali’s ability to obtain additional capital to finance its operations, as needed; Denali’s ability to accurately forecast future financial results in the current environment; general economic and market conditions; and other risks and uncertainties, including those described in Denali’s most recent Annual Report on Form 10-K, most recent Quarterly Report on Form 10-Q and Denali’s future reports to be filed with the SEC. The forward-looking statements in this press release are based on information available to Denali as of the date hereof. Denali disclaims any obligation to update any forward-looking statements, except as required by law.
+
+Reference:
+
+Bhalla A, et al. Characterization of Fluid Biomarkers Reveals Lysosome Dysfunction and Neurodegeneration in Neuronopathic MPS II Patients. Int J Mol Sci. 2020 Jul 22;21(15):5188. doi: 10.3390/ijms21155188.
+
+
+
+Investor Relations Contact:
+
+Laura Hansen, Ph.D.
+
+Vice President, Investor Relations
+
+(650) 452-2747
+
+hansen@dnli.com
+
+Media Contacts:
+
+Lizzie Hyland
+
+(646) 495-2706
+
+lhyland@gpg.com
+
+or
+
+Morgan Warners
+
+(202) 295-0124
+
+mwarners@gpg.com
+
+
+

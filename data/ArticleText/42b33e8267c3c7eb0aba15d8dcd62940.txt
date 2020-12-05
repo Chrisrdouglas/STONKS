@@ -1,0 +1,83 @@
+AnaptysBio Reports Positive Topline Data from GALLOP Phase 2 Clinical Trial of Imsidolimab in Moderate-to-Severe Generalized Pustular Psoriasis (GPP). 6 of 8 patients achieved primary endpoint of improvement in the clinical global impression scale (CGI) on Day 29, with rapid reduction of skin pustules by 60% on Day 8 and 94% clearance on Day 29
+
+
+
+FDA end-of-Phase 2 meeting anticipated in Q4 2020 to outline registration path of imsidolimab for the treatment of GPP, in accordance with the orphan drug designation obtained in July 2020
+
+Palmoplantar pustulosis (PPP) Phase 2 POPLAR trial enrollment completed with top-line data anticipated in Q1 2021
+
+Worldwide registry of GPP and PPP patients, named RADIANCE, to be initiated in Q1 2021, to improve understanding of the patient journey and support enrollment of future trials
+
+Initiation of imsidolimab Phase 2 trials in EGFR-mediated skin toxicity and ichthyosis anticipated in Q4 2020
+
+
+
+SAN DIEGO, Oct. 13, 2020 (GLOBE NEWSWIRE) -- AnaptysBio, Inc. (Nasdaq: ANAB), a clinical-stage biotechnology company developing first-in-class antibody product candidates focused on emerging immune control mechanisms applicable to inflammation and immuno-oncology indications, today announced positive topline data from an interim analysis of its Phase 2 clinical trial of imsidolimab for the treatment of moderate-to-severe generalized pustular psoriasis (GPP), also known as the GALLOP trial. GPP is a chronic, life-threatening, rare inflammatory disease with no approved therapies.
+
+“We are encouraged by the rapid onset, overall safety and promising efficacy profile demonstrated to date by imsidolimab for the treatment of patients suffering with GPP,” said Paul F. Lizzul, chief medical officer of AnaptysBio. “We look forward to engaging with regulatory authorities to progress imsidolimab into Phase 3, and in doing so offer a potential therapeutic intervention for these patients with high unmet medical need.”
+
+“GPP is a life-threatening disease that seriously debilitates patient lives with no approved therapies,” said Johann Gudjonsson, Associate Professor of Dermatology, University of Michigan. “The efficacy and safety demonstrated in this trial further validates the potential for IL-36 receptor inhibition in helping GPP patients. I look forward to advancement of imsidolimab for the treatment of GPP and for other inflammatory conditions where this target and pathway may play an important role.”
+
+Study Data
+
+Key data available to date from the 8 patients enrolled in the GALLOP trial are as follows:
+
+Mean baseline value on the modified Japanese Dermatology Association severity index total score (mJDA-SI) was 9 (Table 1), body surface area covered by erythema and pustules was 24% and the serum C-reactive protein (CRP) was 56 mg/L. Patients were on average 51 years of age, 50% female and diagnosed with GPP for 4.3 years.
+
+Six of 8 (75%) patients treated with imsidolimab monotherapy achieved the primary endpoint of improvement in the CGI scale on Day 29. Two of 8 (25%) patients were considered to have not met the primary endpoint because they dropped out of the trial prior to Day 29.
+
+mJDA-SI score, which incorporates both dermatological and systemic aspects of GPP, decreased on average by 29% on Day 8 and 54% on Day 29. Erythema with skin pustules, which clinically defines GPP, decreased by 60% on Day 8 and 94% on Day 29. Serum CRP, which is an indicator of systemic inflammation, was normal (less than 5 mg/L) for 5 of the 6 patients achieving the primary endpoint on Day 29.
+
+Genotypic testing indicated homozygous wild-type IL-36RN, CARD14 and AP1S3 alleles for all 8 patients. We believe this suggests that imsidolimab is broadly applicable to pustular diseases irrespective of genetic drivers.
+
+Anti-drug antibodies were not detected as of Day 29 in any patient.
+
+
+
+Endpoint Baseline Day 8 Relative to Baseline Day 29 Relative to Baseline Improvement on CGI N/A 7 of 8 patients 6 of 8 patients mJDA-SI 9 -29% -54% Erythema with Skin Pustules
+
+(% body surface area) 24% -60% -94%
+
+Table 1. Key endpoints at Day 8 and Day 29 relative to baseline.
+
+Imsidolimab was generally well-tolerated and most treatment-emergent adverse events were mild to moderate in severity and resolved without sequelae. No infusion or injection site reactions were observed. One patient dropped out of the trial due to a diagnosis of Staphylococcal aureus bacteremia in the first week, which was a serious adverse event deemed to be possibly drug-related. Because the patient was symptomatic prior to dosing and had a prior medical history of bacteremia, a common comorbidity of GPP, the Company does not believe this event is likely attributable to imsidolimab. Another patient dropped out of the study on Day 22 due to investigator reported inadequate efficacy. One patient contracted COVID-19 during the course of the trial, which was mild, unrelated to imsidolimab, and did not lead to study discontinuation.
+
+
+
+An end-of-Phase 2 meeting, based upon data available from the 8 patients enrolled in the GALLOP trial, is anticipated in Q4 2020. In July 2020, the FDA granted orphan drug designation to imsidolimab for the treatment of GPP based upon GALLOP clinical data.
+
+The Company plans to report full data from the GALLOP trial at a medical conference in 2021.
+
+GALLOP Phase 2 Trial Design
+
+Upon review of Day 29 data from the 8 patients enrolled in the GALLOP trial, the Company decided to curtail further enrollment and proceed with preparations for an end-of-Phase 2 meeting with the FDA. Of these 8 patients, which include 3 patients reported in September 2019, 2 patients have completed the 16-week dosing period, 4 patients are anticipated to complete the 16 week dosing period in Q4 2020 and 2 patients have dropped out to date.
+
+Patients were screened among 12 sites located in the United States and Europe. Patients were washed out of prior therapy and no concomitant therapy was permitted during the trial. Rescue therapy was not required by any patients while enrolled in the trial. Key inclusion criteria include active ongoing GPP disease with a minimum mJDA-SI score of 7 and at least 10% body surface area covered by active pustules and erythema, while key exclusion criteria included concomitant dermatological conditions or infection. Patients were treated with a 750mg intravenous induction dose of imsidolimab at Day 1, followed by monthly 100mg subcutaneous doses on Days 29, 57 and 85. The primary endpoint of this trial was clinical response on the CGI scale on Day 29 and Day 113 without rescue therapy. Baseline clinical assessments were conducted for each patient on Day 1 prior to imsidolimab dosing. Missing mJDA-SI data points were imputed using last-observation-carry forward (LOCF) methodology.
+
+In addition to GPP, the Company plans to advance development of imsidolimab in multiple inflammatory indications associated with IL-36 pathway dysregulation. Enrollment has been completed in POPLAR, a randomized, placebo-controlled 50-patient Phase 2 trial of imsidolimab in PPP, and top-line data is anticipated in Q1 2021. The Company also plans, in Q1 2021, to initiate a worldwide patient registry, called RADIANCE, of patients diagnosed with GPP and PPP, which is anticipated to improve understanding of the patient journey and support future clinical trial enrollment. In addition, clinical development of imsidolimab is being expanded into two additional indications, EGFR-mediated skin toxicity and ichthyosis, where Phase 2 trials are expected to be initiated in Q4 2020.
+
+About GPP
+
+GPP is a rare, chronic life-threatening, inflammatory disease with no currently approved therapies. Typically diagnosed after age 30, these patients can die from complications of bacteremia, sepsis, acute respiratory distress syndrome and cardiac failure. Most patients are treated off-label with systemic anti-inflammatory agents, including high-dose cyclosporine, methotrexate, corticosteroids, retinoids or biologics, which are often tapered or discontinued due to lack of efficacy or toxicity. Primary market research, including ICD-10 code claims, indicate that at least 3,000 moderate-to-severe GPP patients in the United States are regularly treated by dermatologists. GPP is known to be associated with excess signaling through the IL-36 receptor, which can be caused by genetic mutations and environmental factors.
+
+About Imsidolimab
+
+Imsidolimab, previously known as ANB019, is an antibody that inhibits the function of the interleukin-36-receptor, or IL-36R, which AnaptysBio plans to initially develop as a potential first-in-class therapy for patients suffering from generalized pustular psoriasis, or GPP, palmoplantar pustulosis, or PPP, EGFR-mediated skin toxicity and ichthyosis. AnaptysBio has previously presented data from a Phase 1 clinical trial, which demonstrated safety, pharmacokinetics and pharmacodynamic properties that supported advancement of imsidolimab into Phase 2 studies.
+
+About AnaptysBio
+
+AnaptysBio is a clinical-stage biotechnology company developing first-in-class antibody product candidates focused on emerging immune control mechanisms applicable to inflammation and immuno-oncology indications. The Company’s proprietary anti-inflammatory pipeline includes its anti-IL-36R antibody imsidolimab, previously referred to as ANB019, for the treatment of rare inflammatory diseases, including generalized pustular psoriasis, or GPP, palmoplantar pustulosis, or PPP, EGFRi-mediated skin toxicities and ichthyosis; its anti-IL-33 antibody etokimab, previously referred to as ANB020, for the treatment of chronic rhinosinusitis with nasal polyps, or CRSwNP, and eosinophilic asthma; its anti-PD-1 agonist program, ANB030, for treatment of certain autoimmune diseases where immune checkpoint receptors are insufficiently activated; and its BTLA modulator program, ANB032, which is broadly applicable to human inflammatory diseases associated with lymphoid and myeloid immune cell dysregulation. AnaptysBio’s antibody pipeline has been developed using its proprietary somatic hypermutation, or SHM platform, which uses in vitro SHM for antibody discovery and is designed to replicate key features of the human immune system to overcome the limitations of competing antibody discovery technologies. AnaptysBio has also developed multiple therapeutic antibodies in an immuno-oncology collaboration with GlaxoSmithKline, including an anti-PD-1 antagonist antibody (dostarlimab, GSK4057190A), an anti-TIM-3 antagonist antibody (cobolimab, GSK4069889A) and an anti-LAG-3 antagonist antibody (GSK4074386), and an inflammation collaboration with Bristol-Myers Squibb, including an anti-PD-1 checkpoint agonist antibody (CC-90006) currently in clinical development.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to: the timing of the release of data from imsidolimab’s Phase 2 clinical trial in PPP, the timing of an FDA end-of-Phase 2 meeting for imsidolimab in GPP, the timing of initiation of the worldwide registry in GPP and PPP, the timing of initiation of clinical trials in EGFR-mediated skin toxicity and ichthyosis with imsidolimab and the timing of the full data report of the GALLOP trial at a medical conference. Statements including words such as “plan,” “continue,” “expect,” or “ongoing” and statements in the future tense are forward-looking statements. These forward-looking statements involve risks and uncertainties, as well as assumptions, which, if they do not fully materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Forward-looking statements are subject to risks and uncertainties that may cause the company’s actual activities or results to differ significantly from those expressed in any forward-looking statement, including risks and uncertainties related to the company’s ability to advance its product candidates, obtain regulatory approval of and ultimately commercialize its product candidates, the timing and results of preclinical and clinical trials, the company’s ability to fund development activities and achieve development goals, the company’s ability to protect intellectual property and other risks and uncertainties described under the heading “Risk Factors” in documents the company files from time to time with the Securities and Exchange Commission. These forward-looking statements speak only as of the date of this press release, and the company undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date hereof.
+
+Contacts:
+
+Dennis Mulroy
+
+AnaptysBio, Inc.
+
+858.732.0201
+
+dmulroy@anaptysbio.com

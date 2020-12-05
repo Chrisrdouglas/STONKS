@@ -1,0 +1,51 @@
+Calithera Biosciences Initiates KEAPSAKE Randomized Phase 2 Trial of Telaglenastat in Combination with Chemoimmunotherapy to Treat Aggressive Form of Lung Cancer. - Study will evaluate safety and efficacy of glutaminase inhibition in combination with standard-of-care treatment in front-line setting among patients with non-small cell lung cancer and a mutation in the KEAP1/NRF2 pathway
+
+SOUTH SAN FRANCISCO, Calif., Sept. 24, 2020 (GLOBE NEWSWIRE) -- Calithera Biosciences, Inc. (Nasdaq: CALA), a clinical-stage biotechnology company focused on discovering and developing novel small-molecule drugs for the treatment of cancer and other life-threatening diseases, today announced treatment of the first patient in a randomized Phase 2 non-small cell lung cancer (NSCLC) clinical trial of the glutaminase inhibitor telaglenastat (CB-839) in combination with pembrolizumab, carboplatin and pemetrexed. The KEAPSAKE study will evaluate the safety and anti-tumor activity of telaglenastat plus standard-of-care immunotherapy as front-line therapy among patients with stage IV non-squamous NSCLC whose tumors have a KEAP1 or NRF2 mutation determined by next-generation sequencing.
+
+Mutations in the KEAP1/NRF2 pathway, which occur in an estimated 20 percent of NSCLC patients, are associated with aggressive tumor growth. Recently presented clinical data demonstrate that activation of this pathway, either through the loss of KEAP1 function or activation of NRF2, are associated with poor clinical outcomes among patients with NSCLC receiving front-line standard-of-care chemoimmunotherapy. Pre-clinical models have shown that activation of the KEAP1/NRF2 pathway results in dependence on glutaminase activity for growth and survival, making these tumors exquisitely sensitive to inhibition of glutaminase activity by telaglenastat.
+
+“Therapies that inhibit glutaminase in tumors with KEAP1/NRF2 pathway activation could have a meaningful clinical impact for a substantial percentage of people with NSCLC,” said Susan Molineaux, PhD, president and chief executive officer of Calithera. “We’re proud that KEAPSAKE is among the first clinical trials investigating a potential new therapy for these patients who have a poor prognosis. Based on both the clear mechanistic rationale for telaglenastat in this indication and strong preclinical data, we’re hopeful that the study will provide valuable insights.”
+
+The double-blind KEAPSAKE trial will enroll approximately 120 patients with stage IV non-squamous NSCLC with tumors that have the KEAP1 or NRF2 mutation. Patients will be randomized to receive telaglenastat or placebo, in combination with pembrolizumab, carboplatin and pemetrexed. The study will evaluate the safety and investigator-assessed progression-free survival (PFS) of telaglenastat plus this standard-of-care chemoimmunotherapy regimen. Guardant360 liquid biopsy test will be provided by the study sponsor as an investigational use only (IUO) testing option for patient selection. Calithera anticipates sharing interim data from the KEAPSAKE trial in 2021.
+
+About Telaglenastat
+
+Telaglenastat (CB-839) is an investigational, first-in-class, novel glutaminase inhibitor specifically designed to block cancer cells from using glutamine for growth and survival. Tumors commonly exhibit metabolic alterations that increase their dependence on glutamine. In preclinical studies, telaglenastat produced synergistic antitumor effects when used in combination with standard-of-care therapies. Calithera is evaluating telaglenastat in combination therapy approaches for multiple solid tumor types, including metastatic renal cell carcinoma and non-small cell lung cancer.
+
+About Lung Cancer
+
+Lung cancer is one of the most common cancers, with approximately 228,820 new cases and 135,720 deaths in the U.S. projected in 2020, according to the American Cancer Society. Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, accounting for 84 percent of all lung cancer diagnoses. A recently published observational study demonstrated that the survival of patients with KEAP1 genomic alterations treated with standard-of care first-line chemo-immunotherapy was statistically significantly shorter when compared with patients without the mutations (7.8 months vs. 20.4 months p=0.002).1
+
+About Calithera
+
+Calithera Biosciences is a clinical-stage biopharmaceutical company pioneering the discovery and development of targeted therapies that disrupt cellular metabolic pathways to preferentially block tumor cells and enhance immune-cell activity. Driven by a commitment to rigorous science and a passion for improving the lives of people impacted by cancer and other life-threatening diseases, Calithera is advancing a pipeline of first-in-clinic, oral therapeutics to meaningfully expand treatment options available to patients. Calithera is headquartered in South San Francisco, California. For more information about Calithera, please visit www.calithera.com.
+
+Forward Looking Statements
+
+Statements contained in this press release regarding matters that are not historical facts are "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "may," "will," "expect," "anticipate," "estimate," "intend," "poised" and similar expressions (as well as other words or expressions referencing future events, conditions, or circumstances) are intended to identify forward-looking statements. These statements include those related to the safety, tolerability and efficacy of Calithera’s product candidates, the overall advancement of Calithera’s product candidates in clinical trials, including the randomized Phase 2 clinical trial of telaglenastat (CB-839) in combination with pembrolizumab, carboplatin and pemetrexed, the unmet need in the treatment of patients with advanced disease, and Calithera’s plans to continue development of its product candidates. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. The product candidates that Calithera develops may not progress through clinical development or receive required regulatory approvals within expected timelines or at all. In addition, clinical trials may not confirm any safety, potency or other product characteristics described or assumed in this press release. Such product candidates may not be beneficial to patients or successfully commercialized. The failure to meet expectations with respect to any of the foregoing matters may have a negative effect on Calithera's stock price. Additional information concerning these and other risk factors affecting Calithera's business can be found in Calithera's most recent Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission, and other periodic filings with the Securities and Exchange Commission at www.sec.gov. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, Calithera disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+SOURCE: Calithera Biosciences, Inc.
+
+CONTACTS:
+
+Investor Relations
+
+Jennifer McNealey
+
+Calithera
+
+ir@Calithera.com
+
+650-870-1071
+
+Media
+
+Michele Parisi
+
+Sam Brown, Inc.
+
+micheleparisi@sambrown.com
+
+925-864-5028
+
+1 Skoulidis, ASCO 2019.

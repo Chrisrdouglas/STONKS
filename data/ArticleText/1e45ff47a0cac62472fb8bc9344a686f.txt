@@ -1,0 +1,73 @@
+Jounce Therapeutics Announces Update on Vopratelimab Program. - No further enrollment in EMERGE trial of vopratelimab in combination with ipilimumab based on interim analysis-
+
+- First patient dosed in SELECT trial of vopratelimab in combination with JTX-4014 in immunotherapy naïve biomarker-selected NSCLC-
+
+-Company to host conference call and webcast today at 8:00AM ET-
+
+CAMBRIDGE, Mass., Nov. 02, 2020 (GLOBE NEWSWIRE) -- Jounce Therapeutics, Inc. (NASDAQ: JNCE), a clinical-stage company focused on the discovery and development of novel cancer immunotherapies and predictive biomarkers, today provided an update on its vopratelimab (vopra) program. The intent of the EMERGE Phase 2 trial was to induce ICOS hi CD4 T cells with ipilimumab, and then administer vopra with the goal of increasing proliferation and expansion of these ICOS hi CD4 T cells, which were associated with durable clinical benefit in the ICONIC trial of vopra alone and in combination with a PD-1 inhibitor. Early evaluation of the data from the EMERGE trial of vopra in combination with ipilimumab in PD-(L)1 inhibitor experienced non-small cell lung cancer (NSCLC) patients indicates the trial will not meet pre-specified interim criteria for continuation of enrollment. Therefore, the EMERGE trial will not be expanded. The company also announced the first patient dosed in the SELECT Phase 2 trial, supporting vopra’s potential in combination with JTX-4014 in immunotherapy naïve biomarker-selected NSCLC patients.
+
+"We are disappointed that an early look at the EMERGE data indicates that we will not meet our pre-specified interim criteria for continued enrollment,” said Beth Trehu, M.D., Chief Medical Officer at Jounce Therapeutics. “Less than 50% of the EMERGE patients had emergence of ICOS hi CD4 T cells after ipilimumab treatment, indicating that CD4 T cell activation by CTLA-4 inhibitors may be impaired in PD-(L)1 inhibitor resistant patients. Patients who have progressed on or after PD-1 inhibitor therapies represent a large and growing unmet need and new therapeutic mechanisms may be needed to more effectively treat these patients. We would like to thank the patients, investigators and study teams for their participation in the EMERGE trial.”
+
+“The PD-(L)1 experienced or resistant population continues to prove difficult to treat. To bring necessary benefit to these patients it is becoming clearer that novel approaches beyond T cells may be needed as part of the solution,” said Richard Murray, Ph.D., chief executive officer and president of Jounce Therapeutics. “Our pipeline beyond vopra is focused on these novel approaches and we believe our existing programs, particularly, JTX-8064, our lead macrophage program targeting LILRB2 (ILT4), and other programs from our discovery platform, are poised to make meaningful contributions to both the PD-(L)1 naïve and resistant populations.”
+
+EMERGE Enrollment, Dosing and Safety
+
+Fifty-nine patients were enrolled, 50 of whom are evaluable based on pre-specified criteria which required at least one dose of each drug and at least one CT scan for response assessment or clinical progression without a CT. Vopra continued to be safe and the combination with ipilimumab was well tolerated. The type and frequency of adverse events were similar to those seen with ipilimumab.
+
+Summary of EMERGE Preliminary Efficacy Data
+
+0.10 mg/kg vopratelimab + 3 mg/kg ipilimumab 0.03 mg/kg vopratelimab + 3 mg/kg ipilimumab 0.01 mg/kg* vopratelimab + 3 mg/kg ipilimumab All doses combined Evaluable patients: n 22 18 10 50 Patients with tumor reduction: n (%) 12 (54.5) 3 (16.7) 4 (40.0) 19 (38.0) Confirmed ORR: n (%) 1 (4.5) 0 (0.0) 0 (0.0) 1 (2.0) OS: Median (95% CI**) NE*** (5.3, NE) NE (4.5, NE) 8.8 (1.7, NE) 11.6 (6.0, NE) Patients remaining
+
+on study 8 1 0 9
+
+* Dose not protocol-specified, due to dosing error at a single study site; ** Confidence interval; *** Not estimable; Ipilimumab was dosed for a maximum of 4 doses. Data as of October 26, 2020
+
+The data for all doses combined, with or without including the 10 subjects dosed at .01 mg/kg, did not meet the pre-specified criteria for continuation of enrollment in the trial, with tumor reduction in 38% of patients and one confirmed RECIST 1.1 response. In the .10 mg/kg cohort, 55% of patients had tumor reduction and confirmed overall response rate (ORR) is 4.5%. Median overall survival (OS) for all dose groups combined was 11.6 months and has not been reached in the .10 and .03 mg/kg cohorts. Nine patients remain on study, including four patients continuing to benefit on vopra alone after completion of up to four ipilimumab doses. The biomarker analysis is not yet complete.
+
+EMERGE Interim Analysis Clinical Criteria to Expand Trial
+
+Tumor reduction in ≥ 50% of patients,
+
+Median overall survival tracking to ≥ 13 months, and
+
+Overall response rate ≥ 10%
+
+
+
+Interim analysis criteria were selected to provide preliminary evidence that a combination of vopra and ipilimumab could potentially be superior to docetaxel in a randomized Phase 3 trial with an overall survival endpoint. Early data evaluation indicates, across all EMERGE doses, these interim criteria cannot be met and EMERGE will not be expanded beyond current enrollment.
+
+SELECT
+
+SELECT and EMERGE were developed to address distinct hypotheses for the potential of vopra and ICOS hi CD4 cells to improve patient outcomes. These trials are also addressing different patient populations, PD-(L)1 inhibitor resistant versus PD-(L)1 inhibitor naïve and biomarker selected.
+
+The randomized Phase 2 SELECT trial of vopra in combination with Jounce’s PD-1 inhibitor, JTX-4014 began enrollment in October 2020. The trial compares vopra plus JTX-4014 to JTX-4014 alone in immunotherapy naïve NSCLC patients who have been pre-selected with the TISvopra predictive biomarker. SELECT will enroll approximately 75 patients. TISvopra is an 18 gene RNA tumor inflammation signature which was optimized to predict the emergence of ICOS hi CD4 T cells and associated clinical benefit. SELECT is powered to demonstrate the statistical superiority of the combination of vopratelimab plus JTX-4014 compared to JTX-4014 alone. Preliminary efficacy data from the SELECT trial is expected in 2021.
+
+Conference Call and Webcast Information:
+
+Jounce Therapeutics will host a conference call and webcast today at 8:00 a.m. ET. To access the conference call, please dial (866) 916-3380 (domestic) or (210) 874-7772 (international) and refer to conference ID 8186260. The webcast can be accessed under "Events & Presentations" in the Investors and Media section of the Jounce website at www.jouncetx.com. The webcast will be archived and made available for replay on Jounce’s website approximately two hours after the call and will be available for 30 days.
+
+About Vopratelimab
+
+Vopratelimab is a clinical-stage monoclonal antibody that binds to and activates ICOS, the Inducible T cell CO-Stimulator, a protein on the surface of certain T cells commonly found in many solid tumors. Vopratelimab is currently being assessed in the SELECT Phase 2 clinical trial in combination with Jounce’s internal investigational PD-1 inhibitor, JTX-4014, compared to JTX-4014 alone. The SELECT trial is currently enrolling approximately 75 immunotherapy naïve NSCLC patients who have been pre-selected with the TISvopra predictive biomarker, an 18 gene RNA tumor inflammation signature which predicted the emergence of ICOS hi CD4 T cells and clinical benefit in the ICONIC trial of vopratelimab alone and in combination with a PD-1 inhibitor. SELECT is powered to demonstrate the statistical superiority of the combination of vopratelimab plus JTX-4014 compared to JTX-4014.
+
+About Jounce Therapeutics
+
+Jounce Therapeutics, Inc. is a clinical-stage immunotherapy company dedicated to transforming the treatment of cancer by developing therapies that enable the immune system to attack tumors and provide long-lasting benefits to patients through a biomarker-driven approach. Jounce currently has multiple development stage programs ongoing while simultaneously advancing additional early-stage assets from its robust discovery engine based on its Translational Science Platform. Jounce’s most advanced product candidate, vopratelimab, is a monoclonal antibody that binds to and activates ICOS, and is currently being studied in the SELECT Phase 2 trial. JTX-4014 is a PD-1 inhibitor intended for combination use in the SELECT trial and with Jounce’s broader pipeline. Jounce’s next development stage product candidate, JTX-8064, is a LILRB2 (ILT4) receptor antagonist shown to reprogram immune-suppressive tumor associated macrophages to an anti-tumor state. A Phase 1 trial evaluating JTX-8064 is planned to begin enrollment in the fourth quarter of 2020. Additionally, Jounce exclusively licensed worldwide rights to JTX-1811, a monoclonal antibody targeting CCR8 and designed to selectively deplete T regulatory cells in the tumor microenvironment, to Gilead Sciences, Inc. For more information, please visit www.jouncetx.com.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Various statements in this release concerning Jounce’s future expectations and plans, including without limitation, Jounce’s expectations regarding the timing, initiation, progress, results of and release of data for clinical trials of Jounce’s product candidates, including vopratelimab, JTX-4014 and JTX-8064, may constitute forward-looking statements for the purposes of the safe harbor provisions under The Private Securities Litigation Reform Act of 1995 and other federal securities laws and are subject to substantial risks, uncertainties and assumptions. You should not place reliance on these forward-looking statements, which often include words such as “expect,” “look forward” or similar terms, variations of such terms or the negative of those terms. Although Jounce believes that the expectations reflected in the forward-looking statements are reasonable, Jounce cannot guarantee such outcomes. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including, without limitation, risks that the COVID-19 pandemic may disrupt Jounce’s business and/or the global healthcare system more severely than anticipated, which may have the effect of delaying enrollment and completion of Jounce’s clinical trials, or delaying timelines or data disclosures and regulatory submissions for its product candidates; Jounce’s ability to successfully demonstrate the efficacy and safety of its product candidates; Jounce’s ability to successfully manage its clinical trials; the development plans of its product candidates and any companion or complementary diagnostics; management of Jounce’s supply chain for the delivery of drug product and materials for use in clinical trials; actions of regulatory agencies, which may affect the initiation, timing and progress of preclinical studies and clinical trials of Jounce’s product candidates; and those risks more fully discussed in the section entitled “Risk Factors” in Jounce’s most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission as well as discussions of potential risks, uncertainties, and other important factors in Jounce’s subsequent filings with the Securities and Exchange Commission. All such statements speak only as of the date made, and Jounce undertakes no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Investor and Media Contacts:
+
+Mark Yore
+
++1-857-200-1255
+
+myore@jouncetx.com
+
+Malin Deon
+
++1-857-259-3843
+
+mdeon@jouncetx.com

@@ -1,0 +1,86 @@
+Arbutus Announces AB-729 90 mg Single-Dose Week 12 Data in Chronic Hepatitis B Subjects Demonstrating Significant and Continuous Reductions in HBsAg. Mean HBsAg reduction of 1.23 log 10 IU/mL at week 12 with a favorable safety and tolerability profile
+
+WARMINSTER, Pa., Sept. 15, 2020 (GLOBE NEWSWIRE) -- Arbutus Biopharma Corporation (Nasdaq: ABUS), a clinical-stage biopharmaceutical company primarily focused on developing a cure for people with chronic hepatitis B virus (HBV) infection as well as therapies to treat coronaviruses (including COVID-19), today reports continued positive data from an ongoing Phase 1a/1b clinical trial (AB-729-001) with AB-729, its proprietary GalNAc delivered RNAi compound. These new data demonstrate that in chronic HBV subjects, a single subcutaneous injection of 90 mg of AB-729 resulted in a mean HBsAg reduction of 1.23 log 10 IU/mL at week 12.
+
+William Collier, President and Chief Executive Officer of Arbutus, stated, “The 90 mg single-dose 12-week data coupled with our previously disclosed 60 mg single-dose 12-week data mean that we now have two doses which have demonstrated meaningful reductions in HBsAg with a favorable safety and tolerability profile. We are currently dosing chronic HBV subjects in four multi-dose cohorts using both the 60 mg (every 4- and 8-weeks) and 90 mg (every 8- and 12-weeks) doses to determine the optimal dosing regimen for AB-729. We believe AB-729 will potentially offer people with chronic HBV a well-tolerated low dose treatment with a minimum of injections.”
+
+Arbutus expects to present initial results from its ongoing Phase 1a/1b clinical trial for the 60 mg multi-dose cohorts, the 90 mg single-dose cohort in HBV DNA positive subjects, as well as longer-term follow up of the 60 and 90 mg single-dose cohorts, at an upcoming scientific meeting later this year. In addition to the ongoing 60 mg multi-dose cohorts with subjects dosed at 4- and 8-weeks, the Company has also initiated 90 mg multi-dose cohorts with subjects dosed at 8- and 12-week intervals.
+
+Mean HBsAg changes from baseline:
+
+60 mg Single-Dose
+
+Cohort (B)
+
+(N=6) 90 mg Single-Dose
+
+Cohort (C)
+
+(N=6) Week 12 (day 84) mean log10 IU/mL
+
+(Standard Error of the Mean) -0.99 (0.24) -1.23 (0.18)
+
+Dr. Gaston Picchio, Chief Development Officer of Arbutus, stated, “The mean HBsAg decline seen in the 90 mg single-dose cohort is consistent with that seen in prior single-dose cohorts. Importantly, the data demonstrate consistent efficacy and a favorable safety profile at this intermediate dose. These findings support the continued evaluation of the 90 mg dose in the multi-dose portion of our ongoing clinical trial.”
+
+Summary of clinical trial design
+
+AB-729-001 is an ongoing first-in-human clinical trial consisting of three parts:
+
+In Part 1, three cohorts of healthy subjects were randomized 4:2 to receive single-doses (60 mg, 180 mg or 360 mg) of AB-729 or placebo.
+
+In Part 2, non-cirrhotic, HBeAg positive or negative, chronic HBV subjects (N=6) on a background of nucleos(t)ide therapy with HBV DNA below the limit of quantitation received single-doses (60 mg to 180 mg) of AB-729. An additional cohort in Part 2 included 90 mg single-dose of AB-729 in HBV DNA positive chronic HBV subjects.
+
+In Part 3, chronic HBV subjects, HBV DNA negative first and HBV DNA positive later, are receiving multi-doses of AB-729 for up to six months.
+
+About AB-729
+
+AB-729 is an RNA interference (RNAi) therapeutic targeted to hepatocytes using Arbutus’ novel covalently conjugated N-acetylgalactosamine (GalNAc) delivery technology that enables subcutaneous delivery. AB-729 inhibits viral replication and reduces all HBV antigens, including hepatitis B surface antigen in preclinical models. Reducing hepatitis B surface antigen is thought to be a key prerequisite to enable reawakening of a patient’s immune system to respond to the virus. In an ongoing single- and multi-dose Phase 1a/1b clinical trial, AB-729 demonstrated positive safety and tolerability data and meaningful reductions in hepatitis B surface antigen.
+
+About HBV
+
+Chronic hepatitis B virus (HBV) infection is a debilitating disease of the liver that afflicts over 250 million people worldwide with up to 90 million people in China, as estimated by the World Health Organization. HBV is a global epidemic that affects more people than hepatitis C virus (HCV) and HIV infection combined—with a higher morbidity and mortality rate. HBV is a leading cause of chronic liver disease and need for liver transplantation, and up to one million people worldwide die every year from HBV-related causes.
+
+The current standard of care for patients with chronic HBV infection is life-long suppressive treatment with medications that reduce, but do not eliminate, the virus, resulting in very low cure rates. There is a significant unmet need for new therapies to treat HBV.
+
+About Arbutus
+
+Arbutus Biopharma Corporation is a publicly traded (Nasdaq: ABUS) biopharmaceutical company dedicated to discovering, developing and commercializing a cure for people with chronic hepatitis B virus (HBV) infection. The Company is advancing multiple drug product candidates that may be combined into a potentially curative regimen for chronic HBV infection. Arbutus has also initiated a drug discovery and development effort for treating coronaviruses (including COVID-19). For more information, please visit www.arbutusbio.com .
+
+COVID-19
+
+In December 2019 an outbreak of a novel strain of coronavirus (COVID-19) was identified in Wuhan, China. This virus continues to spread globally, has been declared a pandemic by the World Health Organization and has spread to nearly every country in the world. The impact of this pandemic has been, and will likely continue to be, extensive in many aspects of society. The pandemic has resulted in and will likely continue to result in significant disruptions to businesses. A number of countries and other jurisdictions around the world have implemented extreme measures to try and slow the spread of the virus. These measures include the closing of businesses and requiring people to stay in their homes, the latter of which raises uncertainty regarding the ability to travel to hospitals in order to participate in clinical trials. Additional measures that have had, and will likely continue to have, a major impact on clinical development, at least in the near-term, include shortages and delays in the supply chain, and prohibitions in certain countries on enrolling subjects in new clinical trials. While we have been able to progress with our clinical and pre-clinical activities to date, it is not possible to predict if the COVID-19 pandemic will negatively impact our plans and timelines in the future.
+
+Forward-Looking Statements and Information
+
+This press release contains forward-looking statements within the meaning of the Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, and forward-looking information within the meaning of Canadian securities laws (collectively, “forward-looking statements”). Forward-looking statements in this press release include statements about Arbutus’ expectations regarding the timing and clinical development of its product candidates; the potential for AB-729 to be a well-tolerated low dose treatment for HBV with a minimum of injections; Arbutus’ expectation to present AB-729 60 mg multi-dose data and 90 mg single-dose data in HBV DNA positive subjects, as well as longer-term follow up of the 60 and 90 mg single-dose cohorts at an upcoming scientific meeting later this year; and Arbutus’ expectations regarding the effect of the COVID-19 pandemic on its business.
+
+With respect to the forward-looking statements contained in this press release, Arbutus has made numerous assumptions regarding, among other things: the effectiveness and timeliness of preclinical studies and clinical trials, and the usefulness of the data; the timeliness of regulatory approvals; the continued demand for Arbutus’ assets; and the stability of economic and market conditions. While Arbutus considers these assumptions to be reasonable, these assumptions are inherently subject to significant business, economic, competitive, market and social uncertainties and contingencies, including uncertainties and contingencies related to the ongoing COVID-19 pandemic.
+
+Additionally, there are known and unknown risk factors which could cause Arbutus’ actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements contained herein. Known risk factors include, among others: anticipated pre-clinical studies and clinical trials may be more costly or take longer to complete than anticipated, and may never be initiated or completed, or may not generate results that warrant future development of the tested drug candidate; Arbutus may elect to change its strategy regarding its product candidates and clinical development activities; Arbutus may not receive the necessary regulatory approvals for the clinical development of Arbutus’ products; economic and market conditions may worsen; market shifts may require a change in strategic focus; and the ongoing COVID-19 pandemic could significantly disrupt Arbutus’ clinical development programs.
+
+A more complete discussion of the risks and uncertainties facing Arbutus appears in Arbutus’ Annual Report on Form 10-K, Arbutus’ Quarterly Reports on Form 10-Q and Arbutus’ continuous and periodic disclosure filings, which are available at www.sedar.com and at www.sec.gov . All forward-looking statements herein are qualified in their entirety by this cautionary statement, and Arbutus disclaims any obligation to revise or update any such forward-looking statements or to publicly announce the result of any revisions to any of the forward-looking statements contained herein to reflect future results, events or developments, except as required by law.
+
+Contact Information
+
+Investors and Media
+
+William H. Collier
+
+President and CEO
+
+Phone: 267-469-0914
+
+Email: ir@arbutusbio.com
+
+
+
+Pam Murphy
+
+Investor Relations Consultant
+
+Phone: 267-469-0914
+
+Email: ir@arbutusbio.com
+
+
+

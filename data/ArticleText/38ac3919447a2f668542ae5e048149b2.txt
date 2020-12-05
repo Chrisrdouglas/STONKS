@@ -1,0 +1,67 @@
+Mustang Bio Announces MB-106 Data Selected for Presentation at the 62nd American Society of Hematology (ASH) Annual Meeting. WORCESTER, Mass., Nov. 04, 2020 (GLOBE NEWSWIRE) -- Mustang Bio, Inc. (“Mustang”) (NASDAQ: MBIO), a clinical-stage biopharmaceutical company focused on translating today’s medical breakthroughs in cell and gene therapies into potential cures for hematologic cancers, solid tumors and rare genetic diseases, today announced that interim Phase 1/2 data on MB-106, a CD20-targeted, autologous CAR T cell therapy for patients with relapsed or refractory B-cell non-Hodgkin lymphoma (“NHL”), have been selected for a poster presentation at the 62nd American Society of Hematology (“ASH”) Annual Meeting, which is being held virtually from December 5 – 8, 2020. MB-106 is being developed in a collaboration between Mustang and Fred Hutchinson Cancer Research Center (“Fred Hutch”).
+
+
+
+In the abstract posted today on the ASH website, Fred Hutch reported on four patients treated following a major revision in the cell manufacturing process. Complete remissions were observed in two follicular lymphoma patients (one each at dose levels 1 and 2), as well as a partial remission in a mantle cell lymphoma patient at dose level 2 and progressive disease in a follicular lymphoma patient at dose level 1. Dose level 1 was 3.3 x 105 CAR-T cells/kg and dose level 2 was 1 x 106 CAR-T cells/kg. As previously disclosed, no responses were seen in the 7 patients treated prior to cell process revision. Among the 11 total patients reported in the abstract, there was one occurrence of cytokine release syndrome (grade 3 – unexplained alkaline phosphatase elevation in the setting of fever in a patient treated prior to cell process revision) and no occurrences of immune effector cell-associated neurotoxicity syndrome (any grade). No dose-limiting toxicity was observed.
+
+Manuel Litchman, M.D., President and Chief Executive Officer of Mustang, said, “We are pleased that Fred Hutch will present interim data at ASH from the ongoing Phase 1/2 trial of MB-106, and at that time we expect to disclose data on at least eight total patients treated since the major cell process revision. In February 2020, we reported that the first patient treated in the trial with the revised MB-106 manufacturing process achieved a complete response at the lowest starting dose. The additional data disclosed today further indicate that MB-106 has an extremely favorable safety profile with evidence of promising clinical activity, even at low dose levels. We look forward to continuing progress on this CD20-targeted CAR T cell therapy program for patients with relapsed or refractory B-cell non-Hodgkin lymphomas.”
+
+Details of the presentation are as follows:
+
+Title: Third Generation CD20 Targeted CAR T-Cell Therapy (MB-106) for Treatment of Patients with Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma
+
+Session: 704. Immunotherapies: Poster I
+
+Abstract: 1443
+
+Date and Time: Saturday, December 5, 2020, 10:00 a.m. - 6:30 p.m. ET
+
+Presenter: Mazyar Shadman, M.D., M.P.H., Associate Professor, Clinical Research Division, Fred Hutch, Seattle, WA
+
+For more information, please visit the 62nd ASH Annual Meeting and Exposition website at https://www.hematology.org/meetings/annual-meeting/abstracts.
+
+About B-cell Non-Hodgkin Lymphoma (NHL)
+
+There are several forms of NHL, including follicular lymphoma, mantle cell lymphoma, marginal zone lymphoma, lymphoplasmacytic lymphoma and small lymphocytic lymphoma, which account collectively for about 45% of all cases of NHL. Most types of NHL are incurable with available therapies, except for allogenic hematopoietic stem cell transplant (allo-SCT). More than 70,000 new cases of B-cell NHL are diagnosed each year in the United States, and more than 19,000 patients die annually due to this group of diseases.
+
+About MB-106 (CD20-targeted CAR T Cell Therapy)
+
+CD20 is a membrane-embedded surface molecule which plays a role in the differentiation of B-cells into plasma cells. The CAR T was developed by Mustang’s research partner, Fred Hutchinson Cancer Research Center (“Fred Hutch”), in the laboratory of Oliver Press, M.D., Ph.D., and Brian Till, M.D., in the Clinical Research Division and exclusively licensed to Mustang Bio in 2017. MB-106 has been optimized as a third-generation CAR derived from a fully human antibody and is currently in a Phase 1/2 open-label, dose-escalation trial at Fred Hutch in B-cell non-Hodgkin lymphoma patients. Additional information on the trial can be found at http://www.clinicaltrials.gov using the identifier NCT03277729.
+
+About Mustang Bio
+
+Mustang Bio, Inc. is a clinical-stage biopharmaceutical company focused on translating today’s medical breakthroughs in cell and gene therapies into potential cures for hematologic cancers, solid tumors and rare genetic diseases. Mustang aims to acquire rights to these technologies by licensing or otherwise acquiring an ownership interest, to fund research and development, and to outlicense or bring the technologies to market. Mustang has partnered with top medical institutions to advance the development of CAR T therapies across multiple cancers, as well as a lentiviral gene therapy for X-linked severe combined immunodeficiency (XSCID), also known as bubble boy disease. Mustang is registered under the Securities Exchange Act of 1934, as amended, and files periodic reports with the U.S. Securities and Exchange Commission (“SEC”). Mustang was founded by Fortress Biotech, Inc. (NASDAQ: FBIO). For more information, visit www.mustangbio.com.
+
+Forward‐Looking Statements
+
+This press release may contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, each as amended. Such statements include, but are not limited to, any statements relating to our growth strategy and product development programs and any other statements that are not historical facts. Forward-looking statements are based on management’s current expectations and are subject to risks and uncertainties that could negatively affect our business, operating results, financial condition and stock value. Factors that could cause actual results to differ materially from those currently anticipated include: risks relating to our growth strategy; our ability to obtain, perform under, and maintain financing and strategic agreements and relationships; risks relating to the results of research and development activities; risks relating to the timing of starting and completing clinical trials; uncertainties relating to preclinical and clinical testing; our dependence on third-party suppliers; our ability to attract, integrate and retain key personnel; the early stage of products under development; our need for substantial additional funds; government regulation; patent and intellectual property matters; competition; as well as other risks described in our SEC filings. We expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements contained herein to reflect any change in our expectations or any changes in events, conditions or circumstances on which any such statement is based, except as required by law, and we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995.
+
+Company Contacts:
+
+Jaclyn Jaffe and William Begien
+
+Mustang Bio, Inc.
+
+(781) 652-4500
+
+ir@mustangbio.com
+
+Investor Relations Contact:
+
+Daniel Ferry
+
+LifeSci Advisors, LLC
+
+(617) 430-7576
+
+daniel@lifesciadvisors.com
+
+Media Relations Contact:
+
+Tony Plohoros
+
+6 Degrees
+
+(908) 591-2839
+
+tplohoros@6degreespr.com

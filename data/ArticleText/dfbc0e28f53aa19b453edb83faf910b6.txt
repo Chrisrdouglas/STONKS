@@ -1,0 +1,49 @@
+OpGen Group Company Ares Genetics Wins Austrian Digitization Award for ares-genetics.cloud. Ares Genetics wins Austrian Digitization Award for Digital Products and Solutions
+
+
+
+ares-genetics.cloud for AI-powered Antibiotic Resistance Prediction awarded by Federal Ministry for Digital and Economic Affairs
+
+VIENNA, Austria, and GAITHERSBURG, Md., Oct. 05, 2020 (GLOBE NEWSWIRE) -- OpGen, Inc. (Nasdaq: OPGN, “OpGen”), announced today that its subsidiary Ares Genetics GmbH (Vienna, Austria; “Ares Genetics”) has won the Austrian Digitization Award.
+
+Ares Genetics has been selected by an expert jury for its artificial intelligence (AI) powered, next-generation sequencing (NGS) based molecular antibiotic susceptibility testing (AST) platform ares-genetics.cloud. The Austrian Digitization Award is awarded by the Federal Ministry for Digital and Economic Affairs for distinguished digital products and solutions.
+
+In a press release announcing the awardees, Federal Minister for Digital and Economic Affairs Margarete Schramböck was quoted, “The large number of applications impressively demonstrates, that digitization impacts all areas of our economy and society. The Austrian Digitization Award is intended to further raise awareness for digitization as central future theme as well as key economic factor and basis for growth and competitiveness.”
+
+“We are honored that ares-genetics.cloud was recognized with the Austrian Digitization Award by the Federal Ministry for Digital and Economic Affairs”, commented Dr. Andreas Posch, CEO Ares Genetics. “Developing and launching the platform for AI-powered antibiotic resistance prediction would not have been possible without the support of our R&D programs co-funded by the Austrian Research Promotion Agency and the Vienna Business Agency. In a next step, we aim to further develop ares-genetics.cloud for clinical diagnosis of severe infections in close interaction with our global collaboration partners and customers amongst the leading diagnostics and pharmaceutical companies.”
+
+Ares Genetics’ Testing-as-a-Service and Interpretation-as-a-Service solutions for NGS-based antibiotic susceptibility prediction are currently offered for non-diagnostic applications in epidemiology, infection control, and outbreak analysis through the company’s AI-powered bioinformatics platform https://www.ares-genetics.cloud/ .
+
+About OpGen, Inc.
+
+OpGen, Inc. (Gaithersburg, MD, USA) is a precision medicine company harnessing the power of molecular diagnostics and bioinformatics to help combat infectious disease. Along with subsidiaries, Curetis GmbH and Ares Genetics GmbH, we are developing and commercializing molecular microbiology solutions helping to guide clinicians with more rapid and actionable information about life threatening infections to improve patient outcomes, and decrease the spread of infections caused by multidrug-resistant microorganisms, or MDROs. OpGen’s product portfolio includes Unyvero, Acuitas AMR Gene Panel and Acuitas® Lighthouse, and the ARES Technology Platform including ARESdb, using NGS technology and AI-powered bioinformatics solutions for antibiotic response prediction.
+
+For more information, please visit www.opgen.com .
+
+Forward-Looking Statements by OpGen
+
+This press release includes statements regarding OpGen’s subsidiary Ares Genetics GmbH being recognized with the Austrian national digitization award for the ares-genetics.cloud platform. These statements and other statements regarding OpGen’s future plans and goals constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. Such statements are subject to risks and uncertainties that are often difficult to predict, are beyond our control, and which may cause results to differ materially from expectations. Factors that could cause our results to differ materially from those described include, but are not limited to, our ability to successfully, timely and cost-effectively develop, seek and obtain regulatory clearance for and commercialize our product and services offerings, the rate of adoption of our products and services by hospitals and other healthcare providers, the realization of expected benefits of our business combination transaction with Curetis GmbH, the success of our commercialization efforts, the impact of COVID-19 on the Company’s operations, financial results, and commercialization efforts as well as on capital markets and general economic conditions, the effect on our business of existing and new regulatory requirements, and other economic and competitive factors. For a discussion of the most significant risks and uncertainties associated with OpGen's business, please review our filings with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, which are based on our expectations as of the date of this press release and speak only as of the date of this press release. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+OpGen Contact:
+
+Oliver Schacht
+
+CEO
+
+InvestorRelations@opgen.com
+
+Press Contact:
+
+Matthew Bretzius
+
+FischTank Marketing and PR
+
+matt@fischtankpr.com
+
+Investor Contact:
+
+Megan Paul
+
+Edison Group
+
+mpaul@edisongroup.com

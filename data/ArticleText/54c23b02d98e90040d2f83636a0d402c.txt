@@ -1,0 +1,97 @@
+Pandion Therapeutics Highlights Potential of Modular Biologics Pipeline for the Treatment of Autoimmune Diseases at FOCIS 2020. WATERTOWN, Mass., Oct. 28, 2020 (GLOBE NEWSWIRE) -- Pandion Therapeutics, Inc. (Nasdaq: PAND), a clinical-stage biotechnology company developing novel therapeutics designed to address the unmet needs of patients living with autoimmune diseases, today announced the presentation of preclinical data highlighting the potential of its modular biologics pipeline for the treatment of autoimmune diseases at the Federation of Clinical Immunology Societies (FOCIS) 2020 virtual annual meeting.
+
+
+
+Pandion utilizes its TALON (Therapeutic Autoimmune reguLatOry proteiN) drug design and discovery platform to create antibody-based candidates that target known control nodes in the immune system. These drug candidates are modularly engineered to either work systemically or to be targeted to specific tissues via tethering modules, potentially enabling a precision medicine approach to treating autoimmune diseases. The posters presented at FOCIS showed in vivo proof of concept for gut- and skin-tethered immune effectors, the potential broad biological effects of PD-1 agonism, as well as an introduction to Pandion’s emerging kidney research program.
+
+“A recent evolution in our understanding of the immune system has allowed our team to approach the treatment of autoimmune diseases in a fundamentally new way, so that we can activate the regulation of the immune response rather than shutting it down completely. We believe this understanding could result in our ability to develop longer-lasting and differentiated therapies for those living with autoimmune diseases,” said Jo Viney, Ph.D., Chief Scientific Officer and Co-Founder of Pandion Therapeutics. “The data presented at FOCIS underscore our enthusiasm for this approach, demonstrating localized regulation of autoimmunity in animal models of graft versus host disease and vitiligo.”
+
+The FOCIS poster presentations are available on Pandion’s website at https://pandiontx.com/our-science/posters-presentations/.
+
+Key findings presented at FOCIS:
+
+Title: A MAdCAM-tethered PD-1 Agonist Inhibits T Cell Activation and Ameliorates Intestinal Inflammation
+
+Authors: L.J. Edwards, B. Larkin, S. Alioto, D. Cluckey, D.C. Rios, E. Lurier, P. Halvey, K. Kis-Toth, N. Higginson-Scott, J.L. Viney and K.L. Otipoby
+
+Background: PD-1 is a critical immune regulator found on activated conventional T cells. Inhibition of PD1 in the treatment of cancer can result in autoimmune diseases, including colitis. In contrast, activating, or agonizing, PD-1 results in the attenuation of overactive T cells, providing a new potential treatment approach for autoimmune diseases. Pandion has created PT001, a PD-1 agonist tethered to the gut-selective molecule, MAdCAM.
+
+Findings:
+
+PT001 demonstrated tethered agonism of PD-1 without blocking the normal receptor and ligand interaction of either MAdCAM or PD-1.
+
+In an animal model of graft versus host disease, PT001 treatment resulted in prolonged survival beyond the dosing period.
+
+In an animal model of graft versus host disease, PT001 treatment reduced conventional T cell infiltration of the colon, demonstrating localized effect of the tethered molecule.
+
+
+
+Title: Localized Immunomodulation of T cells for Treatment of Autoimmune and Inflammatory Skin Diseases
+
+Authors: P. Mande, D. Rios, S. Borthakur, A. Boisvert, M. Rowe, P. Halvey, J.L. Viney, K. Kis-Toth, I. Mascanfroni, N. Higginson-Scott and K.L. Otipoby
+
+Background: Pathogenic T cells are found in the majority of chronic immune-mediated skin diseases. Pandion has created PD-1 agonists, including a skin-tethered version, designed to regulate and attenuate the activity of pathogenic T cells. In addition, Pandion has created skin-tethered CD39 effector modules designed to convert a proinflammatory environment to an anti-inflammatory environment. Pandion is currently evaluating these candidates in various models of skin autoimmune diseases.
+
+Findings:
+
+Skin-tethered effectors localized to the skin.
+
+In an animal model of vitiligo, the skin-tethered PD-1 agonist reduced skin depigmentation and reduced skin-specific conventional T cells with no systemic effects on T cells.
+
+In an animal model of contact hypersensitivity, the skin-tethered CD39 significantly inhibited ear inflammation.
+
+All of the observed effects were tether-dependent, showing the localized effect of the tethered molecules.
+
+Title: Generation of Kidney-Targeted IL-2 Mutein for Prevention of Graft Rejection in Renal Transplantation
+
+Authors: B. Li, B. Larkin, T. Kiprono, M. Rowe, J. Visweswaraiah, N. Willardsen, J. Allen, K.L. Otipoby, J.L. Viney, H.H. Shaheen and N. Higginson-Scott
+
+Background: Kidney transplant can be a life-saving procedure for many people with end-stage renal disease, but current long-term treatments to prevent rejection of the donor kidney can have serious side effects.
+
+Findings:
+
+Pandion has created a kidney-tethered IL-2 mutein, which selectively binds to kidney tubular epithelium in vivo. Work is ongoing understand the potential of this tethered molecule to expand regulatory T cells in the kidney as an approach for the treatment of kidney inflammation.
+
+
+
+Title: Molecular Profiling Reveals Anti-PD-1 Agonist Antibody-Induced Changes to Key Immune Pathways
+
+Authors: P.J. Halvey, E.B. Lurier, M. Cianci, J.L. Viney, K.L. Otipoby and K. Kis-Toth
+
+Background: PD-1 is a critical immune regulator found on activated conventional T cells. Inhibition of PD1 in the treatment of cancer can result in autoimmune diseases, including colitis. Activating, or agonizing, PD-1, results in the inhibition of the conventional T cells, and affords a potential treatment approach for autoimmune diseases. Pandion has created PT001, a gut-tethered PD-1 agonist, and PT627, a systemic PD-1 agonist. PD-1 agonism is a promising treatment approach for autoimmune diseases.
+
+Findings:
+
+In cell-based assays, PD-1 agonism with PT001 and PT627 resulted in the suppression of many known immune activation pathways, including Th1/Th2 and Th17 differentiation and chemokine signalling.
+
+
+
+About Pandion Therapeutics
+
+Pandion Therapeutics is developing novel therapeutics designed to address the unmet needs of patients living with autoimmune diseases. Pandion’s TALON (Therapeutic Autoimmune reguLatOry proteiN) drug design and discovery platform enables the company to create a pipeline of product candidates using immunomodulatory effector modules, with the ability to also combine an effector module with a tissue-targeted tether module in a bifunctional format. Pandion’s lead product candidate PT101, a combination of an interleukin-2 mutein effector module with a protein backbone, is designed to selectively expand regulatory T cells systemically, without activating proinflammatory cells, such as conventional T cells and natural killer cells, is currently in a Phase 1a clinical trial. Pandion is continuing to develop and expand its library of effector and tether modules as part of its earlier-stage research and discovery pipeline. For more information, please visit www.pandiontx.com.
+
+Forward-Looking Statements
+
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this press release, including statements regarding the Company’s strategy and clinical development plans, timelines and prospects, are forward-looking statements. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements are based on management’s current expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those set forth in, or implied by, such forward-looking statements. These risks and uncertainties include, but are not limited to, risks associated with Pandion’s ability to obtain and maintain necessary approvals from the FDA and other regulatory authorities; initiate preclinical studies and clinical trials of PT101 and its other product candidates; advance PT101 and its other product candidates in preclinical research and clinical trials; replicate in clinical trials positive results found in preclinical studies; advance the development of its product candidates under the timelines it anticipates in current and future clinical trials; obtain, maintain or protect intellectual property rights related to its product candidates; manage expenses; and raise the substantial additional capital needed to achieve its business objectives. For a discussion of other risks and uncertainties, and other important factors, any of which could cause the Company’s actual results to differ from those contained in the forward-looking statements, see the “Risk Factors” section, as well as discussions of potential risks, uncertainties and other important factors, in the Company’s most recent filings with the Securities and Exchange Commission. In addition, the forward-looking statements included in this press release represent the Company’s views as of the date hereof and should not be relied upon as representing the Company’s views as of any date subsequent to the date hereof. The Company anticipates that subsequent events and developments will cause the Company’s views to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so.
+
+Contacts
+
+Media:
+
+Kathryn Morris
+
+The Yates Network
+
+914-204-6412
+
+kathryn@theyatesnetwork.com
+
+Investors:
+
+Michelle Avery
+
+Pandion Therapeutics
+
+857-273-0444
+
+investors@pandiontx.com

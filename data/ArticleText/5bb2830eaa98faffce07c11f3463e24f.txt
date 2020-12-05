@@ -1,0 +1,59 @@
+Sorrento Announces the Discovery of Salicyn-30 Small Molecule That Strongly Inhibits SARS-CoV-2 Infection in Preclinical Studies and Highlights its Place in a Potential Multi-Modal Therapy Strategy in. In preclinical studies, Salicyn-30, a small molecule, demonstrated potent in-vitro viral load reduction of 3-4 log in SARS-CoV-2 infection model in normal healthy VERO E6 cells.
+
+
+
+
+
+Salicyn-30 displays a novel mechanism of inhibition of SARS-CoV-2, with potential additive benefits when used in a multi-modal therapy approach.
+
+
+
+
+
+Salicyn-30 can potentially be administered orally alone and will be tested in combination with Sorrento’s potent STI-1499 and affinity matured STI-2020 neutralizing antibodies.
+
+
+
+SAN DIEGO, Oct. 07, 2020 (GLOBE NEWSWIRE) -- Sorrento Therapeutics, Inc. (Nasdaq: SRNE, "Sorrento") announced today that it has discovered a small molecule termed Salicyn-30 that demonstrated a potent 3-4 log reduction of SARS-CoV-2 virus infection in an in vitro virus infection experiment.
+
+Since the beginning of the COVID-19 pandemic, Sorrento has developed a program targeting the entire continuum of care (for prevention, early treatment and rescue therapies) to manage COVID-19 disease. It is Sorrento’s belief that multi-modal therapies will naturally follow the approval of effective single therapies, regardless of individual drug potential.
+
+Using a drug repurposing strategy, Sorrento has been looking for compounds that could synergistically supplement its current antibody program and, in that process, screened a collection of salicylanilide compounds of interest from a library of molecules developed upon a chemical scaffolding known as salicylanilides. In preliminary preclinical experiments, comparative data generated thus far demonstrates Salicyn-30 may be more effective than another salicylanilide, niclosamide, a small molecule previously used to treat tapeworm infection, which has recently entered clinical trials (NCT04372082) to examine its effectiveness against COVID-19.
+
+Drug repurposing for other diseases has gained widespread attention in recent years as several such drugs have been approved by the FDA. Moreover, in the global emergency of the COVID-19 pandemic, this is one of the strategies being implemented by both major pharma and academic efforts.
+
+
+
+Sorrento’s intent on examining a salicylanilide library as a starting point for targeting COVID-19 (and potentially other coronaviruses) is grounded upon the concept that drug repurposing, is generally cost and time effective, with the potential for high returns and relatively low risk. Sorrento’s unique approach goes beyond identifying an anti-viral drug through repurposed molecule screening and is aimed at finding an optimal small molecule candidate that could be further developed for its potential to enhance the proprietary pipeline of clinical stage neutralizing antibodies.
+
+Salicyn-30 will be developed initially as a stand-alone therapy to potentially reduce viral load in severely affected patients. In parallel, its potential in combination with Sorrento’s antibodies currently in development will be validated, both for synergistic efficacy but also to ensure that the safety of the combination therapy is established prior to human trials.
+
+Dr. Henry Ji, Sorrento’s Chairman and CEO, stated, “Salicyn-30 has shown exceptional therapeutic potential, it is orally available and has greater systemic exposure besides being more potent than other salicylanilide niclosamides in preclinical trials to date. We see high potential value for this new small molecule inhibitor of SARS-CoV-2 either as a standalone therapeutic or used in conjunction with the proprietary neutralizing antibodies (nAbs) STI-1499 and affinity matured STI-2020 being developed by our Company. Our ultimate goal is to be able to provide patients with solutions at each stage of the COVID-19 disease continuum and ensure all the therapeutic solutions we put forward work well together and enhance each other.”
+
+About Sorrento Therapeutics, Inc.
+
+Sorrento is a clinical stage, antibody-centric, biopharmaceutical company developing new therapies to treat cancers and COVID-19. Sorrento's multimodal, multipronged approach to fighting cancer is made possible by its extensive immuno-oncology platforms, including key assets such as fully human antibodies ("G-MAB™ library"), clinical stage immuno-cellular therapies ("CAR-T", "DAR-T"), antibody-drug conjugates ("ADCs"), and clinical stage oncolytic virus ("Seprehvir®", “Seprehvec™”). Sorrento is also developing potential antiviral therapies and vaccines against coronaviruses, including COVIDTRAP™, ACE-MAB™, COVI-MAB™, COVI-GUARD™, COVI-SHIELD™, COVI-AMG™ and T-VIVA-19™; and diagnostic test solutions, including COVI-TRACK™, COVI-STIX™ and COVI-TRACE™.
+
+Sorrento's commitment to life-enhancing therapies for patients is also demonstrated by our effort to advance a first-in-class (TRPV1 agonist) non-opioid pain management small molecule, resiniferatoxin ("RTX"), and ZTlido® (lidocaine topical system) 1.8% for the treatment of post-herpetic neuralgia. RTX has completed a phase 1B trial for intractable pain associated with cancer and a phase 1B trial in osteoarthritis patients. ZTlido® was approved by the FDA on February 28, 2018.
+
+For more information, visit www.sorrentotherapeutics.com
+
+Forward-Looking Statements
+
+This press release and any statements made for and during any presentation or meeting contain forward-looking statements related to Sorrento Therapeutics, Inc., under the safe harbor provisions of Section 21E of the Private Securities Litigation Reform Act of 1995 and subject to risks and uncertainties that could cause actual results to differ materially from those projected. Forward-looking statements include statements regarding Sorrento’s pipeline and plans with respect to its clinical and pre-clinical COVID-19 programs, including Salicyn-30, STI-1499 and STI-2020; the potential for Salicyn-30 to be used as a standalone therapeutic or multi-modal therapy for the treatment of COVID-19; the potential method for administration of Salicyn-30; the belief that multi-modal therapies will naturally follow the approval of effective single therapies; Salicyn-30's potency and its potency relative to other salicylanilide niclosamides; time efficiencies associated with drug repurposing, as well as the potential for high returns and relatively low risk associated therewith; the potential for Salicyn-30, STI-1499 and STI-2020 to work together and enhance each other; the potential for Salicyn-30 to reduce viral load and Sorrento’s COVID-19 therapeutic and diagnostic product candidates and pipeline goals. Risks and uncertainties that could cause our actual results to differ materially and adversely from those expressed in our forward-looking statements, include, but are not limited to: risks related to Sorrento’s and its subsidiaries’, affiliates’ and partners’ technologies and prospects and collaborations, including, but not limited to clinical development risks, including risks in the progress, timing, cost, and results of clinical trials and product development programs; risk of difficulties or delays in obtaining regulatory approvals; risks that clinical study results may not meet any or all endpoints of a clinical study and that any data generated from such studies may not support a regulatory submission or approval; risks that prior test, study and trial results may not be replicated in future studies and trials; risks of manufacturing and supplying drug product; risks related to leveraging the expertise of its employees, subsidiaries, affiliates and partners to assist the company in the execution of its therapeutic and diagnostic product candidates’ strategies; risks related to the global impact of COVID-19; and other risks that are described in Sorrento’s most recent periodic reports filed with the Securities and Exchange Commission, including Sorrento’s Annual Report on Form 10-K for the year ended December 31, 2019, and subsequent Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission, including the risk factors set forth in those filings. Investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this release, and we undertake no obligation to update any forward-looking statement in this press release except as required by law.
+
+Contact
+
+Alexis Nahama, DVM (SVP Corporate Development)
+
+Email: mediarelations@sorrentotherapeutics.com
+
+Sorrento® and the Sorrento logo are registered trademarks of Sorrento Therapeutics, Inc.
+
+G-MAB™, COVI-GUARDTM, COVI-SHIELD™, COVI-AMG™, COVIDTRAP™, T-VIVA-19™, COVI-MAB™, ACE-MABTM, COVI-TRACK™, COVI-STIX™ and COVI-TRACE™ are trademarks of Sorrento Therapeutics, Inc.
+
+ZTlido® is a trademark owned by Scilex Pharmaceuticals Inc.
+
+All other trademarks are the property of their respective owners.
+
+© 2020 Sorrento Therapeutics, Inc. All Rights Reserved.

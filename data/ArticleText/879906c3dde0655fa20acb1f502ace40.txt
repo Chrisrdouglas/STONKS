@@ -1,0 +1,77 @@
+Cyclerion Announces Positive Data from IW-6463 CNS Translational Pharmacology Study in Healthy Elderly Subjects. Showed significant improvements in neurophysiological and objective performance measures associated with age-related cognitive decline and neurodegenerative diseases
+
+Confirmed blood-brain-barrier penetration, desired CNS exposure levels, target engagement and a favorable safety and tolerability profile
+
+Proceeding with its upcoming Phase 2 clinical trials in Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS) and Alzheimer’s disease with vascular pathology (ADv)
+
+Company to focus on developing treatments for serious diseases of the central nervous system
+
+Webcast at 8:30 a.m. ET today
+
+CAMBRIDGE, Mass., Oct. 14, 2020 (GLOBE NEWSWIRE) -- Cyclerion Therapeutics, Inc. (Nasdaq: CYCN), a clinical-stage biopharmaceutical company developing innovative medicines for people with serious diseases of the central nervous system (CNS), today announced results from its Phase 1 translational pharmacology study of IW-6463, the first soluble guanylate cyclase (sGC) stimulator in clinical development for CNS disorders.
+
+Treatment with IW-6463 in this 15-day 24-subject crossover study confirmed and extended results seen in earlier Phase 1 studies: once daily oral treatment demonstrated blood-brain-barrier penetration, desired CNS exposure levels and target engagement. In this study, IW-6463 was shown to be safe and generally well-tolerated. Subjects receiving IW-6463 showed meaningful improvements in certain neurophysiological and objective performance measures that are associated with age-related cognitive decline and neurodegenerative diseases. Effects on cerebral blood flow and markers of bioenergetics were not observed in this study.
+
+These results support the ongoing development of IW-6463 in serious CNS diseases. Cyclerion will soon begin enrolling its Phase 2 clinical trial in Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes (MELAS). Over the coming months the company will use the findings of the translational pharmacology study, in addition to observations from the previous Phase 1 study of 110 healthy subjects, to inform further clinical development activities, including the initiation of a planned Phase 2 clinical trial in Alzheimer’s disease with vascular pathology (ADv) in 2021, as well as to explore other potential indications.
+
+"These data show that IW-6463 has a positive effect on brain neurophysiology that has been associated with age-related cognitive decline and neurodegenerative diseases. Furthermore, these data support the role of nitric oxide as an important neurotransmitter whose potential therapeutic benefits remain underexplored,” said Chris Wright, M.D., Ph.D., Cyclerion’s Chief Medical Officer. “We expect to initiate enrollment of the MELAS study later this year and are excited to incorporate the learnings from our translational pharmacology study into the design of our planned Phase 2 ADv study. Looking beyond these studies, we will evaluate the potential of IW-6463 to provide clinical benefit for people suffering from a range of serious CNS diseases. Seeing such robust, consistent and rapidly occurring changes in this study gives us confidence that IW-6463 targets a relevant mechanism in cognition and neurodegeneration.”
+
+IW-6463 Phase 1 Translational Pharmacology Study Design
+
+The exploratory Phase 1 study conducted in 24 healthy elderly volunteers age 65 and older evaluated safety and tolerability, pharmacokinetics, measures of CNS pharmacodynamic activity, including cerebral blood flow, and a range of measures associated with age-related cognitive decline and neurodegenerative diseases. Participants received study drug once daily across two 15-day dosing periods (Period 1 and Period 2). The dosing periods were separated by a 27-day washout. Participants were randomized to a sequence of receiving IW-6463 for Period 1 and then placebo for Period 2, or vice versa. All 24 subjects completed the first period, and 12 completed the entire crossover due to operational challenges associated with COVID-19.
+
+IW-6463 Phase 1 Translational Pharmacology Study Results
+
+IW-6463 demonstrated blood-brain-barrier penetration, desired CNS exposure levels and engagement of the targeted nitric oxide (NO)-signaling pathway. Mean concentrations of IW-6463 in cerebrospinal fluid (CSF) achieved levels projected to be pharmacologically active based on preclinical studies. Consistent with this, pathway target engagement was confirmed through monitoring blood pressure and CSF cyclic guanosine monophosphate (cGMP) levels. This study reproduced the brain exposure and safety and tolerability data set of the prior Phase 1 study in young healthy volunteers (n=110).
+
+Key results in this healthy elderly population demonstrate an impact on certain neurophysiological and objective performance measures known to be affected by aging and neurodegenerative disease with cognitive impairment. Specifically, Cyclerion observed:
+
+positive impact on posterior alpha power, a measure that may reflect attentional processing capabilities, with a significant increase from baseline to day 15 in the IW-6463 treatment group, compared to the placebo group (p<0.02). Directional improvements in gamma power, a measure associated with memory and attention processing, as well as in other spectral power rhythms, buttress this finding.
+
+improvements in the N200 auditory event-related potential, a measure associated with stimulus identification and distinction. Latency was significantly shorter with IW-6463 at day 14 compared to untreated subjects (p=0.02).
+
+positive effects of IW-6463 on an objective saccadic eye movement task that is related to attention and cognitive processing. Saccadic reaction times were significantly shorter (p=0.02) and there was a trend increase in saccadic velocity (p=0.07).
+
+
+
+Cyclerion will continue to analyze the data to more fully understand the relationship between IW-6463 and the biomarker effects observed. All p-values are unadjusted for multiplicity. The company intends to present further results of this exploratory study, which represents a novel area of CNS science, in peer-reviewed journals and medical conferences.
+
+“These results bring into focus the exciting opportunity to deliver innovative medicines, with the possibility to improve brain function, for an area in desperate need of new treatment options,” said Andy Busch, Ph.D., Chief Innovation Officer. “We are working at the forefront of CNS drug development and we are learning a great deal about this novel mechanism of action. IW-6463 is a promising molecule with potential in a variety of serious CNS diseases, and we look forward to building on the insights from this study to drive the path forward for the company, the compound, and patients in need beyond our planned clinical trials and current target indications.”
+
+“These exciting and unique results demonstrate that stimulating sGC can positively modulate alpha rhythm and N200 in the elderly, potentially improving age-related deficits in these neurophysiologic measures,” said Brandon Westover, M.D., Ph.D., McCance Center for Brain Health, Associate Professor, Neurology, Massachusetts General Hospital and Harvard Medical School, and Co-Founder of Beacon Biosignals. “Given the relationships between alpha rhythm, N200, brain aging, and cognitive impairment, further study is warranted in patients with debilitating age-associated neurodegenerative diseases.”
+
+The company’s planned Phase 2 trial of IW-6463 in ADv will be supported partially by a grant from the Alzheimer's Association’s Part the Cloud-Gates Partnership Grant Program, which is expected to provide Cyclerion with $2 million of funding over the next two years.
+
+About IW-6463
+
+IW-6463, a CNS-penetrant sGC stimulator, is being developed as a symptomatic and potentially disease modifying therapy for serious CNS diseases. Nitric oxide (NO) is one of several fundamental neurotransmitters, but it has yet to be leveraged for its full CNS therapeutic potential. IW-6463 stimulates sGC, a signaling enzyme that responds to the presence of NO, to enhance the body’s natural ability to produce cyclic guanosine monophosphate (cGMP), an important signaling molecule, naturally. An impaired NO-sGC-cGMP signaling pathway is believed to play an important role in the pathogenesis of neurodegenerative diseases and is critical to basic neuronal functions. Agents that stimulate sGC to produce cGMP may compensate for deficient NO signaling.
+
+About Cyclerion Therapeutics
+
+Cyclerion Therapeutics is a clinical-stage biopharmaceutical company focused on discovering, developing and commercializing innovative medicines for people with serious diseases of the central nervous system (CNS). Cyclerion’s lead program is IW-6463, a pioneering CNS-penetrant sGC stimulator in clinical development for Mitochondrial Encephalomyopathy, Lactic Acidosis and Stroke-like episodes (MELAS) and Alzheimer's disease with vascular pathology (ADv).
+
+For more information about Cyclerion, please visit https://www.cyclerion.com/ and follow us on Twitter (@Cyclerion ) and LinkedIn ( www.linkedin.com/company/cyclerion ).
+
+Webcast and Conference Call Details
+
+Cyclerion will host a webcast, with accompanying slide presentation, on Wednesday, October 14, 2020 at 8:30 a.m. EDT to discuss the study results and plans for further development of IW-6463. To access the webcast, please visit https://edge.media-server.com/mmc/p/2zzfo75c. To access the call, please dial (800) 360-8162 (toll-free) or (409) 937-8760 (international) and provide the conference ID 2554703. The archived webcast will remain available online for 30 days. For more information, please visit the investor section of Cyclerion’s website at www.cyclerion.com
+
+Forward Looking Statement
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Our forward-looking statements are based on current beliefs and expectations of our management team that involve risks, potential changes in circumstances, assumptions, and uncertainties, including statements about the results and conduct of our Phase 1 translational pharmacology clinical trial of IW-6463; our interpretation of the data from the clinical trial; the potential of further evaluation of IW-6463; the clinical potential of IW-6463; our future business focus; the anticipated timing of our planned clinical trials; and the receipt of cash from the Alzheimer's Association’s Part the Cloud-Gates Partnership Grant Program, which is subject to final documentation. We may, in some cases use terms such as “predicts,” “believes,” “potential,” “continue,” “anticipates,” “estimates,” “expects,” “plans,” “intends,” “may,” “could,” “might,” “likely,” “will,” “should” or other words that convey uncertainty of the future events or outcomes to identify these forward-looking statements. Each forward-looking statement is subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statement. Applicable risks and uncertainties include the risks listed under the heading “Risk Factors” and elsewhere in our 2019 Form 10-K filed on March 12, 2020, and in Cyclerion’s subsequent SEC filings, including the Form 10-Q filed on May 4, 2020 and the Form 10-Q filed on August 3, 2020. Investors are cautioned not to place undue reliance on these forward-looking statements. These forward-looking statements (except as otherwise noted) speak only as of the date of this press release, and Cyclerion undertakes no obligation to update these forward-looking statements, except as required by law.
+
+Investors
+
+Carlo Tanzi, Ph.D.
+
+Kendall Investor Relations
+
+ctanzi@kendallir.com
+
+Media
+
+Amanda Sellers
+
+Verge Scientific Communications
+
+asellers@vergescientific.com

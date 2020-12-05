@@ -1,0 +1,67 @@
+Kura Oncology Reports Preclinical Results Showing Antitumor Activity of Tipifarnib in Combination with PI3Kα Inhibitor in Head and Neck Squamous Cell Carcinoma. – Preclinical data support potential to expand therapeutic utility of tipifarnib to HRAS/PI3K dependent tumors representing up to 50% of HNSCC –
+
+– Company plans to conduct a Phase 1/2 proof-of-concept study of tipifarnib in combination with a PI3Kα inhibitor in relapsed/refractory HNSCC –
+
+SAN DIEGO, Oct. 26, 2020 (GLOBE NEWSWIRE) -- Kura Oncology, Inc. (Nasdaq: KURA), a clinical-stage biopharmaceutical company focused on the development of precision medicines for the treatment of cancer, reported new preclinical data demonstrating the Company’s late-stage drug candidate, tipifarnib, shows compelling activity when combined with a PI3Kα inhibitor in models of HRAS/PI3K-dysregulated head and neck squamous cell carcinoma (HNSCC), including tumors with PIK3CA mutations or amplifications as well as HRAS overexpression.
+
+These preclinical data were presented at the 32nd EORTC-NCI-AACR Symposium on Molecular Targets and Cancer Therapeutics on Saturday. A copy of the poster is available on Kura's website at www.kuraoncology.com/pipeline/publications.
+
+“In addition to conducting our ongoing registration-directed trial of tipifarnib in recurrent or metastatic HRAS mutant HNSCC (AIM-HN), we are also pioneering new approaches to expand the use of tipifarnib into larger patient populations,” said Troy Wilson, Ph.D., J.D., President and Chief Executive Officer of Kura Oncology. “The compelling preclinical data underscore the potential to combine tipifarnib with a PI3Kα inhibitor to treat HNSCC patients and support our rationale to prioritize a Phase 1/2 study of tipifarnib in combination with a PI3Kα inhibitor in advanced or unresectable relapsed/refractory HNSCC harboring PIK3CA mutations or amplifications and/or HRAS overexpression.”
+
+HRAS, both in the mutant and overexpressed form, acts as a key node at the center of HNSCC tumor biology, while PIK3CA represents the most commonly dysregulated oncogene in HNSCC tumors. As concluded in the presentation, Kura’s preclinical data support the observation that the HRAS and PI3K pathways are complementary in HNSCC, each providing compensatory mechanisms of resistance to single agent inhibition of the other. Specifically, additive or synergistic activity was observed with administration of the combination of tipifarnib and a PI3Kα inhibitor in a panel of 16 patient-derived xenograft models representative of these HNSCC genotypes.
+
+It is estimated that up to 20% of HNSCC patients have tumors that overexpress HRAS, and an additional 35% have PIK3CA-dependent tumors. Although the precise overlap between the HRAS overexpressed and PI3K-dysregulated HNSCC populations is still being evaluated, the Company believes that the total addressable population for tipifarnib may be as high as 50% of HNSCC.
+
+About HNSCC
+
+Head and neck squamous cell carcinoma (HNSCC) is the seventh most common cancer worldwide, accounting for more than 885,000 new cases each year. Despite advances in immunotherapy, the prognosis for advanced HNSCC patients remains poor, with an estimated median overall survival of 13-15 months in patients when stratified by PD-L1 expression. Although the anti-epidermal growth factor antibody, cetuximab, was approved more than a decade ago, development of biomarker-directed therapies in HNSCC has been stymied by the limited number of druggable targets in the genomic landscape and the challenge of managing drug refractory recurrent/metastatic HNSCC.
+
+About Tipifarnib
+
+Tipifarnib, is a potent, selective and orally bioavailable inhibitor of farnesyl transferase in-licensed from Janssen in December 2014. Previously, tipifarnib was studied in more than 5,000 cancer patients and showed compelling and durable anti-cancer activity in certain patient subsets; however, no molecular mechanism of action had been determined that could explain its clinical activity across a range of solid tumor and hematologic indications. Leveraging advances in next generation sequencing as well as emerging information about cancer genetics and tumor biology, the Company is seeking to identify those patients most likely to benefit from tipifarnib. Tipifarnib has been granted Fast Track designation by the U.S. Food and Drug Administration for the treatment of patients with HRAS mutant HNSCC, which represents 4-8% of HNSCC patients. Kura has received multiple issued patents for tipifarnib, providing patent exclusivity in the U.S. and foreign countries.
+
+About Kura Oncology
+
+Kura Oncology is a clinical-stage biopharmaceutical company committed to realizing the promise of precision medicines for the treatment of cancer. The Company’s pipeline consists of two wholly owned small molecule drug candidates that target cancer signaling pathways where there is a strong scientific and clinical rationale to improve outcomes by identifying those patients most likely to benefit from treatment. Kura’s most advanced drug candidate is tipifarnib, a potent, selective and orally bioavailable farnesyl transferase inhibitor currently in a registration-directed trial (AIM-HN) in patients with recurrent or metastatic HRAS mutant HNSCC. The Company’s pipeline is also highlighted by KO-539, a potent and selective inhibitor of the menin-KMT2A(MLL) protein-protein interaction currently in a Phase 1/2A clinical trial (KOMET-001) in patients with relapsed/refractory acute myeloid leukemia (AML). For additional information about Kura, please visit the Company’s website at www.kuraoncology.com.
+
+Forward-Looking Statements
+
+This news release contains certain forward-looking statements that involve risks and uncertainties that could cause actual results to be materially different from historical results or from any future results expressed or implied by such forward-looking statements. Such forward-looking statements include statements regarding, among other things, Kura’s potential for growth. Factors that may cause actual results to differ materially include the risk that compounds that appeared promising in early research or clinical trials do not demonstrate safety and/or efficacy in later preclinical studies or clinical trials, the risk that Kura Oncology may not obtain approval to market its product candidates, uncertainties associated with performing clinical trials, regulatory filings and applications, risks associated with reliance on third parties to successfully conduct clinical trials, the risks associated with reliance on outside financing to meet capital requirements, and other risks associated with the process of discovering, developing and commercializing drugs that are safe and effective for use as human therapeutics, and in the endeavor of building a business around such drugs. You are urged to consider statements that include the words “may,” “will,” “would,” “could,” “should,” “believes,” “estimates,” “projects,” “promise,” “potential,” “expects,” “plans,” “anticipated,” “intends,” “continues,” “designed,” “goal,” or the negative of those words or other comparable words to be uncertain and forward-looking. For a further list and description of the risks and uncertainties the company faces, please refer to the company’s periodic and other filings with the Securities and Exchange Commission, which are available at www.sec.gov. Such forward-looking statements are current only as of the date they are made, and Kura Oncology assumes no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Contacts
+
+Company:
+
+Pete De Spain
+
+Vice President, Investor Relations &
+
+Corporate Communications
+
+(858) 500-8803
+
+pete@kuraoncology.com
+
+Investors:
+
+Robert H. Uhl
+
+Managing Director
+
+Westwicke Partners, LLC
+
+(858) 356-5932
+
+robert.uhl@westwicke.com
+
+Media:
+
+Jason Spark
+
+Managing Director
+
+Canale Communications
+
+(619) 849-6005
+
+jason@canalecomm.com

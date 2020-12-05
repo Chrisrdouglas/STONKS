@@ -1,0 +1,110 @@
+Madrigal Pharmaceuticals Announces Completion of Enrollment in Phase 3 MAESTRO NAFLD-1 Trial and Reports 2020 Third Quarter Financial Results and Highlights. CONSHOHOCKEN, Pa., Nov. 05, 2020 (GLOBE NEWSWIRE) -- Madrigal Pharmaceuticals, Inc. (NASDAQ:MDGL) announced today that it completed enrollment in its MAESTRO NAFLD-1 clinical trial of resmetirom in patients with presumed NASH who are diagnosed using non-invasive assessments. The Company also announced its third quarter 2020 financial results and highlights.
+
+The original target enrollment for MAESTRO NAFLD-1 was 700 patients, randomized 1:1:1 to receive resmetirom 80 mg once a day, 100 mg once a day, or placebo, and included an 100 mg resmetirom open label arm in up to 100 patients. The trial was expanded to include more than 1,200 patients, in order to significantly enhance resmetirom’s safety database and provide further opportunity to study selected patient subgroups. Resmetirom, an orally administered, small-molecule, liver-directed, truly β-selective thyroid hormone receptor (THR) agonist, is also currently in Phase 3 development in biopsy confirmed NASH patients with fibrosis stage 2-3 (MAESTRO-NASH) (ClinicalTrials.gov NCT03900429 and ClinicalTrials.gov/NCT04197479).
+
+Becky Taub, M.D., Chief Medical Officer and President of Research & Development of Madrigal, stated, “We are pleased with the rapid enrollment of MAESTRO-NAFLD-1, and the overall enthusiasm of patients to participate in our Phase 3 NASH clinical development program. MAESTRO-NAFLD-1 is designed to be a ‘real-world’ NASH study, collecting safety and efficacy data in patients with presumed NASH, who are diagnosed and monitored using noninvasive methods. We believe this trial will also provide an even more robust safety data base for our Phase 3 NASH program.”
+
+Dr. Taub continued, “We expect that completion of enrollment in MAESTRO-NAFLD-1 will enable us to report topline 52-week data from the blinded arms of the study by the end of next year. As we recently reported, the upcoming The Liver Meeting Digital Experience™, The American Association for the Study of Liver Diseases Meeting, will include presentation of interim data from the open label arm of MAESTRO-NAFLD-1.”
+
+“The totality of the early data from the open label arm of MAESTRO-NAFLD-1, and data from Madrigal’s Phase 2 studies, continue to suggest that we can achieve the primary and secondary endpoints in our Phase 3 NASH program,” stated Paul Friedman, M.D., Chief Executive Officer of Madrigal. “Notably, the Week 16 magnetic resonance elastography (MRE) data we have collected so far in the MAESTRO-NAFLD-1 open label arm suggest the potential of a robust non-invasive imaging test to demonstrate a fibrosis benefit with resmetirom treatment.”
+
+Dr. Friedman continued, “We are making progress toward completion of enrollment in the serial liver biopsy portion of MAESTRO-NASH; however, the COVID-19 pandemic remains unpredictable, and we expect that completion of targeted enrollment will be delayed past the end of 2020 by a few months.”
+
+Financial Results for the Three and Nine Months Ended September 30, 2020
+
+As of September 30, 2020, Madrigal had cash, cash equivalents and marketable securities of $335.9 million, compared to $439.0 million at December 31, 2019. The decrease in cash and marketable securities resulted primarily from cash used in operations of $102.6 million.
+
+Operating expenses were $58.8 million and $147.1 million for the three and nine month periods ended September 30, 2020, compared to $24.2 million and $65.0 million in the comparable prior year periods.
+
+Research and development expenses for the three and nine month periods ended September 30, 2020 were $53.3 million and $131.4 million, compared to $19.4 million and $47.4 million in the comparable prior year periods. The increases are primarily attributable to additional activities related to the Phase 3 clinical trials initiated in 2019, and an increase in head count.
+
+General and administrative expenses for the three and nine month periods ended September 30, 2020 were $5.5 million and $15.7 million, compared to $4.7 million and $17.6 million in the comparable prior year periods. The increase in general and administrative expenses for the latest three month period is due primarily to increases in head count and consulting costs. The decrease in general and administrative expenses for the latest nine month period was due primarily to a decrease in non-cash stock compensation from stock option awards, which was partially offset by increases in other general and administrative expenses.
+
+Interest income for the three and nine month periods ended September 30, 2020 was $0.8 million and $3.9 million, compared to $2.8 million and $8.8 million in the comparable prior year periods. The decreases in interest income for the latest three and nine month periods were due primarily to lower average principal balances in our investment accounts in 2020, and decreased interest rates.
+
+About Resmetirom (MGL-3196)
+
+Thyroid hormone, through activation of its β-receptor in hepatocytes, plays a central role in liver function impacting a range of health parameters from levels of serum cholesterol and triglycerides to the pathological buildup of fat in the liver. Thyroid hormone receptor (THR)-β action in the liver is key to proper function of the liver, including regulation of mitochondrial activity such as breakdown of liver fat and control of the level of normal, healthy mitochondria. Patients with NASH have reduced levels of thyroid hormone activity in the liver with resultant impaired hepatic function, in part due to the inflamed state of the liver that causes degradation of thyroid hormone.
+
+To exploit the thyroid hormone receptor (THR)-β pathway for therapeutic purposes in cardio-metabolic and liver diseases, it is important to avoid activity at the THR-α receptor, the predominant systemic receptor for thyroid hormone that is responsible for activity outside the liver including in heart and bone. The lack of selectivity of older thyromimetic compounds, chemically-related toxicities and undesirable distribution in the body led to safety concerns. Madrigal recognized that greater selectivity for thyroid hormone receptor (THR)-β and liver targeting might overcome these challenges and deliver the full therapeutic potential of THR-β agonism. Resmetirom has been shown to be highly selective based on 1) THR-β receptor functional selectivity based on both in vitro and in vivo assays and 2) specific uptake into the liver, its site of action, virtually avoiding any uptake into tissues outside the liver. In short and long term human and animal studies, resmetirom has been confirmed to be safe and devoid of activity at the THR-α receptor and without impact on bone or cardiac parameters. Resmetirom does not impact the thyroid axis hormones, including the central thyroid axis. Madrigal believes that resmetirom is the first orally administered, small-molecule, liver-directed, truly β-selective THR agonist.
+
+About the Phase 3 Registration Program for the Treatment of NASH (Non-alcoholic steatohepatitis)
+
+Analyses from the resmetirom Phase 2 NASH study demonstrate that the magnitude of liver fat reduction accurately predicts NASH resolution and liver fibrosis reduction and, specifically, that the resmetirom doses being used in Madrigal’s Phase 3 MAESTRO-NASH trial could achieve the level of fat reduction predictive of NASH resolution and fibrosis reduction [Madrigal COVID and ABSTRACT Press Release_20200414].
+
+The Phase 3 MAESTRO-NASH trial is expected to enroll 900 patients with biopsy-proven NASH (fibrosis stage 2 or 3), randomized 1:1:1 to receive resmetirom 80 mg once a day, 100 mg once a day, or placebo. After 52 weeks of treatment a second biopsy is performed. The primary surrogate endpoint on biopsy will be NASH resolution, with at least a 2-point reduction in NAS (NASH Activity Score), and with no worsening of fibrosis. Two key secondary endpoints are liver fibrosis improvement of at least one stage, with no worsening of NASH, and lowering of LDL-cholesterol [ClinicalTrials.gov/NCT03900429].
+
+A second 52-week Phase 3 multi-center, double-blind, randomized, placebo-controlled study of resmetirom, MAESTRO-NAFLD-1, was initiated in December 2019 in 700 patients with non-alcoholic fatty liver disease (NAFLD), presumed NASH, randomized 1:1:1 to receive resmetirom 80 mg once a day, 100 mg once a day, or placebo. MAESTRO-NAFLD-1 also includes a 100 mg resmetirom open label arm in up to 100 patients. The trial was expanded to include more than 1,200 patients, in order to significantly enhance resmetirom’s safety database and provide further opportunity to study selected patient subgroups. Unlike MAESTRO-NASH, MAESTRO-NAFLD-1 is a non-biopsy study and represents a “real-life” NASH study. NASH or presumed NASH is documented using historical liver biopsy or non-invasive techniques including fibroscan and MRI-PDFF. Using non-invasive measures, MAESTRO-NAFLD-1 is designed to provide incremental safety information to support the NASH indication as well as provide additional data regarding clinically relevant key secondary efficacy endpoints to better characterize the potential clinical benefits of resmetirom on cardiovascular and liver related endpoints. These key secondary endpoints include LDL-cholesterol, apolipoprotein B and triglyceride (TG) lowering; reduction of liver fat as determined by magnetic resonance imaging, proton density fat fraction (MRI-PDFF); and reduction of PRO-C3, a NASH fibrosis biomarker. [ClinicalTrials.gov/NCT04197479] Additional secondary and exploratory endpoints will be assessed including reduction in liver enzymes, fibroscan scores and other fibrosis and inflammatory biomarkers.
+
+
+
+These and other data, including safety parameters, form the basis for potential subpart H submission to FDA for accelerated approval for the treatment of NASH. The original 900 patients in the MAESTRO-NASH study will continue on therapy after the initial 52-week treatment period; up to another 1,100 patients are to be added using the same randomization plan and the study is expected to continue for up to 54 months to accrue and measure clinical events, most relevantly progression to cirrhosis.
+
+About Resmetirom’s Potential to Confer Cardiovascular Risk Reduction in NASH patients
+
+Additionally, resmetirom lowers multiple atherogenic lipids, including LDL cholesterol, apolipoprotein B, triglycerides, and lipoprotein (a), as demonstrated in Phase 2, a key differentiating factor compared with other NASH therapeutics. The magnitude of reduction of these lipids support a potential indication for treatment of hyperlipidemia in NASH patients and predicts a potential for benefit on cardiovascular (CV) events in NASH patients who die most frequently of CV, not liver disease.
+
+Because of their diabetes, dyslipidemia, hypertension, obesity in concert with an inflamed, fatty liver, NASH patients, particularly those with advanced fibrosis, are at a substantially increased CV risk compared to the general population. Resmetirom’s ability to decrease liver fat, which is an independent risk factor for CV events, and resmetirom’s effect to reduce atherogenic lipids are being further evaluated in several key secondary endpoints in both MAESTRO Phase 3 clinical studies.
+
+About Madrigal Pharmaceuticals
+
+Madrigal Pharmaceuticals, Inc. (Nasdaq: MDGL) is a clinical-stage biopharmaceutical company pursuing novel therapeutics that target a specific thyroid hormone receptor pathway in the liver, which is a key regulatory mechanism common to a spectrum of cardio-metabolic and fatty liver diseases with high unmet medical need. Madrigal’s lead candidate, resmetirom, is a first-in-class, orally administered, small-molecule, liver-directed, thyroid hormone receptor (THR)-β selective agonist that is in currently in two Phase 3 clinical studies, MAESTRO-NASH and MAESTRO-NAGLD-1, designed to demonstrate multiple benefits across a broad spectrum of NASH (non-alcoholic steatohepatitis) and NAFLD (non-alcoholic fatty liver disease) patients. For more information, visit www.madrigalpharma.com.
+
+Forward-Looking Statements
+
+This communication contains “forward-looking statements” made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, that are based on our beliefs and assumptions and on information currently available to us, but are subject to factors beyond our control. Forward-looking statements include but are not limited to statements or references concerning: our clinical trials; research and development activities; the timing and results associated with the future development of our lead product candidate, MGL-3196 (resmetirom); our primary and secondary study endpoints for resmetirom and the potential for achieving such endpoints and projections; optimal dosing levels for resmetirom; projections regarding potential future NASH resolution, safety, fibrosis treatment, cardiovascular effects, lipid treatment or biomarker effects with resmetirom; the predictive power of liver fat reduction on NASH resolution with fibrosis reduction or improvement; the achievement of enrollment objectives concerning patient number, safety database and/or timing for our studies; potential NASH or NAFLD patient risk profile benefits with resmetirom; and our possible or assumed future results of operations and expenses, business strategies and plans, capital needs and financing plans, trends, market sizing, competitive position, industry environment and potential growth opportunities, among other things. Forward-looking statements: reflect management’s current knowledge, assumptions, judgment and expectations regarding future performance or events; include all statements that are not historical facts; and can be identified by terms such as “allow,” “anticipates,” “be,” “believes,” “continue,” “could,” “demonstrates,” ”design,” “estimates,” “expects,” “forecasts,” “future,” “goal,” “hopeful,” “intends,” “may,” “might,” “plans,” “potential,” “predicts,” ”predictive,” “projects,” “seeks,” “should,” “will,” “would” or similar expressions and the negatives of those terms. Although management presently believes that the expectations reflected in such forward-looking statements are reasonable, it can give no assurance that such expectations will prove to be correct and you should be aware that actual results could differ materially from those contained in the forward-looking statements.
+
+Forward-looking statements are subject to a number of risks and uncertainties including, but not limited to: our clinical development of resmetirom; enrollment uncertainties, generally and in relation to COVID-19 shelter-in-place and social distancing measures and individual precautionary measures that may be implemented or continued for an uncertain period of time; outcomes or trends from competitive studies; future topline data timing or results; the risks of achieving potential benefits in studies that includes substantially more patients than our prior studies; the timing and outcomes of clinical studies of resmetirom; and the uncertainties inherent in clinical testing. Undue reliance should not be placed on forward- looking statements, which speak only as of the date they are made. Madrigal undertakes no obligation to update any forward-looking statements to reflect new information, events or circumstances after the date they are made, or to reflect the occurrence of unanticipated events. Please refer to Madrigal’s filings with the U.S. Securities and Exchange Commission for more detailed information regarding these risks and uncertainties and other factors that may cause actual results to differ materially from those expressed or implied. We specifically discuss these risks and uncertainties in greater detail in the section entitled “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2019 and our Quarterly Report on Form 10-Q for the period ended September 30, 2020, as well as in our other filings with the SEC.
+
+Investor Contact:
+
+Marc Schneebaum, Madrigal Pharmaceuticals, Inc. IR@madrigalpharma.com
+
+Media Contact:
+
+Mike Beyer, Sam Brown Inc. mikebeyer@sambrown.com 312 961 2502
+
+
+
+
+
+(Tables Follow)
+
+
+
+
+
+Madrigal Pharmaceuticals, Inc. Condensed Consolidated Statements of Operations (in thousands, except share and per share amounts) (unaudited) Three Months Ended Nine Months Ended September 30, September 30, 2020 2019 2020 2019 Revenues: Total revenues $ - $ - $ - $ - Operating expenses: Research and development 53,292 19,447 131,380 47,414 General and administrative 5,494 4,748 15,738 17,604 Total operating expenses 58,786 24,195 147,118 65,018 Loss from operations (58,786 ) (24,195 ) (147,118 ) (65,018 ) Interest income, net 823 2,766 3,897 8,810 Other income - - 100 - Net loss $ (57,963 ) $ (21,429 ) $ (143,121 ) $ (56,208 ) Basic and diluted net loss per common share $ (3.75 ) $ (1.39 ) $ (9.27 ) $ (3.65 ) Basic and diluted weighted average number of common shares outstanding 15,448,425 15,415,096 15,437,018 15,383,034
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madrigal Pharmaceuticals, Inc. Condensed Consolidated Balance Sheets (in thousands) (unaudited) September 30, December 31, 2020 2019 Assets Cash, cash equivalents and marketable securities $ 335,937 $ 439,045 Other current assets 1,664 1,152 Other non-current assets 2,016 1,859 Total assets $ 339,617 $ 442,056 Liabilities and Equity Current liabilities $ 49,365 $ 25,130 Long-term liabilities 548 361 Stockholders’ equity 289,704 416,565 Total liabilities and stockholders’ equity $ 339,617 $ 442,056
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

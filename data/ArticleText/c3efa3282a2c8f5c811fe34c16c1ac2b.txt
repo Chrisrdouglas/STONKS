@@ -1,0 +1,55 @@
+Immatics veröffentlicht Update zu ACTengine®-Zelltherapieprogramm IMA204 gegen eine Tumor-Stroma-Zielstruktur Nasdaq:IMTX. Tübingen, Deutschland und Houston, Texas, Sept. 10, 2020 (GLOBE NEWSWIRE) --
+
+Das ACTengine®-Zelltherapieprogramm IMA204 adressiert COL6A3 Exon 6, eine neuartige Zielstruktur, die im Tumor-Stroma einer Vielzahl von soliden Tumoren stark exprimiert wird.
+
+Zwei auf Bindungsaffinität optimierte T-Zell-Rezeptor (TCR)-Kandidaten, die mittels Immatics‘ firmeneigener XCEPTOR™-Plattform entwickelt wurden, zeigen eine hohe Spezifität und Potenz; einer der beiden Kandidaten zeigt zudem auch ohne CD8-Co-Rezeptor volle Funktionsfähigkeit in CD4+ T-Zellen.
+
+Der IND-Antrag bei der FDA für IMA204 ist weiterhin für 2021 geplant.
+
+Tübingen, Deutschland und Houston, Texas, 10. September 2020 – Immatics N.V. (NASDAQ: IMTX; „Immatics“), ein Unternehmen, das sich auf die Entwicklung und Herstellung von T-Zell-Immuntherapien für die Behandlung von Krebs fokussiert, veröffentlichte heute ein Update zu seinem vierten ACTengine®-Zelltherapieprogramm IMA204. IMA204 ist gegen COL6A3 Exon 6 gerichtet, eine neue Zielstruktur, die im Tumor-Stroma einer Vielzahl von soliden Tumoren exprimiert wird. Immatics wird die präklinischen Daten zu IMA204 auf der Hanson Wade CAR-TCR Digital Week am 14. September präsentieren.
+
+Highlights der präklinischen Daten:
+
+Das Exon 6 des Proteins COL6A3 wird überwiegend im Tumor-Stroma einer Vielzahl von soliden Tumoren exprimiert, einschließlich Pankreas-, Brust-, Magen-, Ösophagus-, Kolorektal- und Ovarial-Krebs, sowie im Mesotheliom, Sarkom, nicht-kleinzelligen Lungenkarzinom und im Plattenepithelkarzinom des Kopfes und Halses. Die Zielstruktur wird dabei in diesen und anderen Krebsarten mit einer Häufigkeit von 40-80 % exprimiert.
+
+Die Zielstruktur von IMA204 im Tumor-Stroma ist ein HLA-A*02-assoziertes Peptid, das dem COL6A3 Exon 6 entstammt und mit einer hohen Kopienzahl pro Zelle von Immatics’ firmeneigener Massenspektrometrie-Plattform XPRESIDENT® identifiziert wurde.
+
+Über 90 verschiedene Wildtyp-TCRs, die dieses Peptid erkennen, wurden systematisch mittels Immatics’ XCEPTOR™-Plattform evaluiert. Nach TCR-Charakterisierung,
+
+-Engineering und -Validierung wurden zwei TCR-Kandidaten mit optimierter Affinität ausgewählt.
+
+-Engineering und -Validierung wurden zwei TCR-Kandidaten mit optimierter Affinität ausgewählt. Beide TCR-Kandidaten wiesen in einem XPRESIDENT®-basierten Screening bezüglich unerwünschter („off-target“) Toxizität und Kreuzreaktivität vielversprechende präklinische Eigenschaften auf. Hierzu gehören eine hohe Avidität (sub-nanomolarer EC50-Wert) sowie Spezifität für Tumorzellen, die die Zielstruktur exprimieren.
+
+In weiteren präklinischen Studien, die in enger Zusammenarbeit mit Jim Riley, Professor der Mikrobiologie an der University of Pennsylvania, durchgeführt wurden, konnten beide Produktkandidaten sowohl in vitro als auch in vivo bei physiologischen Expressions-Leveln der Zielstruktur den Tumor zerstören.
+
+Einer der beiden TCR-Produktkandidaten erkannte die Zielstruktur völlig unabhängig von CD8 und aktivierte sowohl CD8+ als auch CD4+ T-Zellen ohne zusätzliche CD8-Co-Transduktion. Basierend auf aktuellen Studien nimmt Immatics an, dass die zusätzliche Aktivierung von CD4+ T-Zellen möglicherweise vorteilhaft für die Induktion und Aufrechterhaltung von Anti-Tumor-Antworten gegen solide Tumore ist.
+
+Nach Abschluss der laufenden finalen Evaluierung der Zielstruktur und der beiden TCR-Kandidaten plant Immatics, 2021 einen Investigational New Drug (IND)-Antrag für das IMA204-Studienprogramm bei der US Food and Drug Administration (FDA) einzureichen.
+
+Dr. Steffen Walter, Chief Technology Officer bei Immatics, kommentierte: „Solide Tumore entwickeln eine komplexe Mikroumgebung. Das Tumor-Stroma spielt hierbei eine zentrale Rolle bei Tumorentstehung, -progression und -metastasierung, indem es eine Schutzbarriere gegen das körpereigene Immunsystem aufbaut. Unsere Strategie, das tumoreigene Abwehrsystem mittels neuartiger und hochpotenter TCRs gegen das Tumor-Stroma zu durchbrechen, stellt einen vielversprechenden Ansatz für die Therapie schwer behandelbarer solider Tumore dar.“
+
+Über Immatics’ IMA204-Programm
+
+Immatics’ viertes ACTengine®-Programm IMA204 richtet sich gegen das Tumor-Stroma und wurde entwickelt, um die Tumor-Mikroumgebung anzugreifen. Das schwer zu durchdringende Stroma und die immunsuppressive Mikroumgebung solider Tumore sind eine signifikante Herausforderung für T-Zellen bezüglich Zugang und Aktivität. Aus diesem Grund könnte ein Angriff des Tumor-Stromas einen neuartigen Therapieansatz für viele solide Tumorarten darstellen. Immatics hat zwei Produktkandidaten für sein IMA204-Programm selektiert. Diese basieren auf der initialen Identifizierung einer neuartigen, Stroma-assoziierten HLA-Peptidkomplex-Zielstruktur mittels Immatics’ firmeneigener XPRESIDENT®-Plattform und der anschließenden Entwicklung geeigneter, hochaffiner TCRs mit Hilfe seiner XCEPTOR™-Plattform. Die Zielstruktur ist in einer hohen Kopienzahl im Tumor-Stroma exprimiert und ist Teil des COL6A3 Exon 6-Proteins, einer Komponente der extrazellulären Matrix, die überwiegend in Tumor-Stroma-Zellen exprimiert wird, aber kaum in gesundem Gewebe.
+
+Über Immatics‘ ACT-Programme
+
+Immatics‘ klinisches ACTengine®-Programm ist ein personalisierter Ansatz für Patienten mit fortgeschrittenen soliden Tumoren. Hierbei werden die T-Zellen eines Patienten gentechnisch so verändert, dass sie einen neuartigen firmeneigenen T-Zell-Rezeptor (TCR) exprimieren, der gegen eine bestimmte Krebs-Zielstruktur gerichtet ist. Die modifizierten T-Zellen werden dem Patienten anschließend per Infusion verabreicht. Die ACTengine®-Programme IMA201, IMA202 und IMA203 befinden sich bereits in der klinischen Testphase für die Behandlung solider Tumore – mit Studien in den USA und Deutschland. Immatics‘ jüngster firmeneigener ACTengine®-Herstellungsprozess generiert Zellprodukt-Kandidaten innerhalb eines Produktionsfensters von sechs Tagen. Hierbei werden hoch-proliferative T-Zellen hergestellt, die den Tumor des Patienten infiltrieren und dort trotz der herausfordernden Tumormikroumgebung ihre Wirkung entfalten können. Durch den Prozess sollen in kurzer Zeit jüngere T-Zellen mit einer verbesserten Persistenz hergestellt werden, die Tumorzellen in vitro „seriell“ abtöten können. Immatics erweitert zudem sein individualisiertes ACT-Konzept mit ACTallo®, einem „off-the-shelf“-Zelltherapie-Programm.
+
+Weitere Informationen zu den klinischen Studien finden Sie unter den folgenden Links:
+
+www.immatics.com/clinical-programs und www.clinicaltrials.gov .
+
+Über Immatics
+
+Immatics kombiniert die Identifizierung hochspezifischer Zielstrukturen für Krebsimmuntherapien mit der Entwicklung von geeigneten T-Zell-Rezeptoren (TCRs), um eine starke und spezifische T-Zell-Antwort gegen Tumor-Zielstrukturen hervorzurufen. Diese fundamentale Expertise bildet die Basis für unsere Pipeline adoptiver Zelltherapien und bispezifischer TCR-Moleküle sowie für unsere Partnerschaften mit weltweit führenden Pharmaunternehmen. Unsere Mission ist es, das Potenzial von T-Zelltherapien für Patienten voll auszuschöpfen und neue Wege im Kampf gegen Krebs zu gehen.
+
+Weitere Informationen zu Immatics, sowie alle Neuigkeiten finden Sie unter www.immatics.com . Oder folgen Sie uns auf Twitter und LinkedIn .
+
+Zukunftsgerichtete Aussagen
+
+Bestimmte Aussagen in der Pressemitteilung, können als in die Zukunft gerichtete Aussagen angesehen werden. In die Zukunft gerichtete Aussagen, beziehen sich im Allgemeinen auf zukünftige Ereignisse oder auf die zukünftige finanzielle oder operative Leistung von Immatics. So sind beispielsweise Aussagen über den Zeitplan von Produktkandidaten sowie Immatics' Fokus auf Partnerschaften, um seine Strategie voranzubringen, zukunftsgerichtete Aussagen. In manchen Fällen können die zukunftsgerichteten Aussagen durch Verwendung von Begriffen wie „kann“, „sollte“, „erwartet“, „beabsichtigt“, „wird“, „schätzt“, „voraussehen“, „glaubt“, „prognostiziert“, „potenziell“, oder „fortsetzen“ oder die negative Form dieser Begriffe oder einer anderen vergleichbaren Terminologie identifiziert werden. Diese zukunftsgerichteten Aussagen unterliegen Risiken, Ungewissheiten und anderen Faktoren, die dazu führen könnten, dass die tatsächlichen Ergebnisse wesentlich und nachteilig von den Ergebnissen abweichen, die in diesen zukunftsgerichteten Aussagen ausdrücklich oder implizit zum Ausdruck gebracht werden. Diese zukunftsgerichteten Aussagen basieren auf Schätzungen und Annahmen, die zwar von Immatics und seinem Management als sinnvoll erachtet werden, aber grundsätzlich ungewiss sind. Von Zeit zu Zeit können neue Risiken und Ungewissheiten auftauchen, und es ist nicht möglich, alle Risiken und Ungewissheiten vorherzusagen. Zu den Faktoren, die dazu führen können, dass die tatsächlichen Ergebnisse wesentlich von den aktuellen Erwartungen abweichen, gehören unter anderem, aber nicht ausschließlich: verschiedene Faktoren, die sich der Kontrolle des Managements entziehen, einschließlich allgemeiner wirtschaftlicher Bedingungen; sowie andere Risiken, Ungewissheiten und Faktoren, die in den bei der Securities and Exchange Commission (SEC) eingereichten Unterlagen aufgeführt sind. Nichts in dieser Präsentation sollte als eine Zusicherung irgendeiner Person angesehen werden, dass die hierin dargelegten zukunftsgerichteten Aussagen erreicht werden oder dass eines der beabsichtigten Ergebnisse dieser zukunftsgerichteten Aussagen erreicht wird. Der Leser sollte kein unangemessenes Vertrauen in zukunftsgerichtete Aussagen setzen, die nur zu dem Zeitpunkt gelten, zu dem sie veröffentlicht wurden. Immatics übernimmt keine Verpflichtung, diese zukunftsgerichteten Aussagen zu aktualisieren.
+
+Anhang
+
+Für weitere Informationen kontaktieren Sie bitte: Presseanfragen für Immatics Gretchen Schweitzer oder Jacob Verghese, PhD Trophic Communications Phone: +49 89 2388 7731 immatics@trophic.eu Investoranfragen John Graziano Solebury Trout Phone: +1 646-378-2942 jgraziano@soleburytrout.com Immatics N.V. Anja Heuer Corporate Communications Phone: +49 89 540415-606 media@immatics.com Jordan Silverstein Head of Strategy Phone: +1 281-810-7545 InvestorRelations@immatics.com

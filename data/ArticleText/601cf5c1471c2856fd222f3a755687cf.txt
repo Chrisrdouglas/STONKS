@@ -1,0 +1,68 @@
+Kiniksa Announces Positive Data from Phase 2 Trial of Mavrilimumab in Giant Cell Arteritis. HAMILTON, Bermuda, Oct. 06, 2020 (GLOBE NEWSWIRE) -- Kiniksa Pharmaceuticals, Ltd. (Nasdaq: KNSA) (“Kiniksa”), a biopharmaceutical company with a pipeline of clinical-stage assets designed to modulate immunological pathways across a spectrum of diseases, announced positive data from the global Phase 2 trial of mavrilimumab in giant cell arteritis (GCA). Mavrilimumab is an investigational fully-human monoclonal antibody that targets granulocyte macrophage colony stimulating factor receptor alpha (GM-CSFRα). The trial achieved both the primary and secondary efficacy endpoints with statistical significance.
+
+
+
+“We are thrilled to report that both the primary and secondary efficacy endpoints in the Phase 2 trial of mavrilimumab in giant cell arteritis achieved statistical significance,” said Sanj K. Patel, Chief Executive Officer and Chairman of the Board of Kiniksa. “These data suggest mavrilimumab may offer a treatment option for patients suffering from giant cell arteritis and further demonstrate the potential broad utility of mavrilimumab. We look forward to presenting additional data from this study in a publication or at a future medical conference.”
+
+The randomized, double-blind, placebo-controlled, global Phase 2 trial consists of a 6-week screening period, a 26-week double-blind placebo-controlled treatment period, and a 12-week washout safety follow-up period. Patients age 50 to 85 years with active GCA, confirmed by temporal artery biopsy and/or imaging, with erythrocyte sedimentation rate (ESR) ≥ 30 mm/hour or C-reactive protein (CRP) ≥ 1 mg/dL, and symptoms of GCA within 6 weeks from randomization, were included. All patients were required to have achieved corticosteroid-induced remission (resolution of symptoms, ESR < 20 mm/hour, CRP < 1 mg/dL) prior to randomization. Seventy (70) patients were randomized 3:2 to mavrilimumab 150 mg or placebo biweekly injected subcutaneously, co-administered with a protocol-defined 26-week oral corticosteroid taper. Patients were stratified by new onset (n=35) or relapsing/refractory (n=35) disease. The co-principal investigators are Dr. Maria Cid, Hospital Clínic, University of Barcelona, IDIBAPS, and Dr. Sebastian Unizony of Massachusetts General Hospital, Harvard University.
+
+The primary efficacy endpoint of time-to-first adjudicated GCA flare by Week 26 in all treated patients was statistically significant (Hazard Ratio = 0.38, p=0.0263).
+
+Median time-to-flare by Week 26 could not be estimated in mavrilimumab recipients due to the low number of flares in the mavrilimumab treatment arm. The median time-to-flare for placebo recipients was 25.1 weeks. There was a 62% lower risk of flare in mavrilimumab recipients compared to placebo recipients.
+
+
+
+The secondary efficacy endpoint of sustained remission at Week 26 in all treated patients was also statistically significant.
+
+The sustained remission rate at Week 26 was 33.3 percentage points higher in mavrilimumab recipients (83.2%) compared to placebo recipients (49.9%) (p=0.0038).
+
+
+
+Mavrilimumab was well-tolerated; there were no drug-related serious adverse events, and the rates of drug-related treatment-emergent adverse events between mavrilimumab recipients and placebo recipients were similar.
+
+The 12-week washout safety follow-up period and additional analyses of this Phase 2 trial are ongoing. Next steps for the development program in GCA will be further informed by anticipated discussions with the U.S. Food and Drug Administration (FDA).
+
+“We believe there is significant unmet need for safe and effective giant cell arteritis therapies, given that approximately only half of patients can achieve sustained remission on a yearly basis on current standard of care,” said John F. Paolini, MD, PhD, Chief Medical Officer of Kiniksa. “Novel therapies which safely provide long-term sustained remission in this aging patient population with comorbidities are needed. Mavrilimumab, with its upstream inhibition of two immune pathways implicated in giant cell arteritis, has the potential to provide differentiation by addressing the underlying pathophysiology of the disease.”
+
+Preclinical data, previously shown at scientific conferences and available through the Science section of Kiniksa’s website, support the mechanistic rationale of targeting the granulocyte macrophage colony stimulating factor (GM-CSF) pathway upstream in patients with GCA. GM-CSF and downstream T helper type 1 (T H 1) cell and T helper type 17 (T H 17) cell pathways were demonstrated to be activated at the ribonucleic acid and protein level in arteries from GCA patients compared to healthy controls, and mavrilimumab was demonstrated to inhibit production of inflammatory molecules characteristic of GCA pathophysiology in an ex vivo culture model of arteries from GCA patients1. Additionally, in an in vivo model of human GCA, mavrilimumab reduced arterial inflammation and gamma interferon production2.
+
+The FDA recently granted Orphan Drug designation to mavrilimumab for the treatment of GCA.
+
+Kiniksa is also evaluating mavrilimumab in severe COVID-19 pneumonia and hyperinflammation and is enrolling the Phase 2 portion of a global, randomized, double-blind, placebo-controlled adaptive design Phase 2/3 clinical trial. Additionally, data are expected from a randomized, double-blind, placebo-controlled investigator-initiated study in the U.S. in the fourth quarter of 2020.
+
+1 Poster presentation at European Congress of Rheumatology 2019 (EULAR): GM-CSF Pathway Signature Identified in Temporal Artery Biopsies of Patients With Giant Cell Arteritis Maria C. Cid, Rohan Gandhi, Marc Corbera-Bellalta, Nekane Terrades-Garcia, Sujatha Muralidharan, John F. Paolini; 2 Presentation at 2019 American College of Rheumatology (ACR): GM-CSF is a Pro-Inflammatory Cytokine in Experimental Vasculitis of Medium and Large Arteries Ryu Watanabe, Hui Zhang, Toshihisa Maeda, Mitsuhiro Akiyama, Rohan Gandhi, John F. Paolini, Gerald J. Berry, Cornelia M. Weyand
+
+About Giant Cell Arteritis
+
+Giant cell arteritis is a rare chronic inflammatory disease of medium-to-large arteries. Cranial giant cell arteritis typically presents with headache and jaw claudication as well as constitutional symptoms of fever and fatigue. Acute events can include permanent vision loss from diminished blood flow to the eye. The large vessel form of giant cell arteritis affects the branches of the aorta supplying the trunk and limbs. There is currently one FDA-approved treatment for giant cell arteritis as an adjunct to a corticosteroid taper.
+
+About Mavrilimumab
+
+Mavrilimumab is an investigational fully-human monoclonal antibody that targets GM-CSFRα. Mavrilimumab was dosed in over 550 patients with rheumatoid arthritis through Phase 2b clinical studies in Europe and achieved prospectively-defined primary endpoints of efficacy and safety. Kiniksa’s lead indication for mavrilimumab is GCA, a rare inflammatory disease of medium-to-large arteries. Kiniksa is also evaluating mavrilimumab in COVID-19 pneumonia and hyperinflammation. The FDA granted Orphan Drug designation to mavrilimumab for GCA in 2020.
+
+About Kiniksa
+
+Kiniksa is a biopharmaceutical company focused on discovering, acquiring, developing and commercializing therapeutic medicines for patients suffering from debilitating diseases with significant unmet medical need. Kiniksa’s clinical-stage product candidates, rilonacept, mavrilimumab, vixarelimab and KPL-404, are based on strong biologic rationale or validated mechanisms, target underserved conditions and offer the potential for differentiation. These pipeline assets are designed to modulate immunological pathways across a spectrum of diseases. For more information, please visit www.kiniksa.com.
+
+Forward-Looking Statements
+
+The information contained in this press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, you can identify forward looking statements by terms such as “may,” “will,” “should,” “expect,” “plan,” “anticipate,” “could,” “intend,” “target,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential” or “continue” or the negative of these terms or other similar expressions, although not all forward-looking statements contain these identifying words. All statements contained in this press release that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation, statements regarding: mavrilimumab’s potential to offer a treatment option for patients with giant cell arteritis; the potential broad utility of mavrilimumab; the unmet need for patients with GCA; mavrilimumab’s potential to address the underlying pathophysiology of the disease; the presentation of additional data from the study in a publication or future medical conference; anticipated discussions with the FDA on our development program in GCA and its potential to impact next steps for the program; the timing of data from our clinical trials; and the potential for our clinical stage product candidates to offer differentiation.
+
+These forward-looking statements are based on management’s current expectations. These statements are neither promises nor guarantees, but involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including without limitation, the following: the impact of additional data from us, investigator-initiated studies or other companies; the potential for undesirable side effects to be caused by mavrilimumab; the potential inability to replicate in later clinical trials positive results from earlier studies or clinical trials; the impact of discussions with the FDA on our development program in GCA; our reliance on third parties to manufacture our product candidates and conduct our clinical trials and/or perform certain regulatory activities for our product candidates; drug substance and/or drug product shortages; our engagement of a manufacturing organization to produce mavrilimumab beyond our current inventory; the potential impact of the COVID-19 pandemic and measures taken in response to the pandemic; changes in our operating plan and funding requirements; existing or new competition; and our ability to attract and retain qualified personnel.
+
+These and other important factors discussed under the caption “Risk Factors” in our Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (“SEC”) on August 4, 2020 and our other reports subsequently filed with or furnished to the SEC could cause actual results to differ materially from those indicated by the forward-looking statements made in this press release. Any such forward-looking statements represent management’s estimates as of the date of this press release. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this press release.
+
+Every Second Counts!™
+
+
+
+Kiniksa Investor and Media Contact
+
+Mark Ragosa
+
+(781) 430-8289
+
+mragosa@kiniksa.com
+
+
+

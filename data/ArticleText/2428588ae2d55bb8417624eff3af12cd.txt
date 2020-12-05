@@ -1,0 +1,45 @@
+Autolus Therapeutics presents additional data on AUTO3 in DLBCL during the ESMO Virtual Congress 2020. - AUTO3 shows promise of a highly differentiated product profile
+
+Conference call and webcast to be held Friday, September 18, 2020 at 8:00 am EDT / 1:00 pm BST
+
+LONDON, Sept. 18, 2020 (GLOBE NEWSWIRE) -- Autolus Therapeutics plc (Nasdaq: AUTL), a clinical-stage biopharmaceutical company developing next-generation programmed T cell therapies, today announced new data highlighting progress on AUTO3, the company’s CAR T cell therapy being investigated in the ALEXANDER study, a Phase 1/2 clinical trial in relapsed/refractory diffuse large B cell lymphoma (DLBCL), during the European Society for Medical Oncology (ESMO) Virtual Congress 2020, beginning 18 September.
+
+“Today we presented data from our recommended Phase 2 dose cohort from the ALEXANDER trial of AUTO3, a CD19 and CD22 dual targeting CAR T product candidate in DLBCL. The data support a best in class profile with a high level of complete remissions and a well tolerated safety profile,” said Dr. Christian Itin, chairman and chief executive officer of Autolus.
+
+“AUTO3 has a tolerable and very favorable safety profile when compared with approved CD19 CAR T therapies,” said Dr Craig Moskowitz, Professor of Medicine at Miller School of Medicine, University of Miami Health System. “It has a promising complete response rate of 64%, as demonstrated in the completed cohorts at the recommended Phase 2 dose range and, thus far, these complete remissions also appear durable. Among all dose cohorts with a median follow up of 6 months, 93% of the patients who achieved a complete response did not relapse.”
+
+As of the data cut-off date of August 3, 2020, 35 patients in the ALEXANDER Phase 1/2 clinical trial of AUTO3 have been treated and were evaluable for safety. AUTO3 was well tolerated, with no Grade 3 or higher cytokine release syndrome (CRS) with primary infusion and low rates of neurotoxicity (NT). Across all 35 patients, only three cases of NT have been reported, with two having ≥ Grade 3. Among the 20 patients treated at a dose of ≥ 150 x 106 cells with pre-conditioning pembrolizumab on day minus 1 (D-1), which is the declared recommended Phase 2 dose (RP2D), one patient experienced ≥Grade 3 NT (patient died due to disease progression and multiorgan failure). None of the patients achieving a complete response (CR) experienced any NT and all cases of NT reported have been atypical in nature and seen in a setting with disease progression and confounding factors.
+
+In terms of efficacy data, of the 35 patients dosed to date, 30 patients were evaluable within their completed cohort. The cohort receiving a dose of ≥ 150 x 106 cells and pre-conditioning pembrolizumab D-1 (the RP2D) had an objective response rate (ORR) of 71% and CR rate of 64%. For all patients on study across all dose levels that were evaluable, the ORR was 68% and CR rate of 54%.
+
+Investor call on Friday September 18, 2020
+
+Management will host a conference call and webcast today at 8:00 am EDT/1:00 pm BST to discuss the ESMO data. To listen to the webcast and view the accompanying slide presentation, please go to: https://www.autolus.com/investor-relations/news-and-events/events . The call may also be accessed by dialing (866) 652-5200 for U.S. and Canada callers or (412) 317-6060 for International callers. Please ask to be joined into the Autolus Therapeutics call. After the conference call, a replay will be available for one year on Autolus’ website.
+
+About Autolus Therapeutics plc
+
+Autolus is a clinical-stage biopharmaceutical company developing next-generation, programmed T cell therapies for the treatment of cancer. Using a broad suite of proprietary and modular T cell programming technologies, the company is engineering precisely targeted, controlled and highly active T cell therapies that are designed to better recognize cancer cells, break down their defense mechanisms and eliminate these cells. Autolus has a pipeline of product candidates in development for the treatment of hematological malignancies and solid tumors. For more information please visit www.autolus.com.
+
+About AUTO3
+
+AUTO3 is a programmed T cell therapy containing two independent chimeric antigen receptors targeting CD19 and CD22 that have each been independently optimized for single target activity. By simultaneously targeting two B cell antigens, AUTO3 is designed to minimize relapse due to single antigen loss in patients with B cell malignancies. AUTO3 is currently being tested in diffuse large B cell lymphoma in the ALEXANDER clinical trial, with a 20-patient cohort that was initiated in Q2 2020 to assess feasibility of treatment in an outpatient setting.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical facts, and in some cases can be identified by terms such as "may," "will," "could," "expects," "plans," "anticipates," and "believes." These statements include, but are not limited to, statements regarding the efficacy, safety and therapeutic potential of AUTO3 and the future clinical development of AUTO3 including progress, expectations as to the reporting of data, conduct and timing. Any forward-looking statements are based on management's current views and assumptions and involve risks and uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in such statements. These risks and uncertainties include, but are not limited to, the risks that Autolus’ preclinical or clinical programs do not advance or result in approved products on a timely or cost effective basis or at all; the results of early clinical trials are not always being predictive of future results; the cost, timing and results of clinical trials; that many product candidates do not become approved drugs on a timely or cost effective basis or at all; the ability to enroll patients in clinical trials; possible safety and efficacy concerns; and the impact of the ongoing COVID-19 pandemic on Autolus’ business. For a discussion of other risks and uncertainties, and other important factors, any of which could cause Autolus’ actual results to differ from those contained in the forward-looking statements, see the section titled "Risk Factors" in Autolus' Annual Report on Form 20-F filed with the Securities and Exchange Commission on March 3, 2020, as amended, as well as discussions of potential risks, uncertainties, and other important factors in Autolus' subsequent filings with the Securities and Exchange Commission. All information in this press release is as of the date of the release, and the company undertakes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events, or otherwise, except as required by law.
+
+Contact:
+
+Lucinda Crabtree, PhD
+
+Vice President, Investor Relations and Corporate Communications
+
++44 (0) 7587 372 619
+
+l.crabtree@autolus.com
+
+Julia Wilson
+
++44 (0) 7818 430877
+
+j.wilson@autolus.com

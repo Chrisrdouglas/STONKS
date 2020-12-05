@@ -1,0 +1,55 @@
+Kiniksa Announces Phase 2 Clinical Data from Vixarelimab in Prurigo Nodularis to be Presented at European Academy of Dermatology and Venereology Virtual Congress. HAMILTON, Bermuda, Oct. 29, 2020 (GLOBE NEWSWIRE) -- Kiniksa Pharmaceuticals, Ltd. (Nasdaq: KNSA) (“Kiniksa”), a biopharmaceutical company with a pipeline of assets designed to modulate immunological pathways across a spectrum of diseases, today announced the presentation of data from the Phase 2a clinical trial of vixarelimab in prurigo nodularis at the European Academy of Dermatology and Venereology (EADV) Virtual Congress. Kiniksa previously reported positive results from the trial in April 2020. Vixarelimab is a fully-human monoclonal antibody that targets oncostatin M receptor beta (OSMRβ).
+
+
+
+Dr. Howard Sofen, MD, Associate Clinical Professor of Dermatology at the David Geffen UCLA School of Medicine delivered a virtual presentation entitled, Vixarelimab Reduced Pruritus, Improved Nodules, and was Well-Tolerated in Patients with Prurigo Nodularis in a Phase 2a, Randomized, Double-Blind, Placebo-Controlled Study. The presentation is available through the Science section of Kiniksa’s website.
+
+The Phase 2a trial met its primary efficacy endpoint: there was a statistically significant reduction in weekly-average Worst-Itch Numeric Rating Scale (WI-NRS) from baseline at Week 8 in vixarelimab recipients compared to placebo recipients. Additionally, a statistically significant percentage of vixarelimab recipients achieved a prurigo nodularis-investigator’s global assessment (PN-IGA) score of 0/1 at Week 8 compared to placebo recipients, and the majority of vixarelimab recipients showed a clinically meaningful greater-than-or-equal-to 4-point weekly-average WI-NRS reduction at Week 8.
+
+“Prurigo nodularis is a debilitating chronic inflammatory skin condition characterized by severely pruritic skin nodules. A significant unmet need remains,” said Dr. Howard Sofen, MD, David Geffen UCLA School of Medicine. “In the Phase 2a study, vixarelimab demonstrated significant reductions in pruritus in this disease for which there are currently no FDA-approved therapies. Even more encouraging was seeing significant nodule resolution at Week 8. I look forward to further investigation of vixarelimab in subsequent trials.”
+
+The Phase 2a trial enrolled 49 patients with moderate-to-severe prurigo nodularis (42.9% with a PN-IGA score of 4, 55.1% with a score of 3, and 2.0% with a score of 2) experiencing moderate-to-severe pruritus (mean WI-NRS score of 8.3). Patients were randomized 1:1 to receive a loading dose of vixarelimab 720 mg (n=23) or placebo (n=26) subcutaneous (SC) followed by vixarelimab 360 mg or placebo SC weekly. The primary efficacy endpoint was percent change versus baseline in weekly-average WI-NRS at Week 8 (using the last observation carried forward analysis).
+
+Least squares-mean change from baseline in weekly-average WI-NRS at Week 8 was -50.6% in vixarelimab recipients compared to -29.4% in placebo recipients (mean difference 21.1%; p=0.035).
+
+Median change from baseline in weekly-average WI-NRS at Week 8 was -69.8% in vixarelimab recipients compared to -36.1% in placebo recipients.
+
+30.4% of vixarelimab recipients achieved a PN-IGA score of 0/1 at Week 8 compared to 7.7% of placebo recipients (p=0.032).
+
+52.2% of vixarelimab recipients demonstrated a ≥ 4-point reduction in weekly-average WI-NRS at Week 8 compared to 30.8% of placebo recipients (p=0.109).
+
+In the Phase 2a trial, vixarelimab was well-tolerated by all subjects, and no dose-limiting adverse experiences were observed. There were no serious adverse events or atopic dermatitis flares.
+
+Kiniksa expects to initiate a dose-ranging Phase 2b clinical trial of vixarelimab in prurigo nodularis in the fourth quarter of 2020.
+
+About Kiniksa
+
+Kiniksa is a biopharmaceutical company focused on discovering, acquiring, developing, and commercializing therapeutic medicines for patients suffering from debilitating diseases with significant unmet medical need. Kiniksa’s product candidates, rilonacept, mavrilimumab, vixarelimab and KPL-404, are based on strong biologic rationale or validated mechanisms, target underserved conditions, and offer the potential for differentiation. These pipeline assets are designed to modulate immunological pathways across a spectrum of diseases. For more information, please visit www.kiniksa.com.
+
+About Vixarelimab
+
+Vixarelimab is an investigational fully-human monoclonal antibody that targets OSMRβ, which mediates signaling of interleukin-31 (IL-31) and oncostatin M (OSM), two key cytokines implicated in pruritus, inflammation and fibrosis. Kiniksa believes vixarelimab to be the only monoclonal antibody in development that targets both pathways simultaneously. Kiniksa’s lead indication for vixarelimab is prurigo nodularis, a chronic inflammatory skin condition.
+
+About Vixarelimab Phase 2a Trial in Prurigo Nodularis
+
+The Phase 2a trial was a randomized, double-blind, placebo-controlled study designed to investigate the efficacy, safety, tolerability, and pharmacokinetics of vixarelimab in reducing pruritus in subjects with prurigo nodularis. The trial enrolled patients with moderate-to-severe prurigo nodularis experiencing moderate-to-severe pruritus (WI-NRS ≥ 7 at the screening visit and a mean weekly WI-NRS of ≥ 5 for each of the two consecutive weeks immediately prior to randomization). Patients were required to stop antihistamines and topical treatments, including corticosteroids, for at least two weeks prior to dosing. Prurigo nodularis treatments, other than study drug, were not allowed except for rescue. For more information, refer to ClinicalTrials.gov Identifier: NCT03816891.
+
+Forward-Looking Statements
+
+The information contained in this press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, you can identify forward looking statements by terms such as “may,” “will,” “should,” “expect,” “plan,” “anticipate,” “could,” “intend,” “target,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential” or “continue” or the negative of these terms or other similar expressions, although not all forward-looking statements contain these identifying words. All statements contained in this press release that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation, statements regarding: timing of planned clinical trials, including timing for Kiniksa to initiate a Phase 2b dose-ranging trial of vixarelimab in prurigo nodularis in the fourth quarter of 2020; the potential impact and differentiation of the OSMRβ mechanism; the potential for vixarelimab to positively impact the lives of patients with prurigo nodularis; and the potential for all of our clinical stage product candidates to offer differentiation.
+
+These forward-looking statements are based on management’s current expectations. These statements are neither promises nor guarantees, but involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including without limitation, the following: the potential for changes between final or a broader set of data and any “top-line,” interim and preliminary data we announce; impact of additional data from us or other companies; the potential inability to replicate in later clinical trials positive results from our Phase 2a clinical trial with vixarelimab in patients with prurigo nodularis; the potential for undesirable side effects to be caused by vixarelimab; our reliance on third parties to conduct clinical trials for vixarelimab; the impact of the COVID-19 pandemic and measures taken in response to the pandemic; changes in our operating plan and funding requirements; existing or new competition; and our ability to attract and retain qualified personnel.
+
+These and other important factors discussed under the caption “Risk Factors” in our Annual Report on Form 10-K filed with the Securities and Exchange Commission (“SEC”) on August 4, 2020 and our other reports subsequently filed with or furnished to the SEC could cause actual results to differ materially from those indicated by the forward-looking statements made in this press release. Any such forward-looking statements represent management’s estimates as of the date of this press release. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this press release.
+
+Every Second Counts!™
+
+
+
+Kiniksa Investor and Media Contact
+
+Mark Ragosa
+
+(781) 430-8779
+
+mragosa@kiniksa.com

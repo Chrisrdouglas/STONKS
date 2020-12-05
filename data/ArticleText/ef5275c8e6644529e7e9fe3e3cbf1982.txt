@@ -1,0 +1,149 @@
+Inventiva receives FDA Breakthrough Therapy designation for lead drug candidate lanifibranor in NASH. 
+
+
+
+Designation based on positive topline results from NATIVE Phase IIb clinical trial evaluating lanifibranor in non-alcoholic steatohepatitis (NASH)
+
+
+
+Lanifibranor believed to be the first drug candidate to receive Breakthrough Therapy designation in NASH since 2015
+
+
+
+There are currently no FDA-approved treatments for this common and progressive chronic liver disease
+
+
+
+This designation further supports the decision to initiate a Phase III pivotal clinical trial with lanifibranor in H1 2021
+
+
+
+Daix (France), October 12, 2020 – Inventiva (Euronext Paris and Nasdaq: IVA), a clinical-stage biopharmaceutical company focused on the development of oral small molecule therapies for the treatment of non-alcoholic steatohepatitis (NASH), mucopolysaccharidoses (MPS) and other diseases with significant unmet medical need, today announced that the U.S. Food and Drug Administration (FDA) has granted Breakthrough Therapy designation to lanifibranor, the Company’s lead drug candidate, for the treatment of NASH. Lanifibranor is believed to be the first drug candidate to be granted this status for the treatment of NASH since January 2015.
+
+The Breakthrough Therapy designation by the FDA is intended to expedite the development and review of drug candidates for serious or life-threatening conditions. To qualify for this designation, drug candidates must show preliminary clinical evidence that they may demonstrate a substantial improvement on at least one clinically significant endpoint over available therapies or over placebo if there are no approved therapies.
+
+The designation of lanifibranor as a Breakthrough Therapy for the treatment of NASH follows the publication in June 2020 of positive topline results from Inventiva’s NATIVE Phase IIb clinical trial with lanifibranor in NASH patients. In this 24-week clinical trial, lanifibranor met the primary endpoint with a statistically significant reduction of the Steatosis Activity Fibrosis score (SAF), which combines assessments of hepatocellular inflammation and ballooning with no worsening of fibrosis in the Intention To Treat (ITT1) and Per Protocol populations (PP2). In addition, lanifibranor met key secondary endpoints, including NASH resolution with no worsening of fibrosis3 and improvement of liver fibrosis with no worsening of NASH4 in both ITT and PP populations. With regards to the secondary endpoints, lanifibranor is the first drug candidate to achieve statistically significant results on the FDA and European Medicine Agency (EMA) primary endpoints which are relevant for seeking accelerated approval during Phase III clinical development.
+
+Inventiva is expected to hold the end of NATIVE Phase IIb clinical trial meeting with the FDA and to receive regulatory feedback from the EMA during the fourth quarter of 2020 with the initiation of the Phase III clinical trial evaluating lanifibranor in NASH planned for the first half of 2021.
+
+Frédéric Cren, Chairman, Chief Executive Officer and cofounder of Inventiva, commented: “Ahead of our end of Phase IIb meeting with the FDA later this year, the Breakthrough Therapy designation for lanifibranor is a fantastic achievement and a regulatory recognition of the significant clinical benefits lanifibranor could provide to NASH patients as shown in our recent NATIVE Phase IIb clinical trial. This new status will allow us to pursue lanifibranor’s development towards a safe and effective treatment for this devastating disease and we look forward to continue working closely with the FDA to this end."
+
+
+
+About Breakthrough Therapy designation5
+
+
+
+Breakthrough Therapy designation is a process designed to expedite the development and review of drugs in the United States that are intended to treat a serious condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over available therapy on a clinically significant endpoint(s).
+
+A drug that receives Breakthrough Therapy designation is eligible for the following:
+
+All Fast Track designation features ;
+
+Intensive guidance on an efficient drug development program, beginning as early as Phase 1 ;
+
+Organizational commitment involving senior managers.
+
+
+
+About lanifibranor
+
+Lanifibranor, Inventiva’s lead product candidate, is an orally-available small molecule that acts to induce anti-fibrotic, anti-inflammatory and beneficial vascular and metabolic changes in the body by activating all three peroxisome proliferator‑activated receptor (PPAR) isoforms, which are well‑characterized nuclear receptor proteins that regulate gene expression. Lanifibranor is a PPAR agonist that is designed to target all three PPAR isoforms in a moderately potent manner, with a well‑balanced activation of PPARα and PPARδ, and a partial activation of PPARγ. While there are other PPAR agonists that target only one or two PPAR isoforms for activation, lanifibranor is the only pan‑PPAR agonist in clinical development. Inventiva believes that lanifibranor’s moderate and balanced pan‑PPAR binding profile contributes to the favorable tolerability profile that has been observed in clinical trials and pre‑clinical studies to date.
+
+
+
+About the NATIVE Phase IIb trial
+
+The NATIVE (NAsh Trial to Validate IVA337 Efficacy) clinical trial was a 24-week randomized, double-blind, placebo-controlled Phase IIb clinical trial evaluating lanifibranor for the treatment of patients with NASH. The main purpose of the trial was to assess the efficacy of lanifibranor in improving liver inflammation and ballooning, the two histological markers included in the definition of the regulatory endpoint of NASH resolution. To be considered for inclusion, patients were required to have: a diagnosis of NASH confirmed by liver biopsy; a cumulative score of inflammation and ballooning (as measured using the SAF scoring system) of three or four out of four, indicating the presence of moderate to severe inflammation and ballooning; a steatosis score greater than or equal to one, indicating the presence of moderate to severe steatosis; and a fibrosis score less than four, indicating the absence of cirrhosis. The primary endpoint of the trial was a reduction in the combined inflammation and ballooning score of two points compared to baseline, with no worsening fibrosis, as measured by the SAF score. Secondary endpoints included NASH resolution, improvements in each of the steatosis, inflammation, ballooning and fibrosis scores from baseline as measured using the SAF score, improvements in various other fibrosis measures, improvements in several metabolic markers, improvements in steatosis, inflammation and ballooning as measured using the NAS score (NAFLD activity score), and safety.
+
+The trial randomized 247 patients with NASH in 71 sites in Australia, Canada, Europe, Mauritius and the United States.
+
+
+
+About Inventiva
+
+Inventiva is a clinical-stage biopharmaceutical company focused on the development of oral small molecule therapies for the treatment of NASH, MPS and other diseases with significant unmet medical need.
+
+Leveraging its expertise and experience in the domain of compounds targeting nuclear receptors, transcription factors and epigenetic modulation, Inventiva is currently advancing two clinical candidates, as well as a deep pipeline of earlier stage programs.
+
+Lanifibranor, its lead product candidate, is being developed for the treatment of patients with NASH, a common and progressive chronic liver disease for which there are currently no approved therapies. Inventiva recently announced positive topline data from its Phase IIb clinical trial evaluating lanifibranor for the treatment of patients with NASH.
+
+Inventiva is also developing odiparcil, a second clinical stage asset, for the treatment of patients with subtypes of MPS, a group of rare genetic disorders. A Phase I/II clinical trial in children with MPS VI is currently under preparation following the release of positive results of the Phase IIa clinical trial in adult MPS VI patients at the end of 2019.
+
+In parallel, Inventiva is in the process of selecting an oncology development candidate for its Hippo signalling pathway program. Furthermore, the Company has established a strategic collaboration with AbbVie in the area of autoimmune diseases. AbbVie has started the clinical development of ABBV‑157, a drug candidate for the treatment of moderate to severe psoriasis resulting from its collaboration with Inventiva. This collaboration enables Inventiva to receive milestone payments upon the achievement of pre-clinical, clinical, regulatory and commercial milestones, in addition to royalties on any approved products resulting from the collaboration.
+
+The Company has a scientific team of approximately 70 people with deep expertise in the fields of biology, medicinal and computational chemistry, pharmacokinetics and pharmacology, as well as in clinical development. It also owns an extensive library of approximately 240,000 pharmacologically relevant molecules, approximately 60% of which are proprietary, as well as a wholly‑owned research and development facility.
+
+Inventiva is a public company listed on compartment C of the regulated market of Euronext Paris (ticker: IVA - ISIN: FR0013233012) and on the Nasdaq Global Market in the United States (ticker: IVA). www.inventivapharma.com
+
+
+
+Contacts
+
+
+
+Inventiva
+
+Frédéric Cren
+
+Chairman & CEO
+
+info@inventivapharma.com
+
++33 3 80 44 75 00
+
+Brunswick Group
+
+Yannick Tetzlaff / Tristan Roquet Montegon /
+
+Aude Lepreux
+
+Media relations
+
+inventiva@brunswickgroup.com
+
++33 1 53 96 83 83
+
+Westwicke, an ICR Company﻿
+
+Patricia L. Bank
+
+Investor relations
+
+patti.bank@westwicke.com
+
++1 415 513 1284
+
+
+
+
+
+Important Notice
+
+This press release contains forward-looking statements, forecasts and estimates with respect to Inventiva’s clinical trials, clinical trial data releases, clinical development plans and anticipated future activities of Inventiva. Certain of these statements, forecasts and estimates can be recognized by the use of words such as, without limitation, “believes”, “anticipates”, “expects”, “intends”, “plans”, “seeks”, “estimates”, “may”, “will” and “continue” and similar expressions. Such statements are not historical facts but rather are statements of future expectations and other forward-looking statements that are based on management's beliefs. These statements reflect such views and assumptions prevailing as of the date of the statements and involve known and unknown risks and uncertainties that could cause future results, performance or future events to differ materially from those expressed or implied in such statements. Actual events are difficult to predict and may depend upon factors that are beyond Inventiva's control. There can be no guarantees with respect to pipeline product candidates that the clinical trial results will be available on their anticipated timeline, that future clinical trials will be initiated as anticipated, or that candidates will receive the necessary regulatory approvals. Actual results may turn out to be materially different from the anticipated future results, performance or achievements expressed or implied by such statements, forecasts and estimates, due to a number of factors, including that Inventiva has incurred significant losses since inception, Inventiva has a limited operating history and has never generated any revenue from product sales, Inventiva will require additional capital to finance its operations, Inventiva's future success is dependent on the successful clinical development, regulatory approval and subsequent commercialization of current and any future product candidates, preclinical studies or earlier clinical trials are not necessarily predictive of future results and the results of Inventiva's clinical trials may not support Inventiva's product candidate claims, Inventiva may encounter substantial delays in its clinical trials or Inventiva may fail to demonstrate safety and efficacy to the satisfaction of applicable regulatory authorities, enrollment and retention of patients in clinical trials is an expensive and time-consuming process and could be made more difficult or rendered impossible by multiple factors outside Inventiva's control, Inventiva's product candidates may cause undesirable side effects or have other properties that could delay or prevent their regulatory approval, or limit their commercial potential, Inventiva faces substantial competition and Inventiva’s business, preclinical studies and clinical development programs and timelines, its financial condition and results of operations could be materially and adversely affected by the current COVID-19 pandemic. Given these risks and uncertainties, no representations are made as to the accuracy or fairness of such forward-looking statements, forecasts and estimates. Furthermore, forward-looking statements, forecasts and estimates only speak as of the date of this press release. Readers are cautioned not to place undue reliance on any of these forward-looking statements.
+
+Please refer to the Universal Registration Document filed with the Autorité des Marchés Financiers on June 19, 2020 under n° D.20-0551 and its amendment filed on July 10, 2020 under n° D. 20-0551-A01 as well as the half-year financial report on June 30, 2020 for additional information in relation to such factors, risks and uncertainties.
+
+Except as required by law, Inventiva has no intention and is under no obligation to update or review the forward-looking statements referred to above. Consequently, Inventiva accepts no liability for any consequences arising from the use of any of the above statements.
+
+
+
+
+
+
+
+1 ITT: includes all patients randomized in the trial.
+
+2 PP: includes all patients with paired biopsies and without deviation impacting efficacy assessment.
+
+3 NASH resolution and no worsening of fibrosis defined as CRN Lobular inflammation score equal to 0 or 1 and CRN Hepatocyte ballooning score equal to 0 and no worsening of the CRN-Fibrosis score.
+
+4 Improvement of liver fibrosis with no worsening of NASH defined as improvement of CRN-Fibrosis score ≥ 1 stage and no increase of CRN-Steatosis score and no increase of CRN-Inflammation score and no increase of CRN-Ballooning score.
+
+5 https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/breakthrough-therapy .
+
+
+
+
+
+Attachment

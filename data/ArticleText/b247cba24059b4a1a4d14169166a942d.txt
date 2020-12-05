@@ -1,0 +1,57 @@
+Soleno Therapeutics Announces Updated Top-line Results from Phase III Trial of DCCR for Treatment of Prader-Willi Syndrome. Updated Results Demonstrate Significant DCCR Exposure Response Relationship
+
+
+
+Interim Analysis of Open-Label Extension Data Demonstrate Continued Efficacy
+
+Improvements in Body Composition and Metabolic Measures Support Efficacy of DCCR in Treatment of PWS Symptoms
+
+REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- Soleno Therapeutics, Inc. (“Soleno”) (NASDAQ: SLNO), a clinical-stage biopharmaceutical company developing novel therapeutics for the treatment of rare diseases, today announced that updated top-line results from the Company’s Phase III trial, DESTINY PWS (C601), evaluating once-daily Diazoxide Choline Controlled Release (DCCR) tablets for patients with Prader-Willi Syndrome (PWS), were highlighted in an oral presentation by Jennifer L. Miller, M.D., Professor in the Division of Pediatric Endocrinology at the University of Florida, at the Foundation for Prader-Willi Research Annual Research Symposium.
+
+DESTINY PWS is a randomized, double-blind, placebo-controlled Phase III study of oncedaily oral administration of DCCR in 127 PWS patients conducted at 29 sites in the U.S. and U.K. The objective of the study was to assess the efficacy and safety of DCCR in subjects ages four years and older, with genetically-confirmed PWS. Patients who completed the double-blind study enrolled in study C602, an ongoing open-label, extension study.
+
+Soleno previously announced initial top-line results from DESTINY PWS in June 2020. The study did not meet its primary endpoint of change from baseline in hyperphagia, measured by the total score of a Hyperphagia Questionnaire for Clinical Trials (HQ-CT, 036). However, significant changes were observed in two of three key secondary endpoints, improvement in physician assessed Clinical Global Impression of Improvement score and reduction of body fat mass, in subjects receiving DCCR as compared to placebo. An interim analysis of the subset of patients who completed 13 weeks of treatment on C602 showed a continued improvement in hyperphagia, as well as several other PWS related behaviors.
+
+Key updated results:
+
+A significant exposure response relationship between DCCR plasma concentrations and change from baseline in HQ-CT score was observed.
+
+Analyses of treatment windows revealed continued efficacy of DCCR over time as compared to worsening effects for placebo. While there was a larger decrease from baseline to week 4 in placebo compared to DCCR subjects, from week 4 to the end of the study placebo subjects worsened, while DCCR subjects continued to improve (p=0.03).
+
+Significant improvements for DCCR compared to placebo were observed in leptin and adiponectin, adipokines that are differentially expressed in obesity and cardiovascular diseases. Leptin levels are elevated in obesity due to increased body fat mass and leptin resistance, while adiponectin levels are downregulated in obesity. DCCR led to a decrease in leptin levels, as compared to an increase for placebo (p<0.0001). DCCR led to an increase in adiponectin levels as compared to placebo (p<0.0001).
+
+Significant improvements in insulin-related measures were observed Significant reductions from baseline in fasting insulin levels for DCCR compared to placebo were observed at week 6 (p=0.0143), week 8 (p=0.0214) and week 13 (p=0.0171). Treatment with DCCR resulted in a significant improvement in insulin resistance as measured using the Homeostatic Model Assessment of Insulin Resistance (HOMA-IR), as compared to placebo (p=0.0487).
+
+Interim analysis of the change in HQ-CT from C601 baseline at week 13 of C602, the open-label extension study, indicated that nearly all subjects treated with DCCR (n=63) showed improvement in HQ-CT score. The median C601 baseline HQ-CT score was 23, as compared to the median C602 week 13 HQ-CT score of 9, a 14-point reduction, demonstrating continued improvement. Improvement in various PWS related behaviors (anxiety, rigidity, compulsivity, aggression, etc.) was seen with DCCR treatment. The safety profile of DCCR remains consistent with the known safety profile of diazoxide and the prior experience with DCCR. No serious, unexpected reportable adverse events have been reported with DCCR in the program to date.
+
+More than 100 patients continue to be treated with DCCR in C602, with more than 20 having been treated for more than a year.
+
+“The results from this program continue to demonstrate DCCR’s beneficial impact on hyperphagia, the predominant symptom of PWS, other behaviors typical of PWS, as well as problems related to body composition, and a safety profile that is well understood,” said Dr. Miller, a Principal Investigator in the Soleno study. “The sum total of data presented to date suggest that DCCR, if approved, may be a safe and effective treatment option that can address both the behavioral and metabolic components of PWS. I look forward to continued progress in advancing DCCR as the first potentially approved treatment for key unmet needs associated with PWS, a devastating condition with life-threatening comorbidities.”
+
+“These compelling updated data bolster our confidence in DCCR’s safety and efficacy profile in PWS,” said Anish Bhatnagar, M.D., Chief Executive Officer of Soleno Therapeutics. “We continue to treat patients in study C602, our open-label extension. As we have previously communicated, we expect to meet with the U.S. Food and Drug Administration before year-end to determine next steps and a potential path forward to address the unmet need for a safe and effective treatment option for PWS patients.”
+
+DCCR has orphan designation for the treatment of PWS in the U.S. and EU and Fast Track designation from the U.S. Food and Drug Administration.
+
+About PWS
+
+The Prader-Willi Syndrome Association USA estimates that one in 12,000 to 15,000 people in the U.S. have PWS. The hallmark symptom of this disorder is hyperphagia, a chronic feeling of insatiable hunger that severely diminishes the quality of life for PWS patients and their families. Additional characteristics of PWS include behavioral problems, cognitive disabilities, low muscle tone, short stature (when not treated with growth hormone), the accumulation of excess body fat, developmental delays, and incomplete sexual development. Hyperphagia can lead to significant morbidities (e.g., stomach rupture, obesity, diabetes, cardiovascular disease) and mortality (e.g., choking, accidental death due to food seeking behavior). In a global survey conducted by the Foundation for Prader-Willi Research, 96.5% of respondents (parent and caregivers) rated hyperphagia as the most important or a very important symptom to be relieved by a new medicine. There are currently no approved therapies to treat the hyperphagia/appetite, metabolic, cognitive function, or behavioral aspects of the disorder. Diazoxide choline has received Orphan Drug Designation for the treatment of PWS in the U.S. and EU, and Fast Track Designation in the U.S.
+
+About Diazoxide Choline Controlled-Release (DCCR) Tablet
+
+Diazoxide Choline Controlled-Release tablet is a novel, proprietary extended-release, crystalline salt formulation of diazoxide, which is administered once-daily. The parent molecule, diazoxide, has been used for decades in thousands of patients in a few rare diseases in neonates, infants, children and adults, but has not been approved for use in PWS. Soleno conceived of and established extensive patent protection on the therapeutic use of diazoxide and DCCR in patients with PWS. The DCCR development program is supported by data from five completed Phase I clinical studies in healthy volunteers and three completed Phase II clinical studies, one of which was in PWS patients. In the PWS Phase II study, DCCR showed promise in addressing hyperphagia, the hallmark symptom of PWS, as well as several other symptoms such as aggressive/destructive behaviors, fat mass and other metabolic parameters.
+
+About Soleno Therapeutics, Inc.
+
+Soleno is focused on the development and commercialization of novel therapeutics for the treatment of rare diseases. The company’s lead candidate, Diazoxide Choline Controlled-Release (DCCR) tablets, a once-daily oral tablet for the treatment of Prader-Willi Syndrome (PWS), is currently being evaluated in a Phase III clinical development program. For more information, please visit www.soleno.life.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical facts contained in this press release are forward-looking statements, including statements regarding timing of any regulatory process or ultimate approvals and determining a path forward for DCCR for the treatment of PWS and the impact of the COVID-19 pandemic on our operations and clinical trial. In some cases, you can identify forward-looking statements by terms such as "may," "will," "should," "expect," "plan," "anticipate," "could," "intend," "target," "project," "contemplates," "believes," "estimates," "predicts," "potential" or "continue" or the negative of these terms or other similar expressions. These forward-looking statements speak only as of the date of this press release and are subject to a number of risks, uncertainties and assumptions, including the risks and uncertainties associated with market conditions, as well as risks and uncertainties inherent in Soleno’s business, including those described in the company's prior press releases and in the periodic reports it files with the SEC. The events and circumstances reflected in the company's forward-looking statements may not be achieved or occur and actual results could differ materially from those projected in the forward-looking statements. Except as required by applicable law, the company does not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise.
+
+Corporate Contact:
+
+Brian Ritchie
+
+LifeSci Advisors, LLC
+
+212-915-2578

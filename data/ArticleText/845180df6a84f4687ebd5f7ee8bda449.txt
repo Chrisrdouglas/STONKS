@@ -1,0 +1,71 @@
+Altimmune and UAB Announce Publication of Compelling Pre-clinical Data for AdCOVID™ Intranasal COVID-19 Vaccine Candidate. Comprehensive analysis shows AdCOVID uniquely stimulates three key immune components: serum neutralizing antibody, T cell responses, and mucosal immunity in the respiratory tract
+
+
+
+Nasal mucosal immunity may be the critical factor in driving sterilizing immunity and preventing further spread of the virus by vaccinated individuals
+
+GAITHERSBURG, Md., Oct. 12, 2020 (GLOBE NEWSWIRE) -- Altimmune, Inc. (Nasdaq: ALT), a clinical-stage biopharmaceutical company, today pre-published a comprehensive preclinical evaluation of its single-dose, intranasal COVID-19 vaccine candidate, AdCOVID, in a manuscript entitled, “Single-dose intranasal administration of AdCOVID elicits systemic and mucosal immunity against SARS-CoV-2 in mice.” The studies were conducted as part of Altimmune’s ongoing collaboration with the University of Alabama at Birmingham (UAB) and expand upon earlier preclinical data presented for the AdCOVID program. The manuscript is available on an online preprint server at:
+
+www.biorxiv.org/content/10.1101/2020.10.10.331348v1
+
+AdCOVID is based on the Company’s adenovirus-based intranasal vaccine platform and expresses the receptor binding domain (RBD) of the SARS-CoV-2 spike protein. The RBD is essential for viral infection and the majority of neutralizing antibodies from people that have recovered from COVID-19 bind to the RBD, highlighting the importance of the RBD in controlling infection.
+
+AdCOVID is designed to offer significant advantages over other COVID-19 vaccine approaches, including intranasal administration, single-dose effectiveness, broad activation of the immune response, and the ability to ship and store the vaccine conveniently and inexpensively.
+
+Altimmune anticipates filing an IND with the U.S. Food and Drug Administration and commencing a Phase 1 safety and immunogenicity trial of AdCOVID in the fourth quarter of 2020.
+
+Key Findings of the Study:
+
+In the BioRxiv.org publication, the authors present data demonstrating strong activation of all three arms of the adaptive immune system following a single intranasal dose of AdCOVID. These data, conducted in two strains of mice, show that AdCOVID stimulated strong immune responses including:
+
+Serum Neutralizing Immunity : AdCOVID elicited a median serum neutralization titer against wild-type SARS-CoV-2 virus of up to 1:563 one-month post-vaccination in a 50% focus reduction neutralization test (FRNT). For context, this level of neutralizing activity was at least 3-fold higher than the minimum titer recommended by the FDA for convalescent plasma used in the treatment of COVID-19.
+
+
+
+
+
+AdCOVID elicited a median serum neutralization titer against wild-type SARS-CoV-2 virus of up to 1:563 one-month post-vaccination in a 50% focus reduction neutralization test (FRNT). For context, this level of neutralizing activity was at least 3-fold higher than the minimum titer recommended by the FDA for convalescent plasma used in the treatment of COVID-19. T cell Immunity: AdCOVID stimulated both CD4+ and CD8+ antigen-specific T cell responses following a single intranasal vaccination. The response was focused in the lungs of the vaccinated mice and was biased toward CD8+ T cells. A significant fraction of the CD8+ T cells in the lung were found to be non-circulating tissue-resident memory (Trm) T cells, which have been shown to play a front-line role in fighting respiratory viral infections.
+
+
+
+
+
+AdCOVID stimulated both CD4+ and CD8+ antigen-specific T cell responses following a single intranasal vaccination. The response was focused in the lungs of the vaccinated mice and was biased toward CD8+ T cells. A significant fraction of the CD8+ T cells in the lung were found to be non-circulating tissue-resident memory (Trm) T cells, which have been shown to play a front-line role in fighting respiratory viral infections. Mucosal Immunity: Nasal mucosal immunity is a local type of immunity that has the potential to stop both infection and transmission of the virus. Significantly, only an intranasal vaccine can activate this important type of immunity. AdCOVID induced a 29-fold increase in mucosal IgA specific to the RBD, well above the level associated with protection in clinical studies of mucosal influenza vaccines where a 2 to 4-fold increase in IgA was found to be correlated with protection. The observed IgA response, together with the lung-associated Trm T cell response noted above, provided an additional level of immune response that may provide enhanced protection against COVID-19 disease and transmission.
+
+
+
+“Our collaboration with UAB has been extremely productive and the preclinical data for AdCOVID continue to show promising differentiation from other COVID-19 vaccine candidates”, said Dr. Scot Roberts, Ph.D., Chief Scientific Officer for Altimmune. “Intranasal vaccination represents an attractive strategy to prevent COVID-19 infection, as the nasal cavity comprises the first line of defense against the SARS-CoV-2 virus prior to entry into the lungs. By stimulating mucosal antibody and T cell immunity, along with potent systemic neutralizing antibody titers, all three arms of the immune system can work in concert to prevent and control infection.”
+
+Dr. Roberts continued, “Current first-generation COVID-19 vaccines, which are given by intramuscular injection are unable to activate nasal mucosal immunity, which may not only be critical for mounting a comprehensive immune response, but may also prevent further spread of the virus by blocking transmission."
+
+“We are delighted that our work has provided convincing data on the potential of AdCOVID to provide broad and effective immune response, and look forward to continued collaboration with Altimmune on this important program,” said Dr. Frances Lund, Ph.D., Charles H. McCauley Professor and Chair of the UAB Department of Microbiology and principal investigator and co-author of the manuscript.
+
+About AdCOVID
+
+AdCOVID is designed to offer several important advantages over other vaccine approaches, including single-dose intranasal administration, a broad immune response that includes mucosal immunity, and the ability to ship and store the vaccine conveniently and inexpensively.
+
+Expected Attributes of AdCOVID
+
+Single dose protection
+
+Mucosal and systemic immunity to block infection and transmission
+
+Needle-free nasal spray, potential for self-administration
+
+Excellent tolerability profile
+
+Attractive stability profile for cold chain-free distribution
+
+
+
+Because intranasal dosing can stimulate local mucosal immunity, AdCOVID is expected to guard the respiratory tract from viral invasion and provide downstream protection against viral spread. Local mucosal immunity may be essential for creating sterilizing immunity that eliminates the last traces of viral infection in the nasal cavity. Recent studies have shown that in the absence of mucosal immunity, the nasal cavity may become a reservoir for the coronavirus, potentially prolonging infection while allowing for disease transmission. Importantly, nasal mucosal immunity can only be achieved by administering a vaccine intranasally.
+
+AdCOVID also provides an easier route of administration than an injection which may eliminate the need for administration by trained medical personnel and may even allow for self-administration. Finally, based on data from Altimmune’s other platform vaccines (NasoVAX™ and NasoShield™) AdCOVID is expected to have extended stability at room temperature allowing for cold chain-free distribution of the vaccine where it can then be stored in the common refrigerators found in community-based doctor’s offices and pharmacies for two years or more. The simple and convenient handling requirements may greatly increase the number of people willing to take the vaccine.
+
+About Altimmune
+
+Altimmune is a clinical stage biopharmaceutical company focused on developing intranasal vaccines, immune modulating therapies and treatments for liver disease. Our diverse pipeline includes proprietary intranasal vaccines for COVID-19 (AdCOVID™), anthrax (NasoShield™) and influenza (NasoVAX™); an intranasal immune modulating therapeutic for COVID-19 (T-COVID™); and next generation peptide therapeutics for NASH (ALT-801) and chronic hepatitis B (HepTcell™). For more information on Altimmune, please visit www.altimmune.com.
+
+Forward-Looking Statement
+
+Any statements made in this press release relating to future financial or business performance, conditions, plans, prospects, trends, or strategies and other financial and business matters, including without limitation, submitting an IND with the U.S. Food and Drug Administration and commencing a Phase 1 safety and immunogenicity trial of AdCOVID in the fourth quarter of 2020, the potential immunization effects of AdCOVID, our ability to manufacture AdCOVID beginning this year, and the prospects for regulatory approval, commercializing or selling any product or drug candidates, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In addition, when or if used in this press release, the words “may,” “could,” “should,” “anticipate,” “believe,” “estimate,” “expect,” “intend,” “plan,” “predict” and similar expressions and their variants, as they relate to Altimmune, Inc. (the “Company”) may identify forward-looking statements. The Company cautions that these forward-looking statements are subject to numerous assumptions, risks, and uncertainties, which change over time. Important factors that may cause actual results to differ materially from the results discussed in the forward looking statements or historical experience include risks and uncertainties, including risks relating to: potential impacts due to the COVID-19 pandemic such as delays in regulatory review, manufacturing and supply chain interruptions, access to clinical sites, enrollment, adverse effects on healthcare systems and disruption of the global economy the reliability of the results of studies relating to human safety and possible adverse effects resulting from the administration of the Company’s product candidates; the Company’s ability to secure regulatory approval for its AdCOVID investigational new drug application submission to the U.S. Food and Drug Administration; the Company’s ability to manufacture clinical trial materials on the timelines anticipated; and the success of future product advancements, including the success of future clinical trials. Further information on the factors and risks that could affect the Company's business, financial conditions and results of operations are contained in the Company’s filings with the U.S. Securities and Exchange Commission, including under the heading “Risk Factors” in the Company’s annual report on Form 10-K for the fiscal year ended December 31, 2019 and quarterly report on Form 10-Q for the quarter ended March 31, 2020 filed with the SEC, which are available at www.sec.gov.

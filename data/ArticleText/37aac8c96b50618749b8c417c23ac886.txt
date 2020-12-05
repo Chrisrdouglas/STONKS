@@ -1,0 +1,95 @@
+CRISPR Therapeutics and Vertex Pharmaceuticals Announce Priority Medicines (PRIME) Designation Granted by the European Medicines Agency (EMA) to CTX001™ for the Treatment of Sickle Cell Disease. ZUG, Switzerland and CAMBRIDGE, Mass. and BOSTON, Sept. 22, 2020 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) and Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced the European Medicines Agency (EMA) has granted Priority Medicines (PRIME) designation to CTX001, an investigational, autologous, ex vivo CRISPR/Cas9 gene-edited therapy for the treatment of severe sickle cell disease (SCD).
+
+
+
+PRIME is a regulatory mechanism that provides early and proactive support to developers of promising medicines, to optimize development plans and speed up evaluations so these medicines can reach patients faster. The goal of PRIME is to help patients benefit as early as possible from innovative new therapies that have demonstrated the potential to significantly address an unmet medical need. PRIME designation was granted based on clinical data from CRISPR and Vertex’s ongoing Phase 1/2 trial of CTX001 in patients with severe SCD.
+
+About CTX001
+
+CTX001 is an investigational, autologous, ex vivo CRISPR/Cas9 gene-edited therapy that is being evaluated for patients suffering from transfusion-dependent beta thalassemia (TDT) or severe SCD, in which a patient’s hematopoietic stem cells are engineered to produce high levels of fetal hemoglobin (HbF; hemoglobin F) in red blood cells. HbF is a form of the oxygen-carrying hemoglobin that is naturally present at birth, which then switches to the adult form of hemoglobin. The elevation of HbF by CTX001 has the potential to alleviate transfusion requirements for TDT patients and reduce painful and debilitating sickle crises for SCD patients.
+
+Based on progress in this program to date, CTX001 has been granted Regenerative Medicine Advanced Therapy (RMAT), Fast Track, and Orphan Drug designations from the U.S. Food and Drug Administration (FDA), and Orphan Drug Designation from the European Commission, for both TDT and SCD.
+
+CTX001 is being developed under a co-development and co-commercialization agreement between CRISPR Therapeutics and Vertex. CTX001 is the most advanced gene-editing approach in development for TDT and SCD.
+
+About CLIMB-111
+
+The ongoing Phase 1/2 open-label trial, CLIMB-Thal-111, is designed to assess the safety and efficacy of a single dose of CTX001 in patients ages 12 to 35 with TDT. The trial will enroll up to 45 patients and follow patients for approximately two years after infusion. Each patient will be asked to participate in a long-term follow-up trial.
+
+About CLIMB-121
+
+The ongoing Phase 1/2 open-label trial, CLIMB-SCD-121, is designed to assess the safety and efficacy of a single dose of CTX001 in patients ages 12 to 35 with severe SCD. The trial will enroll up to 45 patients and follow patients for approximately two years after infusion. Each patient will be asked to participate in a long-term follow-up trial.
+
+About the Gene-Editing Process in These Trials
+
+Patients who enroll in these trials will have their own hematopoietic stem and progenitor cells collected from peripheral blood. The patient’s cells will be edited using the CRISPR/Cas9 technology. The edited cells, CTX001, will then be infused back into the patient as part of a stem cell transplant, a process which involves, among other things, a patient being treated with myeloablative busulfan conditioning. Patients undergoing stem cell transplants may also encounter side effects (ranging from mild to severe) that are unrelated to the administration of CTX001. Patients will initially be monitored to determine when the edited cells begin to produce mature blood cells, a process known as engraftment. After engraftment, patients will continue to be monitored to track the impact of CTX001 on multiple measures of disease and for safety.
+
+About the CRISPR-Vertex Collaboration
+
+CRISPR Therapeutics and Vertex entered into a strategic research collaboration in 2015 focused on the use of CRISPR/Cas9 to discover and develop potential new treatments aimed at the underlying genetic causes of human disease. CTX001 represents the first treatment to emerge from the joint research program. CRISPR Therapeutics and Vertex will jointly develop and commercialize CTX001 and equally share all research and development costs and profits worldwide.
+
+About CRISPR Therapeutics
+
+CRISPR Therapeutics is a leading gene editing company focused on developing transformative gene-based medicines for serious diseases using its proprietary CRISPR/Cas9 platform. CRISPR/Cas9 is a revolutionary gene editing technology that allows for precise, directed changes to genomic DNA. CRISPR Therapeutics has established a portfolio of therapeutic programs across a broad range of disease areas including hemoglobinopathies, oncology, regenerative medicine and rare diseases. To accelerate and expand its efforts, CRISPR Therapeutics has established strategic collaborations with leading companies including Bayer, Vertex Pharmaceuticals and ViaCyte, Inc. CRISPR Therapeutics AG is headquartered in Zug, Switzerland, with its wholly-owned U.S. subsidiary, CRISPR Therapeutics, Inc., and R&D operations based in Cambridge, Massachusetts, and business offices in San Francisco, California and London, United Kingdom. For more information, please visit www.crisprtx.com.
+
+CRISPR Therapeutics Forward-Looking Statement
+
+This press release may contain a number of “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, as well as statements regarding CRISPR Therapeutics’ expectations about any or all of the following: (i) the status of clinical trials (including, without limitation, the expected timing of data releases) and discussions with regulatory authorities related to product candidates under development by CRISPR Therapeutics and its collaborators, including expectations regarding the benefits of PRIME designation; (ii) the expected benefits of CRISPR Therapeutics’ collaborations; and (iii) the therapeutic value, development, and commercial potential of CRISPR/Cas9 gene editing technologies and therapies. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects” and similar expressions are intended to identify forward-looking statements. You are cautioned that forward-looking statements are inherently uncertain. Although CRISPR Therapeutics believes that such statements are based on reasonable assumptions within the bounds of its knowledge of its business and operations, forward-looking statements are neither promises nor guarantees and they are necessarily subject to a high degree of uncertainty and risk. Actual performance and results may differ materially from those projected or suggested in the forward-looking statements due to various risks and uncertainties. These risks and uncertainties include, among others: potential impacts due to the coronavirus pandemic, such as the timing and progress of clinical trials; the potential for initial and preliminary data from any clinical trial and initial data from a limited number of patients (as is the case with CTX001 at this time) not to be indicative of final trial results; the potential that CTX001 clinical trial results may not be favorable; that future competitive or other market factors may adversely affect the commercial potential for CTX001; uncertainties regarding the intellectual property protection for CRISPR Therapeutics’ technology and intellectual property belonging to third parties, and the outcome of proceedings (such as an interference, an opposition or a similar proceeding) involving all or any portion of such intellectual property; and those risks and uncertainties described under the heading “Risk Factors” in CRISPR Therapeutics’ most recent annual report on Form 10-K, quarterly report on Form 10-Q and in any other subsequent filings made by CRISPR Therapeutics with the U.S. Securities and Exchange Commission, which are available on the SEC's website at www.sec.gov. Existing and prospective investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date they are made. CRISPR Therapeutics disclaims any obligation or undertaking to update or revise any forward-looking statements contained in this press release, other than to the extent required by law.
+
+About Vertex
+
+Vertex is a global biotechnology company that invests in scientific innovation to create transformative medicines for people with serious diseases. The company has multiple approved medicines that treat the underlying cause of cystic fibrosis (CF) — a rare, life-threatening genetic disease — and has several ongoing clinical and research programs in CF. Beyond CF, Vertex has a robust pipeline of investigational small molecule medicines in other serious diseases where it has deep insight into causal human biology, including pain, alpha-1 antitrypsin deficiency and APOL1-mediated kidney diseases. In addition, Vertex has a rapidly expanding pipeline of genetic and cell therapies for diseases such as sickle cell disease, beta thalassemia, Duchenne muscular dystrophy and type 1 diabetes mellitus.
+
+Founded in 1989 in Cambridge, Mass., Vertex's global headquarters is now located in Boston's Innovation District and its international headquarters is in London, UK. Additionally, the company has research and development sites and commercial offices in North America, Europe, Australia and Latin America. Vertex is consistently recognized as one of the industry's top places to work, including 10 consecutive years on Science magazine's Top Employers list and top five on the 2019 Best Employers for Diversity list by Forbes. For company updates and to learn more about Vertex's history of innovation, visit www.vrtx.com or follow us on Facebook, Twitter, LinkedIn, YouTube and Instagram.
+
+Vertex Special Note Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995, including, without limitation, statements regarding CTX001’s PRIME designation or its development, the potential benefits of CTX001, our plans and expectations for our clinical trials and clinical trial sites, and the status of our clinical trials of our product candidates under development by us and our collaborators, including activities at the clinical trial sites and potential outcomes. While Vertex believes the forward-looking statements contained in this press release are accurate, these forward-looking statements represent the company's beliefs only as of the date of this press release and there are a number of risks and uncertainties that could cause actual events or results to differ materially from those expressed or implied by such forward-looking statements. Those risks and uncertainties include, among other things, that data from the company's development programs, including its programs with its collaborators, may not support registration or further development of its compounds due to safety, efficacy or other reasons, and other risks listed under Risk Factors in Vertex's annual report and subsequent quarterly reports filed with the Securities and Exchange Commission and available through the company's website at www.vrtx.com. Vertex disclaims any obligation to update the information contained in this press release as new information becomes available.
+
+(VRTX-GEN)
+
+CRISPR Therapeutics Investor Contact:
+
+Susan Kim, +1 617-307-7503
+
+susan.kim@crisprtx.com
+
+CRISPR Therapeutics Media Contact:
+
+Rachel Eides
+
+WCG on behalf of CRISPR
+
++1 617-337-4167
+
+reides@wcgworld.com
+
+Vertex Pharmaceuticals Incorporated
+
+Investors:
+
+Michael Partridge, +1 617-341-6108
+
+or
+
+Zach Barber, +1 617-341-6470
+
+or
+
+Brenda Eustace, +1 617-341-6187
+
+Media:
+
+mediainfo@vrtx.com
+
+or
+
+U.S.: +1 617-341-6992
+
+or
+
+Heather Nichols: +1 617-839-3607
+
+or
+
+International: +44 20 3204 5275

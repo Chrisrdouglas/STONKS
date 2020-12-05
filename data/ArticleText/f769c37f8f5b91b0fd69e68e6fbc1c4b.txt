@@ -1,0 +1,43 @@
+Calithera Biosciences Announces Expansion of Ongoing Clinical Trial Evaluating Telaglenastat in Combination with palbociclib (IBRANCE®). SOUTH SAN FRANCISCO, Calif., Nov. 04, 2020 (GLOBE NEWSWIRE) -- Calithera Biosciences, Inc. (Nasdaq: CALA), a clinical-stage biotechnology company focused on discovering and developing novel small-molecule drugs for the treatment of cancer and other life-threatening diseases, today announced the expansion of the company’s ongoing clinical trial evaluating telaglenastat in combination with Pfizer’s CDK 4/6 inhibitor palbociclib (IBRANCE®). This Phase 1/2 study, which is being conducted by Calithera, will be expanded to include an additional cohort of patients with pancreatic ductal adenocarcinoma (PDAC) whose tumors harbor mutations in both KRAS and CDKN2A.
+
+
+
+“There is a strong rationale to target KRAS and CDKN2A mutated tumors with the combination of palbociclib and telaglenastat,” said Susan Molineaux, PhD, president and chief executive officer of Calithera. “Mutations in CDKN2A lead to upregulation of both CDK4/6 activity and glutamine utilization in cancer cells. By inhibiting these activities simultaneously with the telaglenastat-palbociclib combination, we hope to have a measurable impact on pancreatic cancer, which still has very few viable treatment options.”
+
+Telaglenastat blocks glutamine consumption in tumor cells, which, due to specific genetic alterations such as mutations in KRAS and CDKN2A, often become dependent on increased metabolism of glutamine. Approximately 50 percent of PDAC patients harbor mutations in both KRAS and CDKN2A. In preclinical studies with KRAS-mutated cancer models, telaglenastat showed synergistic anti-tumor effects when used in combination with CDK4/6 inhibitors, such as palbociclib, enhancing cell cycle arrest and blocking cancer cell proliferation. In the ongoing Phase 1/2 clinical trial (NCT03965845), encouraging efficacy and safety of the combination was observed in PDAC patients treated in the dose escalation phase of the trial.
+
+The new cohort of the Phase 1/2 clinical trial will be evaluating the safety and anti-tumor activity of telaglenastat in combination with palbociclib in patients with advanced, metastatic PDAC whose tumors harbor mutations in both KRAS and CDKN2A. The ongoing Phase 1/2 trial is currently enrolling patients with colorectal cancer and non-small cell lung cancer whose tumors harbor mutations in KRAS.
+
+About Calithera
+
+Calithera Biosciences is a clinical-stage biopharmaceutical company pioneering the discovery and development of targeted therapies that disrupt cellular metabolic pathways to preferentially block tumor cells and enhance immune-cell activity. Driven by a commitment to rigorous science and a passion for improving the lives of people impacted by cancer and other life-threatening diseases, Calithera is advancing a pipeline of first-in-clinic, oral therapeutics to meaningfully expand treatment options available to patients. Calithera is headquartered in South San Francisco, California. For more information about Calithera, please visit www.calithera.com.
+
+Forward Looking Statements
+
+Statements contained in this press release regarding matters that are not historical facts are "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "may," "will," "expect," "anticipate," "estimate," "intend," "poised" and similar expressions (as well as other words or expressions referencing future events, conditions, or circumstances) are intended to identify forward-looking statements. These statements include those related to the success of Calithera’s clinical trial, the potential for telaglenastat to be developed in combination with therapeutics, such as palbociclib, to improve patient outcomes, safety, tolerability and efficacy of telaglenastat, the overall advancement of telaglenastat in clinical trials, the unmet need in the treatment of patients with advanced disease, Calithera’s plans to continue development of telaglenastat in combination with CDK 4/6 inhibitor palbociclib for the treatment of CRC, NSCLC and PDAC as well as the related timing for clinical trials. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. The product candidates that Calithera develops may not progress through clinical development or receive required regulatory approvals within expected timelines or at all. In addition, clinical trials may not confirm any safety, potency or other product characteristics described or assumed in this press release. Such product candidates may not be beneficial to patients or successfully commercialized. The failure to meet expectations with respect to any of the foregoing matters may have a negative effect on Calithera's stock price. Additional information concerning these and other risk factors affecting Calithera's business can be found in Calithera's most recent Annual Report on Form 10-K filed with the Securities and Exchange Commission, and other periodic filings with the Securities and Exchange Commission at www.sec.gov. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, Calithera disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+SOURCE: Calithera Biosciences, Incorporated
+
+
+
+CONTACTS:
+
+Investor Relations
+
+Jennifer McNealey
+
+Calithera
+
+ir@Calithera.com
+
+650-870-1071
+
+Media
+
+Michele Parisi
+
+Sam Brown, Inc.
+
+micheleparisi@sambrown.com
+
+925-864-5028

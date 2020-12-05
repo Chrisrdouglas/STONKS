@@ -1,0 +1,51 @@
+Morphic Therapeutic Announces First Healthy Volunteers Dosed in Phase 1 Clinical Trial of MORF-057. First orally available integrin inhibitor from MInT Platform to enter the clinic
+
+MORF-057, inhibitor of α 4 β 7 integrin, in development to treat inflammatory bowel disease
+
+Phase 1 program to assess safety and pharmacokinetics of MORF-057 as well as α 4 β 7 receptor occupancy as a clinically relevant biomarker
+
+WALTHAM, Mass., Sept. 23, 2020 (GLOBE NEWSWIRE) -- Morphic Therapeutic (NASDAQ: MORF), a biopharmaceutical company developing a new generation of oral integrin therapies for the treatment of serious chronic diseases, today announced that the first healthy volunteers have received MORF-057 in a phase 1 clinical trial designed to evaluate MORF-057’s safety and pharmacokinetic profile in addition to predictive pharmacodynamic signals. MORF-057 is in clinical development as an oral small molecule inhibitor of the α 4 β 7 integrin for the treatment of inflammatory bowel disease (IBD) with an initial focus on ulcerative colitis (UC).
+
+“Morphic designed MORF-057 with its MInT Platform, a unique platform for the discovery and development of oral integrin drugs, to be a highly selective and potent orally administered inhibitor of the α 4 β 7 integrin, a well-validated target in IBD. The initiation of clinical trials for MORF-057 marks a major step forward in this effort,” stated Dr. Peter Linde, MD, chief medical officer of Morphic Therapeutic. “Based on its extensive preclinical data package, we believe that MORF-057 can selectively target the same clinically validated mechanism as the approved injectable antibody, vedolizumab, but utilizing a substantially more convenient oral small molecule. The MORF-057 phase 1 trial is designed to generate safety and pharmacokinetic data, as well as to provide key measures of α 4 β 7 receptor occupancy, at multiple doses being evaluated in this program. These results may provide early clinical proof-of-concept for MORF-057 and we expect to present these data at a major medical conference in the first half of next year.”
+
+About the MORF-057 Phase 1 Clinical Trial
+
+The phase 1 clinical trial is designed to evaluate the safety, pharmacokinetics, and pharmacodynamics of MORF-057 dosed twice daily across three parts enrolling at least 76 healthy volunteers. The initial part of the phase 1 trial will evaluate single ascending doses in 40 or more volunteers across five or more dose cohorts of MORF-057. The second part of the trial will evaluate multiple ascending doses in 24 or more volunteers across at least three dose cohorts of MORF-057. A third part will evaluate the effect of food on the pharmacokinetic effects of MORF-057 in two cohorts of six subjects, each receiving MORF-057 in fed and fasting states. The phase 1 program is designed to generate important receptor occupancy data in each dose cohort that could potentially provide early clinical proof-of-concept and dose selection guidance for use in future studies of MORF-057.
+
+About MORF-057
+
+Morphic is developing MORF-057 as a selective, oral small molecule inhibitor of the α 4 β 7 integrin for patients with inflammatory bowel disease (IBD). α 4 β 7 has been clinically validated as a target for the treatment of IBD by the success of the approved injectable antibody therapeutic vedolizumab. MORF-057 is designed to block the interactions between α 4 β 7 on the surface of lymphocytes and the mucosal endothelial cell ligand MAdCAM-1, substantially reducing lymphocyte migration from the bloodstream into intestinal mucosal tissues and causing inflammation that is associated with IBD.
+
+About Inflammatory Bowel Disease
+
+Inflammatory Bowel Disease (IBD) comprises several autoimmune and immune-mediated conditions characterized by chronic inflammation of the gastrointestinal tract. Ulcerative colitis and Crohn’s disease are two most common types of IBD. In ulcerative colitis, inflammation is limited to the lining of the colon, whereas in Crohn’s disease inflammation can segmentally affect any part of the gastrointestinal tract through the entire thickness of the bowel wall. Symptoms of these conditions include persistent diarrhea, abdominal pain, rectal bleeding, weight loss, and fatigue. Approved medications may not adequately control symptoms for many patients, and some develop complications that require surgical removal of the colon and rectum. According to a report by the Crohn’s and Colitis Foundation, as of November 2014, there were approximately 1,687,000 people living with ulcerative colitis and Crohn’s disease in the United States, with 71,000 new cases diagnosed per year. Among FDA approved therapies for use in moderate to severe IBD is vedolizumab, an injectable monoclonal antibody inhibitor of the integrin α 4 β 7 .
+
+About Morphic Therapeutic
+
+Morphic Therapeutic is a biopharmaceutical company developing a new generation of oral integrin therapies for the treatment of serious chronic diseases, including autoimmune, cardiovascular, and metabolic diseases, fibrosis and cancer. In collaboration with AbbVie, Janssen, and Schrödinger, Morphic is advancing its pipeline and discovery activities using its proprietary MInT technology platform which leverages the Company’s unique understanding of integrin structure and biology. For more information, visit www.morphictx.com.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This press release contains “forward-looking” statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to: the MInT Platform’s ability to discover drug candidates, Morphic’s plans to develop and commercialize oral small-molecule integrin therapeutics, the execution of the phase 1 clinical trial as designed, any expectations about safety, efficacy, timing and ability to commence or complete clinical studies and to obtain regulatory approvals for MORF-057 and other candidates in development, and the ability of MORF-057 to treat inflammatory bowel disease or related indications.
+
+Statements including words such as “believe,” “plan,” “continue,” “expect,” “will,” “develop,” “signal,” “potential,” or “ongoing” and statements in the future tense are forward-looking statements. These forward-looking statements involve risks and uncertainties, as well as assumptions, which, if they do not fully materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements.
+
+Forward-looking statements are subject to risks and uncertainties that may cause Morphic’s actual activities or results to differ significantly from those expressed in any forward-looking statement, including risks and uncertainties in this press release and other risks set forth in our filings with the Securities and Exchange Commission, including Morphic’s or a partner’s ability to develop, obtain regulatory approval for or commercialize any product candidate, Morphic’s ability to protect intellectual property, the potential impact of the COVID-19 pandemic and the sufficiency of our cash, cash equivalents and investments to fund our operations. These forward-looking statements speak only as of the date hereof and Morphic specifically disclaims any obligation to update these forward-looking statements or reasons why actual results might differ, whether as a result of new information, future events or otherwise, except as required by law.
+
+Contacts
+
+Morphic Therapeutic
+
+Chris Erdman
+
+chris.erdman@morphictx.com
+
+617.686.1718
+
+Media Contact
+
+Tom Donovan, Ten Bridge Communications
+
+tom@tenbridgecommunications.com
+
+857.559.3397

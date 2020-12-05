@@ -1,0 +1,74 @@
+SpringWorks Therapeutics Announces Collaboration with Children’s Oncology Group to Conduct a Phase 2 Clinical Trial of Nirogacestat in Pediatric Patients with Desmoid Tumors and Reports Publication of. - Expansion of Nirogacestat Clinical Program to Include Pediatric Patients Supported by Recent Publication of Nirogacestat Case Series in Four Children/Young Adults with Desmoid Tumors Treated under the SpringWorks Expanded Access Program -
+
+- Investigators Reported Clinical Responses in All Four Patients Treated with Nirogacestat, including One Complete Response, Two Partial Responses, and One Stable Disease, with No Grade 3 or 4 Adverse Events Reported -
+
+
+
+STAMFORD, Conn., Sept. 16, 2020 (GLOBE NEWSWIRE) -- SpringWorks Therapeutics, Inc. (Nasdaq: SWTX), a clinical-stage biopharmaceutical company focused on developing life-changing medicines for patients with severe rare diseases and cancer, today announced a collaboration with the Children’s Oncology Group (COG) to evaluate nirogacestat, an investigational gamma secretase inhibitor, in a Phase 2 clinical trial for the treatment of children and adolescents with progressive, surgically unresectable desmoid tumors. The study, which will be sponsored by COG, a National Cancer Institute-supported clinical trials group, and supported by SpringWorks, will aim to enroll approximately 30 patients with a primary endpoint of 2-year progression-free survival. Fariba Navid, M.D., Associate Professor of Clinical Pediatrics, Keck School of Medicine of USC at the Children’s Hospital Los Angeles’ Cancer and Blood Disease Institute, will serve as the Study Chair for the trial, which is expected to begin recruiting patients this month.
+
+“For many children diagnosed with a desmoid tumor, surgery is not an option due to high tumor recurrence rates and the potential for other morbidities and disabilities that can occur following surgery,” said Dr. Navid. “These patients often require medical treatment and we look forward to working with SpringWorks to study nirogacestat in a pediatric population.”
+
+In addition, SpringWorks also reported a recent publication by investigators at the University of Minnesota and the Dana-Farber Cancer Institute in the Pediatric Cancer & Blood journal reporting data from four pediatric and young adult desmoid tumor patients who received nirogacestat under the SpringWorks Expanded Access Program. Following treatment with nirogacestat, the investigators reported a clinical response in all four patients. Specifically, after a median of 13.5 months on treatment, three patients experienced a durable benefit (one complete response, one partial response, and one stable disease) and one patient had an initial partial response followed by disease progression. These four patients had received between one and eight prior lines of therapy, including surgery, before being treated with nirogacestat. Furthermore, the investigators reported that no patient experienced a grade 3 or 4 adverse event while receiving nirogacestat.1
+
+“Desmoid tumors can cause significant morbidities, including severe pain, internal bleeding, incapacitating loss of range of motion, and, in rare cases, death, and there are currently no approved therapies for patients suffering from this rare tumor,” said Saqib Islam, Chief Executive Officer of SpringWorks. “We are encouraged by the case reports published on the pediatric patients treated with nirogacestat under our Expanded Access Program and are pleased to be collaborating with COG to further explore the clinical benefit of nirogacestat in pediatric and adolescent patients with desmoid tumors. In addition to our ongoing Phase 3 DeFi trial evaluating nirogacestat in adults with progressing desmoid tumors, which is now fully enrolled, this new Phase 2 trial provides an opportunity to further evaluate the potential benefit of nirogacestat for desmoid tumors.”
+
+About the COG-Sponsored Phase 2 Study
+
+The open-label, single arm Phase 2 study will evaluate the safety, pharmacokinetic and efficacy of nirogacestat in children and adolescents with progressive, surgically unresectable desmoid tumors. The study plans to enroll approximately 30 participants. Patients will receive nirogacestat at a dose of 90 mg/m2 twice daily. The study is expected to begin recruiting patients in September 2020.
+
+The primary objective of the study is to estimate the 2-year progression-free survival rate in patients and to characterize the safety, tolerability, and pharmacokinetics of nirogacestat in children and adolescents. A secondary objective is to determine the objective tumor response rate of nirogacestat in this patient population.
+
+More information about the study is available at www.clinicaltrials.gov under the identifier NCT04195399 .
+
+About Desmoid Tumors
+
+Desmoid tumors, also referred to as aggressive fibromatosis or desmoid-type fibromatosis, are rare and often debilitating and disfiguring soft tissue tumors characterized by a growth pattern that can invade surrounding healthy tissues, including joints, muscle and viscera. While they can arise in any part of the body, the most common sites are the upper and lower extremities, abdominal wall, thoracic areas, and the head and neck. The severity of a desmoid tumor can vary based on the location of the tumor and the aggressiveness of its growth pattern. Desmoid tumors can cause significant morbidities, including severe pain, internal bleeding, incapacitating loss of range of motion, and, in rare cases, death.2
+
+Desmoid tumors typically occur in patients between the ages of 15 to 60 years, and are more commonly diagnosed in young adults between 30-40 years of age, with a two-to-three times higher prevalence in females.2,3 It is estimated that there are 1,000 to 1,500 new cases diagnosed per year in the United States.4,5
+
+Historically, desmoid tumors were treated with surgical resection, but this approach has become less favored due to a high recurrence rate after surgery.6 There are currently no FDA-approved therapies for the treatment of desmoid tumors.
+
+About Nirogacestat
+
+Nirogacestat is an investigational, oral, selective, small molecule, gamma secretase inhibitor in Phase 3 clinical development for adult patients with progressing desmoid tumors, which are rare and often debilitating and disfiguring soft-tissue tumors. Gamma secretase cleaves multiple transmembrane protein complexes, including Notch, which is believed to play a role in activating pathways that contribute to desmoid tumor growth.
+
+Nirogacestat has received Orphan Drug Designation from the U.S. Food and Drug Administration (FDA) for the treatment of desmoid tumors (June 2018) and from the European Commission for the treatment of soft tissue sarcoma (September 2019). The FDA also granted Fast Track and Breakthrough Therapy Designations for the treatment of adult patients with progressive, unresectable, recurrent or refractory desmoid tumors or deep fibromatosis (November 2018 and August 2019).
+
+In addition, gamma secretase has been shown to directly cleave membrane-bound BCMA, resulting in the release of the soluble BCMA from the cell surface. By inhibiting gamma secretase, membrane-bound BCMA can be preserved, increasing target density while reducing levels of soluble BCMA, which may serve as a decoy receptor for BCMA-directed therapies. Nirogacestat’s ability to enhance the activity of BCMA-directed therapies has been observed in preclinical models of multiple myeloma. SpringWorks is evaluating nirogacestat as a BCMA potentiator and has three collaborations with industry-leading BCMA developers to evaluate nirogacestat in combinations across modalities, including with an antibody-drug conjugate, a CAR T cell therapy and a bispecific antibody.
+
+About SpringWorks Therapeutics
+
+SpringWorks is a clinical-stage biopharmaceutical company applying a precision medicine approach to acquiring, developing and commercializing life-changing medicines for underserved patient populations suffering from devastating rare diseases and cancer. SpringWorks has a differentiated portfolio of small molecule targeted oncology product candidates and is advancing two potentially registrational clinical trials in rare tumor types, as well as several other programs addressing highly prevalent, genetically defined cancers. SpringWorks’ strategic approach and operational excellence in clinical development have enabled it to rapidly advance its two lead product candidates into late-stage clinical trials while simultaneously entering into multiple shared-value partnerships with industry leaders to expand its portfolio. For more information, visit www.springworkstx.com and follow @SpringWorksTx on Twitter and LinkedIn .
+
+About the Children’s Oncology Group (COG)
+
+COG ( childrensoncologygroup.org ), a member of the NCI National Clinical Trials Network (NCTN), is the world’s largest organization devoted exclusively to childhood and adolescent cancer research. COG unites over 10,000 experts in childhood cancer at more than 200 leading children’s hospitals, universities, and cancer centers across North America, Australia, and New Zealand in the fight against childhood cancer. Today, more than 90% of the 14,000 children and adolescents diagnosed with cancer each year in the United States are cared for at COG member institutions. Research performed by COG institutions over the past 50 years has transformed childhood cancer from a virtually incurable disease to one with a combined 5-year survival rate of 80%. COG’s mission is to improve the cure rate and outcomes for all children with cancer.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, statements regarding SpringWorks’ clinical trials and its strategy, business plans and focus. The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, those related to SpringWorks’ financial results, the timing for completion of SpringWorks’ clinical trials of its product candidates, whether and when, if at all, SpringWorks’ product candidates will receive approval from the U.S. Food and Drug Administration, or FDA, or other foreign regulatory authorities, uncertainties and assumptions regarding the impact of the COVID-19 pandemic on SpringWorks’ business, operations, clinical trials, supply chain, strategy, goals and anticipated timelines, competition from other biopharmaceutical companies, and other risks identified in the section entitled “Risk Factors” in Item 1A of Part II of SpringWorks’ Quarterly Report on Form 10-Q for the quarter ended June 30, 2020, as well as discussions of potential risks, uncertainties and other important factors in SpringWorks’ subsequent filings with the Securities and Exchange Commission. SpringWorks cautions you not to place undue reliance on any forward-looking statements, which speak only as of the date they are made. SpringWorks disclaims any obligation to publicly update or revise any such statements to reflect any change in expectations or in events, conditions or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements. Any forward-looking statements contained in this press release represent SpringWorks’ views only as of the date hereof and should not be relied upon as representing its views as of any subsequent date.
+
+Contact
+
+Kim Diamond
+
+Phone: 203-561-1646
+
+Email: kdiamond@springworkstx.com
+
+References
+
+1 Takahashi, T., Presner, J. R., Robson, C. D., Janeway, K. A., & Weigel, B. J. Safety and Efficacy of Gamma Secretase Inhibitor Nirogacestat (PF_03084014) in Desmoid Tumor: Report of Four Pediatric/Young Adult Cases. Pediatric Blood & Cancer. 2020 Jul 22. doi:10.1002/pbc.28636.
+
+2 Gounder, M. M., Thomas, D. M., & Tap, W. D. Locally Aggressive Connective Tissue Tumors. Journal of Clinical Oncology. 2017; 36(2): 202-209. doi:10.1200/JCO.2017.75.8482.
+
+3 Skubitz, K. M. Biology and Treatment of Aggressive Fibromatosis or Desmoid Tumor. Mayo Clinic Proceedings. 2017; 92(6): 947–964. doi:10.1016/j.mayocp.2017.02.012.
+
+4 Reitamo, J. J., Häyry, P; Nykyri, E, & Saxén, E. The Desmoid Tumor. I.: Incidence, Sex-, Age- and Anatomical Distribution in the Finnish Population. American Journal of Clinical Pathology. 1982; 77(6): 665–673. doi:10.1093/ajcp/77.6.665.
+
+5 van Broekhoven, D. L., Grünhagen, D. J., den Bakker, M. A., van Dalen, T., & Verhoef, C. Time Trends in the Incidence and Treatment of Extra-Abdominal and Abdominal Aggressive Fibromatosis: A Population-Based Study. Annals of Surgical Oncology. 2015; 22(9): 2817–2823. doi:10.1245/s10434-015-4632-y.
+
+6 Scaramussa, F.S. & Castro, U. B. Desmoid Tumor in Hand: A Case Report. SM Journal of Orthopedics. 2016; 2(3): 1–3. doi:10.36876/smjo.1036.
+
+
+

@@ -1,0 +1,51 @@
+Immutep Announces the Start of an Investigator-Initiated Phase II Study in COVID-19 Patients. Investigator-initiated, placebo controlled and randomized Phase II study evaluating eftilagimod alpha (“efti”) in up to 110 COVID-19 patients
+
+
+
+Immutep supplies efti to University Hospital Pilsen, Czech Republic
+
+Study tests whether the early administration of efti prevents COVID-19 disease progression in adult patients
+
+Initial interim results are expected to be reported from early 2021
+
+SYDNEY, Australia, Oct. 23, 2020 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) ("Immutep” or “the Company”), is pleased to announce it has signed a Material Transfer Agreement (“Agreement”) with the University Hospital Pilsen, Czech Republic to enable an investigator-initiated randomized Phase II clinical trial evaluating its lead product candidate eftilagimod alpha (“efti” or “IMP321”) in hospitalized patients with COVID-19. The necessary approvals from the Czech Republic’s State Institute for Drug Control (SUKL- competent authority) and ethics committee have now been obtained, enabling the recruitment of patients to commence immediately. Initial interim results are expected to be reported from early 2021.
+
+The study, called “Eftilagimod Alpha Treatment by immune modulation in COVID-19 disease” or EAT COVID (EudraCT n° 2020-002009-25), aims to boost a patient’s immune response to prevent the patient from developing severe COVID-19 symptoms that require intensive care and can lead to respiratory failure and death. As an antigen presenting cell (APC) activator, efti could help to control the viral load in hospitalized patients by boosting CD8 effector T cells.
+
+Under the Agreement, Immutep will provide efti at no cost to the University Hospital Pilsen which will fund the study. The trial will be led by Principal Investigator, Professor Martin Matejovic who is the Head of Medical Department at University Hospital Pilsen, Professor of Medicine at University Hospital Pilsen and Charles University Medical School. The trial will also be conducted in collaboration with Dr. Dalibor Sedlacek, Associate Professor of Medicine and Head of the Department of Infectious Diseases, along with Dr. Marek Nalos, Associate Professor of Medicine and Head Medical ICU at Department of Intensive Care Medicine of the Nepean Hospital, Sydney.
+
+The study will be a placebo controlled, 1:1 randomized, double blinded Phase II clinical trial involving up to 110 adult patients hospitalized with COVID-19 at University Hospital Pilsen. Patients will receive subcutaneous injections of efti (10 mg) on days 1, 3 and 7, in addition to standard care. The primary endpoint is the patient’s clinical status at day 15 as per the WHO recommended evaluation scale.
+
+Immutep CEO, Marc Voigt, said: “We were delighted to be approached for this study by Dr Marek Nalos and Professor Martin Matejovic. It is highly encouraging that efti, with its broad mechanism of action, attracts keen interest from clinicians who are willing and able to fund the research and commit their time to further exploring efti’s potential to fight diseases. While Immutep’s focus remains on cancer and autoimmune disease, this new trial gives us the opportunity to contribute to the global efforts to beat COVID-19. We believe efti is currently the only APC activator of its kind being evaluated against COVID-19 in a randomized Phase II trial and that the study will contribute to our further understanding of its potential in infectious diseases in general.”
+
+Immutep CSO and CMO, Dr Frederic Triebel said: “The most effective anti-viral therapy for COVID-19 is likely an effective CD8 T cell that has been empowered by activated dendritic cells and given a licence to kill by these antigen presenting cells (APCs). This effector CD8 killer T cell is then able to detect and eliminate epithelial cells which serve as reservoirs where the virus can replicate. Indeed, the vast majority of patients infected with COVID-19 have strong innate immunity/adaptive immunity crosstalk and are able to fight the infection without the help of modern medicine. In older patients due to immuno-senescence or in patients with compromised innate immunity, restoring APC function with efti may help drive an improved anti-COVID immune response before it becomes too late and the patient requires intensive care.”
+
+University Hospital Pilsen, Professor of Medicine and EAT COVID Principal Investigator, Professor Martin Matejovic said: “Some hospital patients are developing severe COVID-19 disease after 7-10 days which requires intensive care and can be fatal. Efti’s safety profile to date and its proven efficacy as an APC activator1 gives us the confidence to initiate a Phase II study for our patients as soon as they are hospitalized and before their condition deteriorates.”
+
+Recruitment will start with an open label safety run-in of 6 patients and then a first cohort of 26 randomized patients, with successive cohorts being recruited following a positive recommendation from the Data Monitoring Committee (DMC), which will evaluate safety and efficacy of the treatment.
+
+Immutep has two existing patent families with claims drawn to the use of efti in the treatment of infectious disease. For example, in September 2017 Immutep announced the grant of a Japanese patent and, in November 2018, announced the grant of a European patent from these families.
+
+Efti’s Mechanism of Action
+
+Efti is a first-in-class antigen presenting cell (APC) activator currently being developed by Immutep for the treatment of cancer. Efti binds to antigen presenting cells such as dendritic cells, monocytes and macrophages via MHC II molecules. This activates the APCs causing them to become professional antigen presenting cells, thereby presenting antigen to the adaptive immune system. This leads to activation and proliferation of CD4+ (helper) and CD8+ (cytotoxic) T cells. Thus, the aim of efti is to “push the gas” on the body’s innate and adaptive immune systems making it a suitable candidate to evaluate not only for the treatment of cancer, but also for the treatment of infectious diseases such as COVID-19.
+
+About University Hospital Pilsen
+
+The University Hospital Pilsen provides patients with basic, specialized and so-called highly-specialized medical care in all areas, with the exception of burn medicine, bone marrow transplantation in children, the most complex organ transplants and heart surgery in children. In some fields, University Hospital Pilsen provides health care for residents of adjacent regions, especially southern and northern Bohemia, Karlovy Vary and parts of central Bohemia. But, for example, in the field of artificial insemination, bone marrow transplantation, liver surgery, prostate surgery or kidney tumors, the importance of the University Hospital Pilsen is nationwide. University hospital ranks among the top hospitals in the Czech republic and represents key opinion leader in many fields of clinical medicine. The hospital also has close links with the Faculty of Medicine, Charles University in Pilsen.
+
+Further information can be found on the Company’s website www.immutep.com or by contacting:
+
+Australian Investors/Media:
+
+Catherine Strong, Citadel-MAGNUS
+
++61 (0)406 759 268; cstrong@citadelmagnus.com
+
+U.S. Media:
+
+Tim McCarthy, LifeSci Advisors
+
++1 (212) 915.2564; tim@lifesciadvisors.com
+
+1 https://en.wikipedia.org/wiki/APC_Activator

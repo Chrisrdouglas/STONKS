@@ -1,0 +1,59 @@
+Vir Biotechnology and GSK announce global expansion to Phase 3 of COMET-ICE study evaluating VIR-7831 for the treatment of COVID-19. Independent Data Monitoring Committee recommended on September 30, 2020 that the study continue into Phase 3 based on a positive evaluation of safety and tolerability data from the Phase 2 lead-in
+
+Initial Phase 3 results may be available as early as the end of 2020; results for the primary endpoint are expected in the first quarter of 2021, with current estimates at January 2021
+
+If successful, VIR-7831 has the potential to advance outpatient treatment for COVID-19
+
+Patient enrollment underway; website live at https://vircovid19study.com/
+
+SAN FRANCISCO and LONDON, Oct. 06, 2020 (GLOBE NEWSWIRE) -- Vir Biotechnology, Inc. (Nasdaq: VIR) and GlaxoSmithKline plc (LSE/NYSE: GSK) today announced the global expansion to Phase 3 of the COMET-ICE (COVID-19 Monoclonal antibody Efficacy Trial - Intent to Care Early) study evaluating VIR-7831 for the early treatment of COVID-19 in patients who are at high risk of hospitalization. VIR-7831 (also known as GSK4182136) is a fully human anti-SARS-CoV-2 (Severe Acute Respiratory Syndrome coronavirus-2) monoclonal antibody that was selected based on its potential to neutralize the virus, kill infected cells, provide a high barrier to resistance, and achieve high concentrations in the lungs (one of the major sites of infection). Following a positive assessment of unblinded safety data from the lead-in portion of the trial by an Independent Data Monitoring Committee on September 30, 2020, the COMET-ICE registrational study will now expand globally to additional sites in North America, South America and Europe.
+
+George Scangos, Ph.D., chief executive officer of Vir, said: “The rapid achievement of this important milestone reflects the urgency with which we’re mobilizing our resources in the hope of preventing the worst consequences of this deadly virus. VIR-7831 is an antibody with characteristics that may enable it to prevent hospitalization or death via multiple mechanisms. We look forward to continuing to collaborate with GSK to accelerate its development.”
+
+Dr. Hal Barron, chief scientific officer and president R&D, GSK, said: “Given the urgent patient need, I am very pleased that we have progressed VIR-7831 from pre-clinical studies to a Phase 3 trial in only six months since announcing our collaboration with Vir. We believe this neutralizing antibody’s high barrier to resistance, notable effector function and enhanced delivery into the lung suggest it has best-in-class potential in the fight against this global pandemic.”
+
+The Phase 3 portion of the COMET-ICE study will assess the safety and efficacy of a single intravenous infusion of VIR-7831 or placebo in approximately 1,300 non-hospitalized participants globally (670 patients in the treatment arm and approximately 670 patients in the placebo arm). The primary efficacy endpoint is the proportion of patients who have progression of COVID-19 as defined by the need for hospitalization or death within 29 days of randomization. Interim analyses are planned to evaluate safety, futility and efficacy, the results of which may be available as early as the end of 2020. Results for the primary endpoint are expected in the first quarter of 2021, with current estimates at January 2021.
+
+The COMET clinical development program for VIR-7831 includes two additional planned trials – one for the treatment of hospitalized patients and another for the prevention of symptomatic infection. The companies also expect to start a Phase 1b/2a trial in the second half of 2020 evaluating VIR-7832, a second investigational SARS-CoV-2 neutralizing antibody that shares the same characteristics as VIR-7831, plus enhanced effector function, which may confer additional efficacy in treatment or prophylaxis by stimulating a T-cell response.
+
+About VIR-7831 / GSK4182136
+
+VIR-7831 (GSK4182136) is a monoclonal antibody that has shown the ability to neutralize SARS-CoV-2 live virus in vitro and in vivo. The antibody binds to an epitope on SARS-CoV-2 that is shared with SARS-CoV-1 (also known as SARS), indicating that the epitope is highly conserved, which may make it more difficult for resistance to develop. VIR-7831/GSK4182136 has been engineered with the potential to enhance lung bioavailability and have an extended half-life.
+
+About VIR-7832
+
+VIR-7832 is a monoclonal antibody that has shown the ability to neutralize SARS-CoV-2 live virus in vitro. The antibody binds to an epitope on SARS-CoV-2 that is shared with SARS-CoV-1 (also known as SARS), indicating that the epitope is highly conserved, which may make it more difficult for escape mutants to develop. VIR-7832 has been engineered with the potential to enhance lung bioavailability, have an extended half-life, and function as a therapeutic and/or prophylactic T cell vaccine.
+
+About the Vir and GSK Collaboration
+
+In April 2020, Vir and GSK entered into a collaboration to research and develop solutions for coronaviruses, including SARS-CoV-2, the virus that causes COVID-19. The collaboration uses Vir’s proprietary monoclonal antibody platform technology to accelerate existing and identify new anti-viral antibodies that could be used as therapeutic or preventive options to help address the current COVID-19 pandemic and future outbreaks. The companies will leverage GSK’s expertise in functional genomics and combine their capabilities in CRISPR screening and artificial intelligence to identify anti-coronavirus compounds that target cellular host genes. They will also apply their combined expertise to research SARS-CoV-2 and other coronavirus vaccines.
+
+About Vir Biotechnology
+
+Vir Biotechnology is a clinical-stage immunology company focused on combining immunologic insights with cutting-edge technologies to treat and prevent serious infectious diseases. Vir has assembled four technology platforms that are designed to stimulate and enhance the immune system by exploiting critical observations of natural immune processes. Its current development pipeline consists of product candidates targeting hepatitis B virus, influenza A, SARS-CoV-2, human immunodeficiency virus and tuberculosis. For more information, please visit www.vir.bio .
+
+
+
+About GSK
+
+GSK is a science-led global healthcare company with a special purpose: to help people do more, feel better, live longer. For further information please visit www.gsk.com/about-us .
+
+Vir Forward-Looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “may,” “will,” “plan,” “potential,” “aim,” “promising” and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. These forward-looking statements are based on Vir’s expectations and assumptions as of the date of this press release. Each of these forward-looking statements involves risks and uncertainties. Actual results may differ materially from these forward-looking statements. Forward-looking statements contained in this press release include statements regarding the potential benefits of Vir’s collaboration with GSK, the expected timing of clinical study results for VIR-7831, Vir-7831’s potential to treat COVID-19 and its expected clinical activity, clinical trials for VIR-7832, the ability of VIR-7832 to function as a therapeutic and/or prophylactic vaccine and its clinical activity, as well as Vir’s ability to identify new anti-viral antibodies and its technologies, as well as Vir’s ability to address the current COVID-19 pandemic and future outbreaks of the disease. Many factors may cause differences between current expectations and actual results, including unexpected safety or efficacy data or results observed during clinical trials, challenges in identifying new anti-viral antibodies, challenges in neutralizing SARS-CoV-2 or in identifying and inhibiting cellular targets, difficulties in obtaining regulatory approval, challenges in accessing manufacturing capacity, clinical site activation rates or clinical trial enrollment rates that are lower than expected, changes in expected or existing competition, delays in or disruptions to Vir’s business or clinical trials due to the COVID-19 pandemic, geopolitical changes or other external factors, and unexpected litigation or other disputes. Other factors that may cause actual results to differ from those expressed or implied in the forward-looking statements in this press release are discussed in Vir’s filings with the U.S. Securities and Exchange Commission, including the section titled “Risk Factors” contained therein. Except as required by law, Vir assumes no obligation to update any forward-looking statements contained herein to reflect any change in expectations, even as new information becomes available.
+
+GSK Cautionary Statement Regarding Forward-Looking Statements
+
+GSK cautions investors that any forward-looking statements or projections made by GSK, including those made in this announcement, are subject to risks and uncertainties that may cause actual results to differ materially from those projected. Such factors include, but are not limited to, those described under Item 3.D "Risk Factors" in the company's Annual Report on Form 20-F for 2019 and as set out in GSK’s “Principal risks and uncertainties” section of the Q2 Results and any impacts of the COVID-19 pandemic.
+
+Registered in England & Wales:
+
+No. 3888792
+
+Registered Office:
+
+980 Great West Road
+
+Brentford, Middlesex
+
+TW8 9GS

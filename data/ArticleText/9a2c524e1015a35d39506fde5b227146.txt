@@ -1,0 +1,61 @@
+Brazilian Health Regulatory Agency (ANVISA) Authorizes Sorrento Therapeutics’ Large Phase 2 Clinical Trial of Abivertinib in Mild, Moderate and Severe COVID-19 Patients. Phase 2 clinical trials of Abivertinib now cleared to proceed in both Brazil and the U.S.
+
+
+
+Studies are complementary and address both dose duration and disease stage
+
+Rapid enrollment expected for both geographies
+
+
+
+
+
+SAN DIEGO, Oct. 14, 2020 (GLOBE NEWSWIRE) -- Sorrento Therapeutics, Inc. (Nasdaq: SRNE, “Sorrento”) today announced receipt of clearance from the Brazilian regulatory agency (ANVISA) to proceed with a Phase 2 clinical trial of Abivertinib in mild, moderate and severe COVID-19 patients.
+
+The Brazil study is a Phase 2, Randomized, Double-Blind, Placebo-controlled Study of the Safety and Efficacy of STI-5656 (Abivertinib Maleate) in Subjects Hospitalized Due to COVID-19, particularly looking at the potential clinical benefits of the drug associated with its broad ability (mode of action) to reduce inflammatory cytokine storm. The dose to be tested is the same as in the U.S. Phase 2 trial, but the trial protocol in Brazil includes patients at earlier stages of the disease, with a drug administration regimen of only 7 days (versus 14 days for more advanced patients in the U.S.).
+
+The Brazilian study is expected to rapidly enroll 400 patients. The rapid projected enrollment pace is made possible by the recent partnership established between Sorrento and a leading local clinical research organization (Synova Health) with access to high quality medical centers throughout the country.
+
+A broad clinical development strategic alignment between Sorrento and local medical systems, including with the city of Rio de Janeiro, will also help accelerate site initiation and access to potential patients for additional Sorrento studies currently being evaluated by ANVISA.
+
+BR Protocol Design U.S. Protocol Design Mild, Moderate and Severe COVID-19 patients Severe COVID-19 patients Any hospitalized patient ICU non-ventilated N=400 randomized 3:1 (Abivertinib to placebo) N=80 randomized 1:1 (Abivertinib to placebo) 100 mg QD x 7 days 100 mg QD x 14 days Duration 45 days Duration 94 days Primary endpoint:
+
+% discharged from hospital by Week 4 Primary endpoint:
+
+% alive and free of respiratory failure at Week 4
+
+“We are very satisfied with the progress made in Brazil so far,” stated Dr. Henry Ji, Chairman and CEO of Sorrento Therapeutics. “By targeting some of the geographies currently most impacted by COVID-19, we are able to implement a synergistic program to answer questions about safety and efficacy of our drug candidates in helping patients, while potentially accelerating enrollment timelines, reducing overall cost and opening up collaboration opportunities with local companies.”
+
+The study is referenced with ANVISA (Brazilian authority) under Process nº 25351.105670/2020-14, Reference n° 3380614/20-4
+
+Brazilian Clinical Study details can be found at:
+
+https://clinicaltrials.gov/ct2/show/NCT04528667?term=abivertinib&draw=2&rank=3
+
+About Sorrento Therapeutics, Inc.
+
+Sorrento is a clinical stage, antibody-centric, biopharmaceutical company developing new therapies to treat cancers. Sorrento's multimodal, multipronged approach to fighting cancer is made possible by its extensive immuno-oncology platforms, including key assets such as fully human antibodies ("G-MAB™ library"), clinical stage immuno-cellular therapies ("CAR-T", "DAR-T"), antibody-drug conjugates ("ADCs"), and clinical stage oncolytic virus ("Seprehvir®", “Seprehvec™”). Sorrento is also developing potential antiviral therapies and vaccines against coronaviruses, including COVIDTRAP™, ACE-MAB™, COVI-MAB™, COVI-GUARD™, COVI-SHIELD™, COVI-AMG™ and T-VIVA-19™; and diagnostic test solutions, including COVI-TRACK™, COVI-STIX™ and COVI-TRACE™.
+
+Sorrento's commitment to life-enhancing therapies for patients is also demonstrated by our effort to advance a first-in-class (TRPV1 agonist) non-opioid pain management small molecule, resiniferatoxin ("RTX"), and ZTlido® (lidocaine topical system) 1.8% for the treatment of post-herpetic neuralgia. RTX has completed a phase 1B trial for intractable pain associated with cancer and a phase 1B trial in osteoarthritis patients. ZTlido® was approved by the FDA on February 28, 2018.
+
+For more information, visit www.sorrentotherapeutics.com
+
+Forward-Looking Statements
+
+This press release and any statements made for and during any presentation or meeting contain forward-looking statements related to Sorrento Therapeutics, Inc., under the safe harbor provisions of Section 21E of the Private Securities Litigation Reform Act of 1995 and subject to risks and uncertainties that could cause actual results to differ materially from those projected. Forward-looking statements include statements regarding Abivertinib, including the safety, tolerability and demonstrated efficacy thereof; the potential ability of Abivertinib to reduce inflammatory cytokine activity; expected rapid enrollment of clinical trials in the U.S. and Brazil; the protocol design for both the U.S. and Brazilian clinical trials; the synergistic potential of the U.S. and Brazil clinical trials; and the ability of a synergistic program to potentially accelerate enrollment timelines, reduce overall cost and create collaboration opportunities with local companies . Risks and uncertainties that could cause our actual results to differ materially and adversely from those expressed in our forward-looking statements, include, but are not limited to: risks related to Sorrento’s and its subsidiaries’, affiliates’ and partners’ technologies and prospects and collaborations with partners, including, but not limited to clinical development risks, including risks in the progress, timing, cost, and results of clinical trials and product development programs; risk of difficulties or delays in obtaining regulatory approvals; risks that clinical study results may not meet any or all endpoints of a clinical study and that any data generated from such studies may not support a regulatory submission or approval; risks that prior test, study and trial results may not be replicated in future studies and trials; risks of manufacturing and supplying drug product; risks related to leveraging the expertise of its employees, subsidiaries, affiliates and partners to assist the company in the execution of its therapeutic product candidates strategies; risks related to the global impact of COVID-19; and other risks that are described in Sorrento’s most recent periodic reports filed with the Securities and Exchange Commission, including Sorrento’s Annual Report on Form 10-K for the year ended December 31, 2019, and subsequent Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission, including the risk factors set forth in those filings. Investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this release, and we undertake no obligation to update any forward-looking statement in this press release except as required by law.
+
+Contact
+
+Alexis Nahama, DVM (SVP Corporate Development)
+
+Email: mediarelations@sorrentotherapeutics.com
+
+Sorrento® and the Sorrento logo are registered trademarks of Sorrento Therapeutics, Inc.
+
+G-MAB™, COVI-GUARD™, COVI-SHIELD™, COVI-AMG™, COVIDTRAP™, T-VIVA-19™, COVI-MAB™, ACE-MAB™, COVI-TRACK™, COVI-STIX™ and COVI-TRACE™ are trademarks of Sorrento Therapeutics, Inc.
+
+ZTlido® is a trademark owned by Scilex Pharmaceuticals Inc.
+
+All other trademarks are the property of their respective owners.
+
+© 2020 Sorrento Therapeutics, Inc. All Rights Reserved.

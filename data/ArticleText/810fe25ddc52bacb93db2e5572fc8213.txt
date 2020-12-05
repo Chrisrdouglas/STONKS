@@ -1,0 +1,239 @@
+Une présentation de dernière minute au congrès de l’ESMO montre qu’une monothérapie par Libtayo® (cemiplimab) augmente la survie globale des patients atteints d’un cancer du poumon non à petites cellu. Une présentation de dernière minute au congrès de l’ESMO montre qu’une monothérapie par Libtayo® (cemiplimab) augmente la survie globale des patients atteints d’un cancer du poumon non à petites cellules dont 50 % ou plus des cellules tumorales expriment la protéine PD-L1
+
+Dans la population générale de l’essai, Libtayo a réduit le risque de décès de 32 %, comparativement à la chimiothérapie.
+
+Une analyse préspécifiée des données des patients dont 50 % ou plus des cellules tumorales exprimaient la protéine PD-L1 a montré que Libtayo a réduit le risque de décès de 43 %.
+
+
+
+PARIS et TARRYTOWN (NEW YORK) – Le 21 septembre 2020 – Les données positives d’un essai pivot consacré à l’inhibiteur de PD-1 expérimental Libtayo® (cemiplimab) dans le traitement de première ligne du cancer du poumon non à petites cellules (CPNPC) localement avancé ou métastatique ont été présentées aujourd’hui au Congrès virtuel 2020 de la Société européenne d’oncologie médicale (ESMO, European Society for Medical Oncology).
+
+Cet essai a comparé une monothérapie par Libtayo à un doublet de chimiothérapie à base de platine chez des patients dont 50 % ou plus des cellules tumorales exprimaient la protéine PD-L1. Ces résultats formeront la base des soumissions qui seront présentées aux autorités réglementaires, en particulier celles des États-Unis et de l’Union européenne.
+
+« Les résultats des nouvelles analyses présentés au congrès de l’ESMO montrent que Libtayo a réduit de 43 % le risque de décès des patients chez lesquels avait été confirmé un taux d’expression de la protéine PD-L1 supérieur ou égal à 50 %. Cela est d’autant plus remarquable que près des trois-quarts des patients ont été permutés vers un traitement par Libtayo après progression de leur maladie sous chimiothérapie et que 12 % d’entre eux présentaient des métastases cérébrales prétraitées ou stabilisées », a précisé le docteur Ahmet Sezer, professeur associé au Département d’oncologie médicale de l’Université Başkent à Adana, en Turquie, et investigateur de l’essai. « Ces résultats confirment l’intérêt de Libtayo comme nouvelle option anti-PD-1 potentielle, en monothérapie, dans le traitement de première ligne du cancer du poumon non à petites cellules au stade avancé. »
+
+La communication présentée au congrès de l’ESMO approfondit les premiers résultats communiqués en avril dernier. Dans la population générale de l’essai (n=710), la durée médiane du suivi s’est établie à 13 mois pour les groupes Libtayo (n=356 ; intervalle : <1-32 mois) et chimiothérapie (n=354 ; intervalle : <1-32 mois). Parmi ces patients, Libtayo a permis d’obtenir les résultats suivants, comparativement à la chimiothérapie :
+
+Une réduction de 32 % du risque de décès (hazard ratio [HR]=0,68; intervalle de confiance [IC] de 95 % : 0,53-0,87 ; p=0,0022).
+
+(hazard ratio [HR]=0,68; intervalle de confiance [IC] de 95 % : 0,53-0,87 ; p=0,0022). Une survie globale médiane de 22 mois (IC de 95 % : 18 mois-durée non encore évaluable), comparativement à 14 mois (IC de 95 % : 12-19 mois).
+
+(IC de 95 % : 18 mois-durée non encore évaluable), comparativement à 14 mois (IC de 95 % : 12-19 mois). Une réduction de 41 % du risque de progression (HR=0,59; IC de 95 % : 0,49-0,72; p<0,0001). La survie médiane sans progression s’est établie à 6,2 mois (IC de 95 % : 4,5-8,3 mois), comparativement à 5,6 mois (IC de 95 % : 4,5-6,1 mois).
+
+(HR=0,59; IC de 95 % : 0,49-0,72; p<0,0001). La survie médiane sans progression s’est établie à 6,2 mois (IC de 95 % : 4,5-8,3 mois), comparativement à 5,6 mois (IC de 95 % : 4,5-6,1 mois). Un taux de réponse objectif de 37 % (IC de 95 % : 32 %-42 %; taux de réponse complète [RC] 3 % et taux de réponse partielle [RP] 33 %) comparativement à 21 % (IC de 95 % : 17 %-25 %; taux de RC 1 %, taux de RP 20 %).
+
+Une analyse préspécifiée des données des patients chez lesquels avait été confirmé un taux d’expression de la protéine PD-L1 supérieur ou égal à 50 % (n=563) a également été réalisée. Dans ce groupe, la durée médiane du suivi s’est établie à 11 mois à la fois pour les patients sous Libtayo (n=283; intervalle : <1-32 mois) et ceux sous chimiothérapie (n=280; intervalle : <1-30 mois). Libtayo a permis d’obtenir les résultats suivants, comparativement à la chimiothérapie :
+
+Une réduction de 43 % du risque de décès (HR=0,57; IC de 95 % : 0,42-0,77 ; p=0,0002).
+
+(HR=0,57; IC de 95 % : 0,42-0,77 ; p=0,0002). Une survie globale médiane non encore évaluable, car non atteinte (IC de 95 % : 18 mois-durée non encore évaluable), comparativement à 14 mois (IC de 95 % : 11-18 mois).
+
+(IC de 95 % : 18 mois-durée non encore évaluable), comparativement à 14 mois (IC de 95 % : 11-18 mois). Une réduction de 46 % du risque de progression (HR=0,54; IC de 95 % : 0,43-0,68 ; p<0,0001). La survie médiane sans progression s’est établie à 8 mois (IC de 95 % : 6-9 mois), comparativement à 6 mois (IC de 95 % : 5-6 mois).
+
+(HR=0,54; IC de 95 % : 0,43-0,68 ; p<0,0001). La survie médiane sans progression s’est établie à 8 mois (IC de 95 % : 6-9 mois), comparativement à 6 mois (IC de 95 % : 5-6 mois). Un taux de réponse objectif de 39 % (IC de 95 % : 34 %-45 %; taux de réponse complète [RC] 2 % et taux de réponse partielle [RP] 37 %), comparativement à un taux de réponse objectif de 20 % (IC de 95 % : 16 %-26 %; taux de RC 1 %, taux de RP 19%).
+
+L’essai a également permis d’établir une corrélation directe entre la réponse de la tumeur et le taux d’expression des protéines PD-L1 chez les patients traités par Libtayo. Le taux de réponse objectif a été plus élevé (46 % ; intervalle : 36 %-56 %) dans les tumeurs dont le pourcentage de cellules exprimant PD-L1 était supérieur ou égal à 90 %, le volume des tumeurs cibles ayant diminué de plus de 40 % après 6 mois de traitement en moyenne (méthode de la dernière observation reportée). Cette corrélation avec le taux d’expression de PD-L1 n’a pas été observée chez les patients traités par chimiothérapie.
+
+Dans la population générale de l’essai, la durée médiane d’exposition à Libtayo s’est établie à 27 semaines (intervalle : <1-115 semaines), contre 18 semaine pour la chimiothérapie (intervalle : <1-87 semaines). Globalement, des événements indésirables ont été rapportés chez 88 % des patients traités par Libtayo et 94 % des patients traités par chimiothérapie. Des événements indésirables de grade 3 ou plus ont été observé chez 37 % des patients traités par Libtayo et 49 % des patients traités par chimiothérapie. Des événements indésirables d’origine immunologique ont été rapportés chez 17 % des patients traités par Libtayo, en particulier les suivants : hypothyroïdie (6 %), hyperthyroïdie (4 %), pneumopathie (2 %), hépatite (2 %), effets indésirables cutanés (2 %), arthrite, élévation du taux de thyréostimuline (TSH) dans le sang, thyroïdite, colite, néphrite et neuropathie périphérique (1 % dans les deux cas). Les événements indésirables ont entraîné l’arrêt du traitement chez 6 % des patients traités par Libtayo et 4 % des patients traités par chimiothérapie. Aucun nouveau signal de sécurité concernant Libtayo n’a été observé.
+
+Libtayo est développé conjointement par Sanofi et Regeneron dans le cadre d’un accord de collaboration global. L’utilisation de Libtayo dans le traitement du CPNPC au stade avancé est expérimentale et aucun organisme de réglementation ne l’a encore pleinement évaluée.
+
+À propos de l’essai de phase III
+
+L’essai de phase III, multicentrique, randomisé, en ouvert, a évalué un traitement de première ligne par Libtayo en monothérapie, comparativement à un doublet de chimiothérapie à base de platine, chez des patients atteints d’un CPNPC épidermoïde ou non épidermoïde au stade avancé, dont 50 % ou plus des cellules tumorales exprimaient la protéine PD-L1, mais pas les protéines ALK, EGFR ou ROS1. L’expression des protéines PD-L1 a été confirmée au moyen du test PD-L1 IHC 22C3 pharmDx. L’essai a inclus 712 patients porteurs d’un CPNPC localement avancé (stade IIIB/C), non candidats à une résection chirurgicale ou à une chimioradiothérapie définitive ou dont la maladie avait progressé après une chimioradiothérapie définitive ou présentant un CPNPC métastatique (stade IV) n’ayant jamais été traité.
+
+Les patients ont été randomisés (selon un rapport de 1/1) soit vers le groupe Libtayo 350 mg par voie intraveineuse toutes les trois semaines pendant un maximum de 108 semaines, soit vers le groupe doublet de chimiothérapie standard à base de platine, choisi par l’investigateur, pendant 4 à 6 cycles (avec ou sans chimiothérapie d'entretien par pémétrexed dès lors que l’histologie n’est pas à prédominance épidermoïde). Les co-critères d’évaluation principaux de l’étude sont la survie globale et la survie sans progression, et les critères d’évaluation secondaires incluent le taux de réponse globale, la durée de la réponse et la qualité de vie.
+
+L’essai a été conçu pour tenir compte des paradigmes thérapeutiques actuels et émergents. Ainsi, les critères d’inclusion permettaient le recrutement de patients atteints d’un CPNPC qui pouvaient aussi présenter les caractéristiques suivantes : hépatite B contrôlée, hépatite C ou infection à VIH, métastases cérébrales prétraitées et stables et (ou) maladie au stade localement avancé ayant progressé sous chimioradiothérapie définitive. Les patients dont la maladie avait progressé pendant l’essai pouvaient changer de traitement : ceux du groupe chimiothérapie étaient autorisés à permuter vers le groupe Libtayo, tandis que ceux du groupe Libtayo étaient autorisés à combiner leur traitement par Libtayo à 4 à 6 cycles de chimiothérapie.
+
+Une analyse intermédiaire préspécifiée a été réalisée après obtention de 50 % des données relatives à la survie globale. Cette analyse intermédiaire ayant fait ressortir une amélioration hautement significative de la survie globale, l’essai a été modifié de manière à permettre à tous les patients de recevoir Libtayo, sur la base des recommandations du Comité indépendant chargé du suivi des données de l’essai.
+
+À propos du cancer du poumon non à petites cellules
+
+Le cancer du poumon est la principale cause de décès par cancer dans le monde. En 2020, plus de 2,2 millions de nouveaux cas devraient être diagnostiqués à l’échelle mondiale. Près de 85 % de tous les cancers pulmonaires sont des CPNPC et, chez environ 25 % à 30 % d’entre eux, 50 % ou plus des cellules tumorales devraient exprimer la protéine PD-L1. Bien que les immunothérapies aient transformé le traitement du CPNPC au stade avancé ces dernières années, il est encore nécessaire d’optimiser l’identification et le traitement des patients dont les tumeurs expriment la protéine PD-L1 et de leur proposer de nouvelles options thérapeutiques.
+
+À propos de Libtayo
+
+Libtayo est un anticorps monoclonal entièrement humain qui se lie au récepteur de checkpoint immunitaire PD-1 (récepteur-1 de mort cellulaire programmée) sur les lymphocytes T. Sa liaison au récepteur PD-1 permet d’empêcher les cellules tumorales d’emprunter le voie PD-1 et donc d’inhiber la fonction des lymphocytes T.
+
+Libtayo est le premier agent d’immunothérapie approuvé aux États-Unis, dans l’Union européenne et dans plusieurs autres pays pour le traitement de patients adultes atteints d’un carcinome épidermoïde cutané (CEC) métastatique ou localement avancé qui ne sont pas candidats à une chirurgie curative ni à une radiothérapie curative. Aux États-Unis, la dénomination générique de Libtayo dans son indication approuvée est cemiplimab-rwlc, le suffixe « rwlc » ayant été attribué conformément à la nomenclature publiée par la Food and Drug Administration des États-Unis (Nonproprietary Naming of Biological Products Guidance for Industry). En dehors des États-Unis, la dénomination générique de Libtayo, dans son indication approuvée, est cemiplimab.
+
+Le programme clinique étendu consacré à Libtayo porte sur des cancers difficiles à traiter. En ce qui concerne le cancer de la peau, il s’agit des essais consacrés au traitement adjuvant et néoadjuvant du CEC, ainsi que de l’essai pivot dans le traitement du carcinome basocellulaire au stade avancé. Libtayo fait également l’objet d’essais pivots dans le traitement du cancer bronchopulmonaire non à petites cellules (CPNPC) et du cancer du col de l’utérus, ainsi qu’en association avec des approches thérapeutiques, conventionnelles ou nouvelles, pour le traitement de tumeurs solides et de cancers hématologiques. Ces utilisations potentielles sont encore expérimentales et aucun organisme de réglementation ne les a encore évaluées.
+
+À propos de Regeneron Pharmaceuticals, Inc.
+
+Regeneron (NASDAQ: REGN) est une grande société de biotechnologie qui invente des médicaments aptes à transformer la vie des personnes atteintes de maladies graves. Fondée il y 30 ans et dirigée par des médecins-chercheurs, la capacité unique de l’entreprise à transformer ses recherches scientifiques en médicament a donné lieu au développement de sept médicaments, qui ont été approuvés par la FDA, et de plusieurs produits-candidats, tous issus de ses activités de recherche interne. Ses médicaments et son portefeuille de développement sont conçus pour aider les patients souffrant de maladies oculaires, de maladies allergiques et inflammatoires, de cancer, de maladies cardiovasculaires et métaboliques, de maladies infectieuses, de douleurs et de maladies rares.
+
+Regeneron accélère et améliore le processus de développement traditionnel des médicaments grâce à VelociSuite®, une suite unique de technologies dont fait partie VelocImmune®, qui fait appel à une souris humanisée unique pour le développement optimal d’anticorps entièrement humains et d’anticorps bispécifiques, ainsi qu’à des initiatives ambitieuses comme le Regeneron Genetics Center, l’un des plus grands centres de séquençage génétique du monde.
+
+Pour plus d’informations sur Regeneron, voir le site www.regeneron.com ou suivre @Regeneron sur Twitter.
+
+
+
+
+
+À propos de Sanofi
+
+
+
+
+
+
+
+La vocation de Sanofi est d’accompagner celles et ceux confrontés à des difficultés de santé. Entreprise biopharmaceutique mondiale spécialisée dans la santé humaine, nous prévenons les maladies avec nos vaccins et proposons des traitements innovants. Nous accompagnons tant ceux qui sont atteints de maladies rares, que les millions de personnes souffrant d’une maladie chronique.
+
+
+
+
+
+
+
+Sanofi et ses plus de 100 000 collaborateurs dans 100 pays transforment l'innovation scientifique en solutions de santé partout dans le monde.
+
+
+
+
+
+
+
+Sanofi, Empowering Life, donner toute sa force à la vie.
+
+
+
+
+
+
+
+
+
+
+
+Relations Médias Sanofi
+
+Sally Bain
+
+Tél.: +1 (781) 264-1091
+
+sally.bain@sanofi.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relations Médias Regeneron
+
+Daren Kwok
+
+Tél.: +1 914 847 1328
+
+daren.kwok@regeneron.com
+
+Relations Investisseurs Sanofi - Paris
+
+Eva Schaefer-Jansen
+
+Arnaud Delepine
+
+Yvonne Naughton
+
+
+
+
+
+
+
+Relations Investisseurs Sanofi – Amérique du Nord
+
+Felix Lauscher
+
+Fara Berkowitz
+
+Suzanne Greco
+
+
+
+
+
+
+
+Tél.: +33 (0)1 53 77 45 45
+
+ir@sanofi.com
+
+
+
+
+
+
+
+
+
+
+
+Relations Investisseurs Regeneron
+
+Vesna Tosic
+
+Tél.: +1 914 847 5443
+
+vesna.tosic@regeneron.com
+
+
+
+Déclarations prospectives - Sanofi
+
+Ce communiqué contient des déclarations prospectives. Ces déclarations ne constituent pas des faits historiques. Ces déclarations comprennent des projections et des estimations concernant la mise sur le marché et autre potentiel de ce produit, ou concernant les recettes futures envisagées pour ce produit. Ces déclarations prospectives peuvent souvent être identifiées par les mots « s'attendre à », « anticiper », « croire », « avoir l’intention de », « estimer », « planifier » ou « espérer», ainsi que par d’autres termes similaires. Bien que la direction de Sanofi estime que ces déclarations prospectives sont raisonnables, les investisseurs sont alertés sur le fait que ces déclarations prospectives sont soumises à de nombreux risques et incertitudes, difficilement prévisibles et généralement en dehors du contrôle de Sanofi, qui peuvent impliquer que les résultats et événements effectifs réalisés diffèrent significativement de ceux qui sont exprimés, induits ou prévus dans les informations et déclarations prospectives. Ces risques et incertitudes comprennent notamment les actions et contretemps réglementaires inattendus, ou généralement des réglementations étatiques, qui peuvent affecter la disponibilité ou le potentiel commercial de ce produit, le fait que ce produit pourrait ne pas rencontrer un succès commercial, les incertitudes inhérentes à la recherche et développement, les futures données cliniques et l’analyse des données cliniques existantes relatives à ce produit, y compris postérieures à la mise sur le marché, les problèmes inattendus de sécurité, de qualité ou de production, la concurrence de manière générale, les risques associés à la propriété intellectuelle, à tout litige futur en la matière et à l’issue de ces litiges, l’instabilité des conditions économiques et de marché, l’impact que la COVID-19 aura sur Sanofi, ses clients, fournisseurs et partenaires et leur situation financière, ainsi que sur ses employés et sur l’économie mondiale. Tout impact significatif sur ces derniers pourrait négativement impacter Sanofi. La situation évolue rapidement et d’autres conséquences que nous ignorons pourraient apparaitre et exacerber les risques précédemment identifiés. Ces risques et incertitudes incluent aussi ceux qui sont développés ou identifiés dans les documents publics déposés par Sanofi auprès de l'AMF et de la SEC, y compris ceux énumérés dans les rubriques « Facteurs de risque » et « Déclarations prospectives » du Document d’enregistrement universel 2019 de Sanofi, qui a été déposé auprès de l’AMF ainsi que dans les rubriques « Risk Factors » et « Cautionary Statement Concerning Forward-Looking Statements » du rapport annuel 2019 sur Form 20-F de Sanofi, qui a été déposé auprès de la SEC. Sanofi ne prend aucun engagement de mettre à jour les informations et déclarations prospectives sous réserve de la réglementation applicable notamment les articles 223-1 et suivants du règlement général de l’Autorité des marchés financiers.
+
+
+
+Déclarations prospectives et utilisation des médias numériques - Regeneron
+
+Ce communiqué de presse contient des déclarations prospectives concernant des risques et des incertitudes liés à des événements futurs et à la performance future de Regeneron Pharmaceuticals, Inc. («Regeneron» ou la «Société»). Les événements ou résultats réels peuvent différer considérablement de ces informations prospectives. Des termes tels que « anticiper », « s'attendre à », « avoir l’intention », « planifier », « croire », « rechercher », « estimer », des variantes de ces termes et des expressions similaires ont pour but d’identifier ces déclarations prospectives, bien que toutes les déclarations prospectives ne contiennent pas ces termes explicites. Ces déclarations concernent, et ces risques et incertitudes incluent, entre autres, l’impact que le SARS-CoV-2 (le virus à l’origine de la pandémie de COVID-19) peut avoir sur les activités, les employés, les collaborateurs et les fournisseurs de Regeneron, ainsi que sur les autres tiers sur lesquels compte l’entreprise, sur l’aptitude de Regeneron et de ses collaborateurs à poursuivre la conduite des programmes de recherche et cliniques (y compris ceux dont il est question dans le présent communiqué de presse), sur la capacité de Regeneron à gérer sa chaîne d’approvisionnement, les ventes nettes des produits commercialisés par Regeneron et (ou) ses collaborateurs (ci-après, les « produits de Regeneron »), et sur l’économie mondiale ; la nature, le calendrier, ainsi que le succès et les applications thérapeutiques possibles des produits et produits-candidats de Regeneron et des programmes de recherche et cliniques en cours ou prévus, y compris, sans limitation, ceux consacrés à Libtayo® (cemiplimab) ; la probabilité, le moment et l’étendue d’une éventuelle approbation réglementaire et du lancement commercial des produits-candidats et des nouvelles indications pour les produits de Regeneron, tels que Libtayo dans le traitement du cancer du poumon non à petites cellules, du carcinome basocellulaire, du traitement adjuvant et néoadjuvant du carcinome épidermoïde cutané et du cancer du col de l’utérus (ainsi que dans le cadre d’essais associant Libtayo à des approches thérapeutiques conventionnelles ou nouvelles pour le traitement de tumeurs solides et de cancers hématologiques, selon le cas) ; l’incertitude de l'acceptation sur le marché et du succès commercial des produits et produits-candidats de Regeneron et l’impact des études (qu'elles soient conduites par Regeneron ou autres et qu'elles soient mandatées ou volontaires) sur le succès commercial de tels produits et produits- candidats ; les problèmes de sécurité imprévus résultant de l'administration des produits et produits candidats de Regeneron chez des patients, y compris des complications graves ou des effets indésirables liés à l'utilisation des produits (comme Libtayo) et produits-candidats de Regeneron dans le cadre d’essais cliniques ; les décisions des autorités réglementaires et administratives susceptibles de retarder ou de limiter la capacité de Regeneron à continuer de développer ou de commercialiser ses produits et ses produits-candidats ; les obligations réglementaires et la surveillance en cours ayant une incidence sur les produits de Regeneron (comme Libtayo), les programmes de recherche et cliniques et les activités commerciales, y compris celles relatives à la vie privée des patients ; la disponibilité et l'étendue du remboursement des produits de Regeneron par les tiers payeurs, HMO, organismes de gestion des soins et régimes publics tels que Medicare et Medicaid ; les décisions en matière de prise en charge et de remboursement par ces tiers payeurs et les nouvelles politiques et procédures qu’ils sont susceptibles d’adopter ; la possibilité que des médicaments ou candidats-médicaments concurrents soient supérieurs aux produits et produits-candidats de Regeneron ou qu’ils présentent un profil coût-efficacité supérieur ; la mesure dans laquelle les résultats des programmes de recherche et développement menés par Regeneron ou ses collaborateurs peuvent être répliqués dans le cadre d’autres études et (ou) conduire à des essais cliniques, à des applications thérapeutiques ou des approbations réglementaires ; la capacité de Regeneron à fabriquer et à gérer des chaînes d’approvisionnement pour plusieurs produits et produits-candidats ; la capacité des collaborateurs, fournisseurs ou autres tierces parties de Regeneron (le cas échéant) d’effectuer la fabrication, le remplissage, la finition, l’emballage, l’étiquetage, la distribution et d’autres étapes liées aux produits et produits-candidats de Regeneron ; les dépenses imprévues ; les coûts de développement, de production et de vente de produits ; la capacité de Regeneron à respecter ses prévisions ou ses prévisions financières et à modifier les hypothèses sous-jacentes ; la possibilité que tout accord de licence ou de collaboration, y compris les accords de Regeneron avec Sanofi, Bayer et Teva Pharmaceutical Industries Ltd. (ou leurs sociétés affiliées respectives, le cas échéant), soient annulés ou résiliés sans autre succès du produit ; et les risques liés à la propriété intellectuelle d’autres parties et aux litiges en cours ou futurs, y compris, sans limitation, les litiges en matière de brevets et autres procédures connexes relatives à Eylea® (aflibercept), solution injectable, Dupixent® et Praluent® (alirocumab), tout autre contentieux et toute autre procédure et enquête gouvernementale sur l’entreprise et (ou) ses activités, l’issue de toute procédure de ce type et l’impact que ce qui précède peut avoir sur les activités, les perspectives, les résultats d’exploitation et la situation financière de Regeneron. Une description plus complète de ces risques, ainsi que d’autres risques importants, figure dans les documents déposés par Regeneron auprès de la Securities and Exchange Commission des États-Unis, en particulier dans son Form 10-K pour l’exercice clos le 31 décembre 2019 et dans son Form 10-Q pour le trimestre clos le 30 juin 2020 .Toutes les déclarations prospectives sont fondées sur les convictions et le jugement actuels de la direction et le lecteur est prié de ne pas se fier aux déclarations prospectives formulées par Regeneron. Regeneron n’assume aucune obligation de mise à jour publique des déclarations prospectives, y compris, notamment, des projections ou des prévisions financières, que ce soit à la suite de nouvelles informations, d’événements futurs ou autrement.
+
+
+
+Regeneron utilise son site Web dédié aux relations avec les investisseurs et aux relations avec les médias ainsi que ses réseaux sociaux pour publier des informations importantes sur la Société, y compris des informations qui peuvent être considérées comme importantes pour les investisseurs. Les informations financières et autres concernant Regeneron sont régulièrement publiées et accessibles sur son site Web dédié aux relations avec les investisseurs et aux relations avec les médias (http://newsroom.regeneron.com) et sur son fil Twitter ( http://twitter.com/regeneron ).
+
+
+
+
+
+Pièce jointe

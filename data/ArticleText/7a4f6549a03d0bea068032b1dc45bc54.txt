@@ -1,0 +1,91 @@
+3 TRIAL SHOWS EFFICACY OF FILGOTINIB FOR THE INDUCTION AND MAINTENANCE OF REMISSION IN MODERATELY AND SEVERELY ACTIVE ULCERATIVE COLITIS Brussels Stock Exchange:GLPG. -- Filgotinib 200mg Achieved Endoscopic, Histologic and Six-Month Corticosteroid-Free Remission at Week 58 with a Consistent Safety Profile --
+
+-- Study Enrolled Biologic-Naïve and Biologic-Experienced Patients, a High Proportion of Whom Were Highly Refractory --
+
+Foster City, Calif., & Mechelen, Belgium, October 12, 2020, 15.15 CET – Gilead Sciences, Inc. (Nasdaq: GILD) and Galapagos NV (Euronext & Nasdaq: GLPG) today presented late-breaking data demonstrating sustained efficacy and safety with filgotinib, an investigational, oral, once-daily, JAK1 preferential inhibitor, for the treatment of moderately to severely active ulcerative colitis (UC). The data from the randomized, double-blind, placebo-controlled, Phase 2b/3 SELECTION trial showed that a significantly higher proportion of patients treated with filgotinib 200 mg, versus placebo, achieved clinical remission at Week 10 and maintained remission through Week 58. In addition, significantly more patients achieved six-month corticosteroid-free remission. The full results were presented today at the 2020 United European Gastroenterology Week (UEGW) Virtual Meeting (Abstracts #LB19 and #LB20).
+
+UC is a longer-term condition characterized by inflammation of the mucosal lining of the colon and rectum. An increasingly prevalent disease, UC has a significant impact on the quality of life of more than 2 million people around the world. Despite current treatments, many patients experience fecal urgency, incontinence, recurring bloody diarrhea, and the need to empty their bowels frequently, often accompanied by abdominal pain, poor sleep and fatigue.
+
+“There remains a tremendous need for treatments that can achieve meaningful and sustained clinical outcomes in ulcerative colitis,” said Laurent Peyrin-Biroulet, MD, PhD, Gastroenterology Department at Lorraine University in France, and presenting investigator of the SELECTION maintenance study. “These study results showed that filgotinib reduced bleeding and stool frequency while also achieving remission across a range of measures, including endoscopy and histology, in an oral formulation.”
+
+The SELECTION study included biologic-naïve patients, for whom prior conventional therapy had failed, as well as biologic-experienced patients, a high proportion of whom had been non-responders to at least two different lines of prior biologics. In total, 43 percent of patients in the biologic-experienced cohort had failed treatment with both a TNF inhibitor and vedolizumab. The study allowed the enrollment of patients who were taking steroids, and/or immunomodulators, including methotrexate, mercaptopurine (6-MP) or azathioprine, as they would in real-world clinical practice.
+
+Efficacy Data of Filgotinib in Induction and Maintenance
+
+Overall, 1,348 biologic-naïve or biologic-experienced adult patients with moderately to severely active UC were randomized and treated in the SELECTION study. Among biologic-naïve patients treated with filgotinib 200 mg, a significantly higher proportion of patients achieved clinical remission at Week 10 compared with placebo (26.1% vs. 15.3%, p=0.0157). Additionally, a significantly higher proportion of biologic-naïve patients treated with filgotinib 200 mg versus placebo achieved Mayo Clinic Score (MCS) remission (24.5% vs. 12.4%, p=0.0053), endoscopic remission (12.2% vs. 3.6%, p=0.0047) and histologic remission (35.1% vs. 16.1%, p<0.0001). A significantly higher proportion of biologic-experienced patients treated with filgotinib 200mg achieved clinical remission at Week 10 compared with placebo (11.5% vs. 4.2%, p=0.0103).
+
+Patients treated with filgotinib who achieved clinical response or remission at Week 10 were re-randomized to their induction dose of filgotinib or placebo in a 2:1 ratio and treated through Week 58 (Maintenance Trial, n=558). At Week 58, 37.2 percent of patients receiving filgotinib 200 mg achieved clinical remission, compared with 11.2 percent of patients treated with placebo (p˂0.0001). A significantly higher proportion of those treated with filgotinib 200 mg versus placebo achieved sustained clinical remission (18.1% vs. 5.1%, p=0.0024), MCS remission (34.7% vs. 9.2%, p<0.0001), endoscopic remission (15.6% vs. 6.1%, p=0.0157) and histologic remission (38.2% vs. 13.3%, p<0.0001). Additionally, a significantly higher proportion of patients treated with filgotinib 200 mg achieved six-month corticosteroid-free clinical remission at Week 58 compared with placebo (27.2% vs. 6.4%, p=0.0055).
+
+Safety Outcomes with Filgotinib in Ulcerative Colitis
+
+Overall, the incidence of adverse events (AEs), serious AEs and discontinuations due to AEs were similar in the filgotinib and placebo groups in both the induction and maintenance periods of the study. Serious infections, herpes zoster, venous thrombosis, pulmonary embolism and gastrointestinal perforation were infrequent and comparable across treatment groups. The most common adverse events of interest in the induction trials were serious infections (1.1% filgotinib 100 mg, 0.6% filgotinib 200 mg, 1.1% placebo), herpes zoster (0.2% filgotinib 100 mg, 0.6% filgotinib 200 mg, 0.0% placebo), opportunistic infections (0.0% filgotinib 100 mg, 0.2% filgotinib 200 mg, 0.0% placebo) and pulmonary embolism (0.0% filgotinib 100 mg, 0.2% filgotinib 200 mg, 0.0% placebo). In the maintenance trial, the most common adverse events of interest were serious infections (1.7% filgotinib 100 mg, 1.0% filgotinib 200 mg, 1.1% placebo), herpes zoster (0.0% filgotinib 100 mg, 0.5% filgotinib 200 mg, 0.0% placebo) and venous thrombosis (0.0% filgotinib 100 mg, 0.0% filgotinib 200 mg, 2.2% placebo). Two deaths were observed in the filgotinib 200 mg treatment group in the maintenance trial; both adverse events leading to deaths were considered by the study investigators to be unrelated to study drug.
+
+“Ulcerative colitis is a complex and unpredictable condition that can impact people in the prime of their lives. Despite treatment, people with UC can experience symptoms that have a significant impact on their quality of life,” said Mark Genovese, MD, Senior Vice President, Inflammation, Gilead Sciences. “We are pleased to share these data on the use of filgotinib in UC as we work to identify new treatment options to address unmet needs across a range of inflammatory diseases.”
+
+“The SELECTION study assessed the efficacy and safety of filgotinib in some of the most difficult-to-treat patients with ulcerative colitis, including a high proportion of patients who were refractory to biologic treatment and in need of new treatment options,” said Dr. Walid Abi-Saab, Chief Medical Officer, Galapagos. “The efficacy and safety data seen with filgotinib in this patient population add to the growing body of evidence demonstrating the potential this once-daily treatment may offer patients living with this debilitating condition.”
+
+About the SELECTION Phase 2b/3 Trial
+
+The SELECTION Phase 2b/3 trial is a multi-center, randomized, double-blind, placebo-controlled trial to assess the safety and efficacy of the JAK1 preferential inhibitor, filgotinib in adult patients with moderately to severely active UC. The SELECTION trial comprises two induction trials and a maintenance trial. The Induction Study A enrolled biologic-naïve patients, and the Induction Study B enrolled biologic-experienced patients.
+
+Across both induction studies, patients with moderately to severely active UC were randomized to receive filgotinib 200 mg, filgotinib 100 mg or placebo in a 2:2:1 ratio. Moderately to severely active UC was defined as a centrally read endoscopy score ≥ 2, a rectal bleeding score ≥ 1, a stool frequency score ≥ 1 and Physician Global Assessment (PGA) of ≥ 2 based on the MCS. Patients with clinical remission or response at Week 10 of induction were subsequently re-randomized to the induction dose of filgotinib or placebo in a 2:1 ratio and treated through Week 58.
+
+The primary objectives of SELECTION were to evaluate the efficacy of filgotinib compared with placebo in establishing clinical remission as determined by the Mayo endoscopic subscore of 0 or 1, rectal bleeding subscore of 0, and ≥ 1-point decrease in stool frequency from baseline to achieve a subscore of 0 or 1 at Week 10 in the induction studies and Week 58 in the maintenance study. Eligible patients who were enrolled in the SELECTION trial were enrolled in the ongoing SELECTION long-term extension trial to evaluate the long-term safety of filgotinib in patients with moderately to severely active UC.
+
+About Filgotinib
+
+Filgotinib (200 mg and 100 mg tablets) is approved in Europe and Japan for the treatment of adults with moderately to severely active rheumatoid arthritis (RA) who have responded inadequately or are intolerant to one or more disease modifying anti-rheumatic drugs (DMARDs). Full European Summary of Product Characteristics for filgotinib are available from the European Medicines Agency (EMA) website at www.ema.europa.eu and the interview form from the Japanese Ministry of Health, Labour and Welfare (MHLW) is available at www.info.pmda.go.jp . Filgotinib is not approved anywhere for the treatment of ulcerative colitis.
+
+About the Filgotinib Collaboration
+
+Gilead and Galapagos NV are collaborative partners in the global development of filgotinib in rheumatoid arthritis, inflammatory bowel disease and other inflammatory indications. The companies are conducting global studies investigating the potential role of filgotinib in a variety of diseases, including the Phase 3 SELECTION trial in UC and an actively enrolling Phase 3 trial in Crohn’s Disease (DIVERSITY).
+
+More information about clinical trials with filgotinib can be accessed at: www.clinicaltrials.gov .
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a research-based biopharmaceutical company that discovers, develops and commercializes innovative medicines in areas of unmet medical need. The company strives to transform and simplify care for people with life-threatening illnesses around the world. Gilead has operations in more than 35 countries worldwide, with headquarters in Foster City, California. For more information on Gilead Sciences, please visit the company’s website at www.gilead.com .
+
+About Galapagos
+
+Galapagos NV discovers and develops small molecule medicines with novel modes of action, three of which show promising patient results and are currently in late-stage development in multiple diseases. Our pipeline comprises discovery through Phase 3 programs in inflammation, fibrosis, osteoarthritis and other indications. Our ambition is to become a leading global biopharmaceutical company focused on the discovery, development and commercialization of innovative medicines. More information at www.glpg.com .
+
+Gilead Forward-Looking Statement
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors. There is also the possibility of unfavorable results from ongoing and additional clinical trials involving filgotinib, including the SELECTION long-term extension trial and the DIVERSITY trial. Further, it is possible that the parties may make a strategic decision to discontinue development of ﬁlgotinib for the treatment of ulcerative colitis or other indications, and as a result, filgotinib may never be successfully commercialized for the treatment of ulcerative colitis or other indications. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. These risks, uncertainties and other factors could cause actual results to diﬀer materially from those referred to in the forward-looking statements. The reader is cautioned not to rely on these forward-looking statements. These and other risks are described in detail in Gilead’s Form 10-Q for the quarter ended June 30, 2020, as filed with the U.S. Securities and Exchange Commission. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation to update any such forward-looking statements.
+
+Galapagos Forward-Looking Statement
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, that are subject to risks, uncertainties and other factors that could cause actual results to diﬀer materially from those referred to in the forward-looking statements and, therefore, the reader should not place undue reliance on them. These risks, uncertainties and other factors include, without limitation, the risk that ongoing and future clinical studies with filgotinib may not be completed in the currently envisaged timelines or at all, the inherent uncertainties associated with competitive developments, clinical trial and product development activities and regulatory approval requirements (including that data from the ongoing and planned clinical research programs may not support registration or further development of filgotinib for ulcerative colitis or other indications due to safety, efficacy or other reasons), Galapagos' reliance on collaborations with third parties (including our collaboration partner for filgotinib, Gilead) and that Galapagos’ estimations regarding its filgotinib development program and regarding the commercial potential of filgotinib, may be incorrect, as well as those risks and uncertainties identified in our Annual Report on Form 20-F for the year ended 31 December 2019 and our subsequent filings with the SEC. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The forward-looking statements contained herein are based on management’s current expectations and beliefs and speak only as of the date hereof, and Galapagos makes no commitment to update or publicly release any revisions to forward-looking statements in order to reflect new information or subsequent events, circumstances or changes in expectations.
+
+# # #
+
+Contacts Galapagos
+
+Investors: Media:
+
+Elizabeth Goodwin Carmen Vroonen
+
+VP IR Global Head of Communications & Public Affairs
+
++1 781 460 1784 +32 473 824 874
+
+
+
+Sofie Van Gijsel Anna Gibbins
+
+Senior Director IR Senior Communications Director – Therapeutic Areas
+
++32 485 19 14 15 +44 (0) 7717 801900
+
+ir@glpg.com communications@glpg.com
+
+Contacts Gilead
+
+Investors: Media:
+
+Douglas Maffei, PhD Marian Cutler
+
++1 650 522-2739 +1 (973) 517-0519
+
+Attachment

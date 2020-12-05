@@ -1,0 +1,45 @@
+Children’s Mercy Kansas City Teams Up with Pacific Biosciences to Fight Rare Disease. KANSAS CITY, Mo., and MENLO PARK, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- Children’s Mercy Kansas City, one of the nation’s top pediatric medical systems, and Pacific Biosciences of California, Inc. (Nasdaq:PACB), a leading provider of high-quality sequencing of genomes, transcriptomes and epigenomes, today announced a collaboration designed to further understand the most challenging pediatric diseases. The organizations will team up to sequence a statistically significant cohort of rare disease cases for which previous whole-genome and whole-exome sequencing studies yielded no answers.
+
+
+
+“Children’s Mercy leads with a vision that excellence in pediatric translational research will lead to improved care for sick children,” said Tomi Pastinen, MD, PhD, director of the Center for Pediatric Genomic Medicine at Children’s Mercy. “We are delighted to be collaborating with the innovative scientists at PacBio as we bring their long-read sequencing data to bear on some of our most difficult cases of rare pediatric disease to give patients and families the answers they deserve.”
+
+It is estimated that as many as 25 million Americans — approximately 1 in 13 people — are affected by a rare, and often undiagnosed, condition. In rare disease studies, conventional techniques for whole-genome and whole-exome analysis based on short-read sequencing typically lead to identification of a causal variant in less than 50% of cases. Utilizing PacBio’s Single Molecule, Real-Time (SMRT®) Sequencing technology to generate highly accurate long reads, known as HiFi reads , clinical researchers have demonstrated that they can detect disease-causing structural and small variants missed by short-read sequencing platforms. This new study is designed to evaluate the rate at which HiFi sequencing identifies overlooked causal variation.
+
+The Children’s Mercy Research Institute at Children’s Mercy has launched Genomic Answers for Kids (GA4K), a first-of-its-kind clinical data repository to facilitate the search for answers and novel treatments for pediatric genetic conditions. The goal is to collect genomic data and health information for 30,000 children and their families over the next seven years, ultimately creating a database of nearly 100,000 genomes. Children’s Mercy has recently invested in Sequel II Systems to incorporate HiFi sequencing into this effort. As part of the new collaboration, scientists will evaluate the ability of HiFi data to reproduce all variants previously detected by short-read methods and to identify novel variants that could explain disease phenotypes.
+
+Children’s Mercy and PacBio will be working with the Microsoft Genomics team to build Microsoft Azure cloud-based analysis solutions and a data repository for this unique data set.
+
+“The diagnosis journey for a child with a rare disease and their families can be long and often inconclusive. We believe the advancement of precision medicine with specialized technologies will be key to gaining a better understanding and early diagnosis of these debilitating and deadly diseases,” said Gregory Moore, MD, PhD, corporate vice president, Microsoft Health. “We are pleased to be working with the Children’s Mercy and PacBio teams to bring the power of our trusted cloud and AI technologies to have a transformative impact on the lives of these children.”
+
+Christian Henry, Chief Executive Officer of Pacific Biosciences, commented: “PacBio is proud to partner with Children's Mercy to develop advanced genome sequencing and analysis methods for children with rare diseases — with the ultimate goal of improving diagnostic yields. Our HiFi sequencing technology is unique in its ability to provide genetic insights for phenotypes of interest, previously undetectable by short-read sequencing methods. We look forward to making a meaningful impact by increasing solve rates through this important partnership.”
+
+More information about how Children’s Mercy scientists are using HiFi sequencing will be presented in PacBio’s ancillary workshop Monday, October 26, from 1:00 pm - 2:00 pm ET during the American Society of Human Genetics (ASHG) Annual Meeting . Emily Farrow, PhD, CGC, Director of Laboratory Operations at the Genomic Medicine Center at Children’s Mercy, will give a talk entitled “Applications of Third Generation Sequencing in Unsolved Disease.” Free virtual event registration is available here .
+
+About Children’s Mercy Kansas City
+
+Founded in 1897, Children’s Mercy is one of the nation’s top pediatric medical centers. With not-for-profit hospitals in Missouri and Kansas, and numerous specialty clinics in both states, Children’s Mercy provides the highest level of care for children from birth through the age of 21. U.S. News & World Report has repeatedly ranked Children’s Mercy as one of “America's Best Children's Hospitals.” For the fourth time in a row, Children’s Mercy has achieved Magnet nursing designation, awarded to only about eight percent of all hospitals nationally, for excellence in quality care. Its faculty of more than 800 pediatric subspecialists and researchers across more than 40 subspecialties are actively involved in clinical care, pediatric research, and educating the next generation of pediatric subspecialists. Thanks to generous philanthropic and volunteer support, Children’s Mercy provides medical care to every child who passes through its doors, regardless of a family’s ability to pay. For more information about Children’s Mercy and its research, visit childrensmercy.org . For breaking news and videos, follow us on Twitter , YouTube and Facebook .
+
+About Pacific Biosciences
+
+Pacific Biosciences of California, Inc. (NASDAQ: PACB) is empowering life scientists with highly accurate long-read sequencing. The company’s innovative instruments are based on Single Molecule, Real-Time (SMRT®) Sequencing technology, which delivers a comprehensive view of genomes, transcriptomes, and epigenomes, enabling access to the full spectrum of genetic variation in any organism. Cited in thousands of peer-reviewed publications, PacBio ® sequencing systems are in use by scientists around the world to drive discovery in human biomedical research, plant and animal sciences, and microbiology. For more information please visit www.pacb.com and follow @PacBio .
+
+PacBio products are provided for Research Use Only. Not for use in diagnostic procedures.
+
+Forward-Looking Statements
+
+All statements in this press release that are not historical are forward-looking statements, including, among other things, statements relating to market leadership, uses, accuracy, presentations regarding, quality or performance of, or benefits of using, our products or technologies, including SMRT technology, the suitability or utility of our methods, products or technologies for particular applications or projects, the expected benefits and expected achievement of the goals of the research collaboration with Children’s Mercy and Microsoft, the ability of the Company to be successful in reaching its technological and commercial potential, and other future events. You should not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties, changes in circumstances and other factors that are, in some cases, beyond Pacific Biosciences’ control and could cause actual results to differ materially from the information expressed or implied by forward-looking statements made in this press release. Factors that could materially affect actual results can be found in Pacific Biosciences’ most recent filings with the Securities and Exchange Commission, including Pacific Biosciences’ most recent reports on Forms 8-K, 10-K and 10-Q, and include those listed under the caption “Risk Factors.” Pacific Biosciences undertakes no obligation to revise or update information in this press release to reflect events or circumstances in the future, even if new information becomes available.
+
+Contacts
+
+For Children’s Mercy Kansas City
+
+Marlene Bentley 816.302-0363
+
+mjbentley@cmh.edu
+
+For PacBio
+
+Media: Colin Sanford 203.918.4347
+
+colin@bioscribe.com
